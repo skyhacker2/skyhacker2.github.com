@@ -8,12 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : NovemberEleven's Blog
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : NovemberEleven
+  email : skyhacker@126.com
+  github : skyhacker2
   twitter : username
   feedburner : feedname
 
