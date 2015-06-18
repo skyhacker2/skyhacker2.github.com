@@ -1,5 +1,5 @@
 # Android实现App自动重启
-> 2015
+
 使用PendingIntent和AlarmManager
 
 ```

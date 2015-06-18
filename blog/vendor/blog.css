@@ -68,7 +68,7 @@ blockquote {
 }
 .sidebar-header {
     background-color: #009688;
-    padding-left: 2%;
+    padding-left: 2rem;
     padding-right: 2%;
 }
 .sidebar-header blockquote{
@@ -78,6 +78,9 @@ blockquote {
 }
 .sidebar-header p {
     color: #fff;
+}
+#sidebar-header {
+    padding-left: 0;
 }
 /*.sidebar-header .sidebar-inner {
     padding: 2% 5%;
@@ -101,9 +104,9 @@ blockquote {
 .sidebar blockquote {
     color: #999;
 }
-.sidebar img {
+/*.sidebar img {
     margin-left: 10%
-}
+}*/
 .sidebar-page ul {
     padding: 0;
     margin: 0;
@@ -157,7 +160,7 @@ blockquote {
 .avatar {
    border-radius: 50%;
    padding: 3px;
-   max-width: 70%;
+   max-width: 50%;
 }
 /*.sidebar-item{
     transition:margin-left 0.5s;
