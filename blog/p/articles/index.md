@@ -1,7 +1,7 @@
 # 分类
 
 ##[通用编程](./通用编程/index.md)
-##[Android](./Android/index.md)
+##[Android](./android/index.md)
 
 # 2015
 ##[mvc](mvc.md)

@@ -46,6 +46,8 @@
         isSidebar = isSidebar || false;
 
         p_url = baseUrl + file_path;
+        // console.log(getPageBase(p_url));
+
 
         $.get(p_url, function(data) {
             marked.setOptions({
@@ -108,6 +110,13 @@
                     } else {
                         $(item).addClass('img-center');
                     }
+                    var src = $(item).attr('src');
+                    if (src[0] == '.') {
+                        src = src.substring(2, src.length);
+                        var url = getPageBase(p_url);
+                        src = url + src;
+                        $(item).attr('src', src);
+                    }
                 });
             }
             //sidebar
@@ -120,12 +129,12 @@
                 });
             }
             //处理图片链接
-            $.each(_selector.find('img'), function(index, item) {
-                $e = $(item);
-                if ($e.attr('src').indexOf('__IMG__') == 0) {
-                    $e.attr('src', $e.attr('src').replace('__IMG__', img_root));
-                }
-            });
+            // $.each(_selector.find('img'), function(index, item) {
+            //     $e = $(item);
+            //     if ($e.attr('src').indexOf('__IMG__') == 0) {
+            //         $e.attr('src', $e.attr('src').replace('__IMG__', img_root));
+            //     }
+            // });
 
         }).fail(function(err) {
             if (err.status === 404) {

@@ -149,10 +149,10 @@ blockquote {
     display: block;
     margin: 15px auto 15px 0px;
 }
-.img-center{
+/*.img-center{
     display: block;
     margin: 15px auto 15px auto;
-}
+}*/
 .img-right{
     display: block;
     margin: 15px 0px 15px auto;
@@ -171,6 +171,19 @@ blockquote {
 .sidebar-item:hover{
     margin-left:13px;
 }*/
+.download-btn {
+    display: inline-block;
+    background-color: #009688 !important;
+    color: #fff !important;
+    line-height: 38px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    border-radius: 4px !important;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+}
+.download-btn:hover {
+    background-color: #4DB6AC !important;
+}
 
 @media (max-width: 480px){
   .sidebar-inner li {
