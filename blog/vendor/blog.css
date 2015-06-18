@@ -139,7 +139,6 @@ blockquote {
     margin-top: 40px;
     padding-top: 20px;
     padding-bottom:4px;
-    border-top: 1px solid #eee;
     color: #777;
     font-size: 14px;
 }
@@ -169,6 +168,7 @@ blockquote {
 .sidebar-item:hover{
     margin-left:13px;
 }*/
+
 @media (max-width: 480px){
   .sidebar-inner li {
         display: inline-block;

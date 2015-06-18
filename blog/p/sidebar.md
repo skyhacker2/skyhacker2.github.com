@@ -1,3 +1,3 @@
+- [文章](articles/index.md)
 - [项目](projects/index.md)
-- [专业](profession.md)
 - [关于](about.md)
