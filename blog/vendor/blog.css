@@ -203,7 +203,7 @@ blockquote {
         top: 0;
         bottom: 0;
         left: 0;
-        width: 25%;
+        width: 20%;
     }
     .sidebar-header .sidebar-inner {
         padding: 5% 15%;
@@ -212,8 +212,8 @@ blockquote {
         padding: 5% 0%;
     }
     .main {
-        margin-left: 25%;
-        width: 75%;
+        margin-left: 20%;
+        width: 80%;
     }
 }
 /* 多说评论框*/
