@@ -1,0 +1,20 @@
+img:hover {
+    -webkit-transform: translate(0, -5px);
+    -moz-transform: translate(0, -5px);
+    -ms-transform: translate(0, -5px);
+    -o-transform: translate(0, -5px);
+    transform: translate(0, -5px);
+    -webkit-box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
+    -moz-box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
+    box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
+}
+img {
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+    -webkit-transition-duration: .25s;
+    -moz-transition-duration: .25s;
+    -o-transition-duration: .25s;
+}

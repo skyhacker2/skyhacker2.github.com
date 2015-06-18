@@ -1,6 +1,3 @@
-# [Fritx's Blog](..)
-
-> Life is short, I use JS.
-
-- [Projects](projects/index.md)
-- [About Me](aboutme.md)
+- [项目](projects/index.md)
+- [专业](profession.md)
+- [关于](about.md)

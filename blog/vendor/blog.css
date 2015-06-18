@@ -1,146 +1,221 @@
 html, body {
-  margin: 0;
-  padding: 0;
-  line-height: 1.5;
-  font-size: 106%;
-  /* font-family: "Microsoft Yahei", sans-serif; */
-  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
-  word-break: break-word;
-  /* word-break: break-all; */
-  background-color: #fff;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-size: 106%;
+    font-family: "Microsoft YaHei", sans-serif;
+    background-color: #fff;
 }
-
 img {
-  border: 0;
-  max-width: 100%;
-  /* height: auto; */
+    max-width: 100%;
+    height: auto;
 }
-ul, ol {
-  padding-left: 30px;
-}
-a {
-  color: rgb(0, 0, 238);
-}
-
 /* learnt from github */
+
 pre, code {
-  font-family: Consolas, "Liberation Mono", Courier, monospace, sans-serif;
-  background-color: #f7f7f7;
-  border-radius: 3px;
+    font-family: Consolas, "Liberation Mono", Courier, monospace, sans-serif;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 3px;
 }
 pre {
-  font-size: 60%;
-  line-height: 160%;
-  padding: 16px;
-  margin: 0;
-  overflow: auto;
-  word-break: normal;
-  word-wrap: normal;
+    padding: 6px 10px;
+    overflow: auto;
+    font-size: 60%;
+    line-height: 160%;
 }
 code {
-  padding: 2px 5px;
-  margin: 0 2px;
+    padding: 2px 5px;
+    margin: 0 2px;
 }
 pre > code {
-  border: none;
-  background-color: inherit;
-  padding: 0;
-  margin: 0;
+    border: none;
+    background-color: inherit;
+    padding: 0;
+    margin: 0;
 }
 table {
-  font-size: 80%;
-  width: 100%;
-  overflow: auto;
-  word-break: normal;
-  display: block;
-  margin: 15px 0;
-  border-collapse: collapse;
-  border-spacing: 0;
+    font-size: 80%;
+    width: 100%;
+    overflow: auto;
+    display: block;
+    margin: 15px 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 table th, table td {
-  border: 1px solid #ddd;
-  padding: 6px 13px;
-  min-width: 4em;
+    border: 1px solid #ddd;
+    padding: 6px 13px;
+    min-width: 4em;
 }
 table tr {
-  border-top: 1px solid #ccc;
-  background-color: #fff;
+    border-top: 1px solid #ccc;
+    background-color: #fff;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+    background-color: #f8f8f8;
 }
 blockquote {
-  margin: 15px 0;
-  border-left: 4px solid #DDD;
-  padding: 0 15px;
-  color: #777;
+    margin: 15px 0;
+    border-left: 4px solid #DDD;
+    padding: 0 15px;
+    color: #777;
 }
-
 .sidebar {
-  color: #fff;
-  background-color: #2a2a2a;
+    color: #fff;
+    background-color: #f5f5f5;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
+.sidebar-header {
+    background-color: #009688;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.sidebar-header blockquote{
+    border: 0px;
+    padding-left: 0px;
+    color: #fff; 
+}
+.sidebar-header p {
+    color: #fff;
+}
+/*.sidebar-header .sidebar-inner {
+    padding: 2% 5%;
+}*/
 .sidebar-inner {
-  padding: 2% 5%;
+    padding: 2% 5%;
+}
+.sidebar-inner a {
+    text-decoration: none;
+}
+.sidebar-inner li {
+    padding-top: 12px;
 }
 .sidebar a {
-  color: #fff;
+    color: #fff;
 }
 .sidebar h1 a {
-  text-decoration: none;
+    text-decoration: none;
+    font-size: 20px;
 }
 .sidebar blockquote {
-  color: #999;
+    color: #999;
 }
-
+.sidebar img {
+    margin-left: 10%
+}
+.sidebar-page ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.sidebar-page li {
+    padding: 0;
+}
+.sidebar-page a {
+    color: #000000;
+    display: block;
+    padding-left: 2.0rem;
+    padding-right: 2.0rem;
+    font-size: 15px;
+    line-height: 64px;
+}
+.sidebar-page a:hover {
+    background-color: #E0E0E0;
+}
 .main-inner {
-  padding: 2% 5% 6%;
+    padding: 2% 5% 3%;
 }
 .main-page {
-  padding-bottom: 3%;
+    padding-bottom: 3%;
 }
-
 .img-holder {
-  position: absolute;
-  top: -9999px;
-  left: -9999px;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
 }
-
-@media (min-width: 640px) {
-  ul, ol {
-    padding-left: 40px;
-  }
-  pre {
-    font-size: 80%;
-  }
-  table {
-    font-size: 100%;
-  }
-
-  .sidebar-inner {
-    padding: 2% 10%;
-  }
-
-  .main-inner {
-    padding-left: 10%;
-    padding-right: 10%;
-  }
+#main-page-footer {
+    text-align:  center;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom:4px;
+    border-top: 1px solid #eee;
+    color: #777;
+    font-size: 14px;
 }
-
+.img-left{
+    display: block;
+    margin: 15px auto 15px 0px;
+}
+.img-center{
+    display: block;
+    margin: 15px auto 15px auto;
+}
+.img-right{
+    display: block;
+    margin: 15px 0px 15px auto;
+}
+.avatar {
+   border-radius: 50%;
+   padding: 3px;
+   max-width: 70%;
+}
+/*.sidebar-item{
+    transition:margin-left 0.5s;
+    -moz-transition:margin-left 0.5s;  
+    -webkit-transition:margin-left 0.5s;  
+    -o-transition:margin-left 0.5s;
+}
+.sidebar-item:hover{
+    margin-left:13px;
+}*/
+@media (max-width: 480px){
+  .sidebar-inner li {
+        display: inline-block;
+        margin-left: 1em;
+    }
+}
+@media (max-width: 640px) {
+    pre {
+        font-size: 80%;
+    }
+    table {
+        font-size: 100%;
+    }
+    .sidebar-inner {
+        padding: 2% 10%;
+    }
+    .main-inner {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .sidebar img {
+        display: none
+    }
+  
+}
 @media (min-width: 990px) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 25%;
-  }
-  .sidebar-inner {
-    padding: 15%;
-  }
+    .sidebar {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 25%;
+    }
+    .sidebar-header .sidebar-inner {
+        padding: 5% 15%;
+    }
+    .sidebar-inner {
+        padding: 5% 0%;
+    }
+    .main {
+        margin-left: 25%;
+        width: 75%;
+    }
+}
+/* 多说评论框*/
 
-  .main {
-    margin-left: 25%;
-    width: 75%;
-  }
+.ds-thread {
+    padding-left: 1em;
+    padding-right: 1em;
 }

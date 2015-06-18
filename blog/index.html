@@ -1,44 +1,74 @@
-<!DOCTYPE html>
 <html>
+
 <head>
-  <meta charset="utf-8">
+    <meta charset='utf-8'>
+    <title>Silentor</title>
+    <meta name="description" content="">
+    <!-- responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
-  <!-- responsive -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="logo.jpg">
 
-  <title>Fritx's Blog</title>
-
-  <!-- favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-  <!-- import vendor styles -->
-  <link rel="stylesheet" href="vendor/blog.css">
+    <!-- import vendor styles -->
+    <link rel="stylesheet" href="vendor/blog.css">
+    <link rel="stylesheet" href="vendor/github-markdown.css">
+    <!-- code highlight css-->
+    <link rel="stylesheet" href="vendor/highlight/styles/github.css">
 </head>
+
 <body>
 
-<!-- fill the img in shared links -->
-<img class="img-holder" src="p/avatar.jpg">
-
-<div class="contents">
-
-  <!-- sidebar -->
-  <div class="sidebar">
-    <div class="sidebar-inner">
-      <div class="sidebar-page" id="sidebar-page"></div>
+    <!-- sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+             <div class="sidebar-inner" id="sidebar-header"></div>
+        </div>
+        <div class="sidebar-inner">
+            <div class="sidebar-page" id="sidebar-page"></div>
+        </div>
     </div>
-  </div>
 
-  <!-- main -->
-  <div class="main" id="main">
-    <div class="main-inner">
-      <div class="main-page" id="main-page"></div>
+    <!-- main -->
+    <div class="main" id="main">
+        <div class="main-inner">
+            <!-- 主内容 -->
+            <div class="main-page markdown-body" id="main-page"></div>
+                <!--  如果需要请除去注释 -->
+                <!-- 多说评论框 start --> 
+                <!-- <div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="请替换成文章的标题" data-url="请替换成文章的网址"></div> -->
+                <!-- 多说评论框 end -->
+            <!-- 底部 -->
+            <div class="main-page-footer main-page markdown-body" id="main-page-footer"></div>
+        </div>
+
+
     </div>
-  </div>
-</div>
+
+</body>
 
 <!-- import vendor scripts -->
 <script src="vendor/jquery-1.11.1.min.js"></script>
 <script src="vendor/marked-0.3.2.min.js"></script>
 <script src="vendor/blog.js"></script>
-</body>
+<!-- code highlight-->
+<script src="vendor/highlight/highlight.pack.js"></script>
+
+
+<!-- 如果需要请除去注释 -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<!-- <script type="text/javascript">
+// var duoshuoQuery = {
+//     short_name: "jayin"
+// };
+// (function() {
+//     var ds = document.createElement('script');
+//     ds.type = 'text/javascript';
+//     ds.async = true;
+//     ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+//     ds.charset = 'UTF-8';
+//     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+// })();
+// </script> -->
+ <!-- 多说公共JS代码 end -->
 </html>
