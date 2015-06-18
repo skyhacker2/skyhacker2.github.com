@@ -1,70 +1,54 @@
 ## Changelog
 
-Public releases are all root nodes.  
-Incremental version bumps that were not released publicly are nested where appropriate.
+- v0.1.2 (06/07)
+  1. fix resolve: ignore trailing slash
+  1. update font-family & code block style
+  1. upgrade gulp-deps & eslint
+  1. update readme
 
-P.S. If there is a standard (popular) changelog format, please let me know.
+- v0.1.1 (12/19)
+  1. no longer a cmd tool
+  1. no longer a node lib
+  1. update deps & fix eslint
+  1. recommend using prj to init
 
-- **0.3.0 : 2013.02.24**
-    - **Features**
-    - Update twitter bootstrap to 2.2.2. Add responsiveness and update design a bit.
-    - @techotaku fixes custom tagline support (finally made it in!)
-    - @opie4624 adds ability to set tags from the command-line.
-    - @lax adds support for RSS feed. Adds rss and atom html links for discovery.
-    - Small typo fixes.
+- v0.1.0 (06/18)
+  1. fix local link target
+  1. no-semicolon style
 
-    - **Bug Fixes**
-    - @xuhdev fixes theme:install bug which does not overwrite theme even if saying 'yes'.
+- v0.0.9-5 (06/02)
+  1. fix /usr/bin/env bug
+  1. use strict and eol
+  1. include dependencies gulp/eslint/eol
 
-- **0.2.13 : 2012.03.24**   
-    - **Features**
-    - 0.2.13 : @mjpieters Updates pages_list helper to only show pages having a title.
-    - 0.2.12 : @sway recommends showing page tagline only if tagline is set.
-    - 0.2.11 : @LukasKnuth adds 'description' meta-data field to post/page scaffold.
+- v0.0.9-4 (05/31)
+  1. set bg-color to white
+  1. sans-serif instead for pre/code
+  1. search for mainTitle in h1~h6
+  1. configurable container selectors
+  1. move to CHANGELOG.md
 
-    - **Bug Fixes**
-    - 0.2.10 : @koriroys fixes typo in atom feed
+- v0.0.9-3 (05/29)
+  1. add index.js for usage as local module
+  1. slashes vars in regex
+  1. support hash with local links
 
-- **0.2.9 : 2012.03.01**   
-    - **Bug Fixes**
-    - 0.2.9 : @alishutc Fixes the error on post creation if date was not specified.
+- v0.0.9-2 (05/24)
+  1. fix empty resolved href by .
+  1. optional disqus() and comments()
+  1. better access for config() and start()
 
-- **0.2.8 : 2012.03.01**   
-    - **Features**
-    - 0.2.8 : @metalelf0 Added option to specify a custom date when creating post.
-    - 0.2.7 : @daz Updates twitter theme framework to use 2.x while still maintaining core layout. #50
-              @philips and @treggats add support for page.tagline metadata. #31 & #48
-    - 0.2.6 : @koomar Adds Mixpanel analytics provider. #49
-    - 0.2.5 : @nolith Adds ability to load custom rake scripts. #33
-    - 0.2.4 : @tommyblue Updated disqus comments provider to be compatible with posts imported from Wordpress. #47
+- v0.0.9-1 (05/22)
+  1. remove space caused by \n in p tags
+  1. add path resolve against ../ or ./
+  1. not reload on default page not found
 
-    - **Bug Fixes**
-    - 0.2.3 : @3martini Adds Windows MSYS Support and error checks for git system calls. #40
-    - 0.2.2 : @sstar Resolved an issue preventing disabling comments for individual pages #44
-    - 0.2.1 : Resolve incorrect HOME\_PATH/BASE\_PATH settings
+- v0.0.8 (05/20)
+  1. add optional disqus support
+  1. flag data-loaded for local saved page
+  1. use percentage for font-size instead of px
+  1. make sure target is a directory (cli)
 
-- **0.2.0 : 2012.02.01**   
-  Features
-    - Add Theme Packages v 0.1.0
-      All themes should be tracked and maintained outside of JB core.
-      Themes get "installed" via the Theme Installer.
-      Theme Packages versioning is done separately from JB core with
-      the main intent being to make sure theme versions are compatible with the given installer.
-
-    - 0.1.2 : @jamesFleeting adds facebook comments support
-    - 0.1.1 : @SegFaultAX adds tagline as site-wide configuration
-
-- **0.1.0 : 2012.01.24**   
-  First major versioned release.   
-  Features   
-    - Standardize Public API
-    - Use name-spacing and modulation where possible.
-    - Ability to override public methods with custom code.
-    - Publish the theme API.
-    - Ship with comments, analytics integration.
-  
-- **0.0.1 : 2011.12.30**    
-  First public release, lots of updates =p
-  Thank you everybody for dealing with the fast changes and helping
-  me work out the API to a manageable state.
-  
+- v0.0.7 (05/12)
+  1. try font "Microsoft YaHei" for chinese on windows
+  1. add image holder for shared links (apps like wechat)
