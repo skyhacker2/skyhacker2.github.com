@@ -21,6 +21,7 @@
 .markdown-body a:active,
 .markdown-body a:hover {
   outline: 0;
+  text-decoration: none;
 }
 
 .markdown-body strong {
@@ -100,7 +101,7 @@
 .markdown-body a:hover,
 .markdown-body a:focus,
 .markdown-body a:active {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .markdown-body hr {
@@ -280,8 +281,10 @@
 
 .markdown-body h1 {
   padding-bottom: 0.3em;
-  font-size: 2.25em;
+  font-size: 1em;
   line-height: 1.2;
+  color: #9E9E9E;
+  font-weight: 200;
   /*border-bottom: 1px solid #eee;*/
 }
 
@@ -289,6 +292,9 @@
   padding-bottom: 0.3em;
   font-size: 1.75em;
   line-height: 1.225;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: 200;
   /*border-bottom: 1px solid #eee;*/
 }
 
