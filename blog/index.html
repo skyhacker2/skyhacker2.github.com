@@ -30,32 +30,34 @@
 </head>
 
 <body>
+    <nav class="top-nav">
+        <div class="nav-wrapper">
+            <a href="#" class="page-title"></a>
+            <ul class="right right-menu">
+                <li>
+                    <a href="https://github.com/skyhacker2"><i class="fa fa-github fa-3x"></i></a>
+                </li>
+                <li>
+                    <a href="http://weibo.com/skyhacker"><i class="fa fa-weibo fa-3x"></i></a>
+                </li>
+            </ul>
+            <!-- sidebar -->
+            <div class="sidebar">
+                <div class="sidebar-header">
+                     <div class="sidebar-inner" id="sidebar-header"></div>
+                </div>
+                <div class="sidebar-inner">
+                    <div class="sidebar-page" id="sidebar-page"></div>
+                </div>
+            </div>
+            <a href="#" class="button-collapse"><i class="fa fa-bars fa-2x"></i></a>
+        </div>
+    </nav>
 
-    <!-- sidebar -->
-    <div class="sidebar">
-        <div class="sidebar-header">
-             <div class="sidebar-inner" id="sidebar-header"></div>
-        </div>
-        <div class="sidebar-inner">
-            <div class="sidebar-page" id="sidebar-page"></div>
-        </div>
-    </div>
+    
 
     <!-- main -->
     <div class="main" id="main">
-        <nav class="top-nav">
-            <div class="nav-wrapper">
-                <a href="#" class="page-title"></a>
-                <ul class="right right-menu">
-                    <li>
-                        <a href="https://github.com/skyhacker2"><i class="fa fa-github fa-3x"></i></a>
-                    </li>
-                    <li>
-                        <a href="http://weibo.com/skyhacker"><i class="fa fa-weibo fa-3x"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
         <div class="main-inner">
             <!-- 主内容 -->
             <div class="main-page markdown-body" id="main-page"></div>
@@ -66,6 +68,7 @@
 
 
     </div>
+    <div class="cover"></div>
 
 </body>
 
@@ -76,5 +79,17 @@
 <!-- code highlight-->
 <script src="vendor/highlight/highlight.pack.js"></script>
 
-
+<script type="text/javascript">
+    $(".button-collapse").click(function() {
+        console.log('click');
+        $(".sidebar").css('left', "0px");
+        $(".cover").show();
+        $(".cover").css('opacity', "1");
+    });
+    $(".cover").click(function() {
+        $(".sidebar").css('left', "-128px");
+        $(".cover").hide();
+        $(".cover").css('opacity', "0");
+    });
+</script>
 </html>

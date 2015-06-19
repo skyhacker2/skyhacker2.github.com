@@ -193,8 +193,7 @@ blockquote {
     height: 100%;
 }
 .page-title {
-    margin-left: 4%;
-    font-size: 2.0rem;
+    font-size: 1.6rem;
     line-height: 128px;
     color: #fff;
     text-decoration: none;
@@ -235,13 +234,19 @@ blockquote {
     will-change: opacity, transform;
     transition: all 0.3s ease-out;
 }
-
-@media (max-width: 480px){
-  .sidebar-inner li {
-        display: inline-block;
-        margin-left: 1em;
-    }
+.button-collapse {
+    color: #fff;
 }
+.sidebar-header .sidebar-inner {
+    padding: 5% 15%;
+}
+.sidebar-inner {
+    padding: 5% 0%;
+}
+.cover {
+    transition: all 0.2s ease-out;
+}
+
 @media (max-width: 640px) {
     pre {
         font-size: 80%;
@@ -249,25 +254,54 @@ blockquote {
     table {
         font-size: 100%;
     }
-    .sidebar-inner {
-        padding: 2% 10%;
+    .sidebar {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: -250px;
+        width: 250px;
+        z-index: 999;
+        transition: all 0.2s ease-out;
     }
+
     .main-inner {
         padding-left: 5%;
         padding-right: 5%;
     }
-    .sidebar img {
-        display: none
+    .button-collapse, .page-title  {
+        float: left;
+        margin-left: 8%;
+    }
+    .button-collapse i {
+        line-height: 128px;
+    }
+    .right-menu {
+        display: none;
+    }
+    .cover {
+        position: fixed;
+        height: 100%;
+        top: 0;
+        z-index: 998;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.5);
+        opacity: 0;
+        display: none;
     }
   
 }
 @media (min-width: 990px) {
+    .top-nav {
+        padding-left: 250px;
+    }
     .sidebar {
         position: fixed;
         top: 0;
         bottom: 0;
         left: 0;
-        width: 20%;
+        width: 250px;
     }
     .sidebar-header .sidebar-inner {
         padding: 5% 15%;
@@ -276,11 +310,15 @@ blockquote {
         padding: 5% 0%;
     }
     .main {
-        margin-left: 20%;
+        margin-left: 250px;
         width: 80%;
     }
     .page-title {
         font-size: 1.6rem;
+        margin-left: 4%;
+    }
+    .button-collapse {
+        display: none;
     }
 }
 /* 多说评论框*/

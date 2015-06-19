@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"skyhac",
+				"skyhacker2"
+			],
+			[
+				"main",
+				"mainTitle"
+			],
+			[
 				"paddi",
 				"padding"
 			],
@@ -506,14 +514,6 @@
 			[
 				"Bl",
 				"Block"
-			],
-			[
-				"Colum",
-				"ColumnCache"
-			],
-			[
-				"Col",
-				"Column"
 			]
 		]
 	},
@@ -523,15 +523,31 @@
 			"file": "blog/index.html",
 			"settings":
 			{
-				"buffer_size": 2963,
+				"buffer_size": 2485,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "blog/LICENSE",
+			"file": "blog/p/articles/android/index.md",
 			"settings":
 			{
-				"buffer_size": 11325,
+				"buffer_size": 90,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "publish.sh",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/p/articles/android/DrawerLayout问题.md",
+			"settings":
+			{
+				"buffer_size": 1724,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +555,7 @@
 			"file": "blog/vendor/blog.css",
 			"settings":
 			{
-				"buffer_size": 5292,
+				"buffer_size": 5343,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,7 +563,15 @@
 			"file": "blog/vendor/blog.js",
 			"settings":
 			{
-				"buffer_size": 6707,
+				"buffer_size": 7883,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 304,
 				"line_ending": "Unix"
 			}
 		}
@@ -591,10 +615,14 @@
 	[
 		"/Users/eleven/skyhacker2.github.com",
 		"/Users/eleven/skyhacker2.github.com/blog",
+		"/Users/eleven/skyhacker2.github.com/blog/p",
+		"/Users/eleven/skyhacker2.github.com/blog/p/articles",
+		"/Users/eleven/skyhacker2.github.com/blog/p/articles/android",
 		"/Users/eleven/skyhacker2.github.com/blog/vendor"
 	],
 	"file_history":
 	[
+		"/Users/eleven/Library/Application Support/Sublime Text 3/Packages/User/blog_publish.sublime-build",
 		"/Users/eleven/projects/cocos2d-js-projects/Shuitunjun/res/shapes/arrowUp.json",
 		"/Users/eleven/projects/cocos2d-js-projects/Shuitunjun/frameworks/cocos2d-html5/CCBoot.js",
 		"/Users/eleven/projects/cocos2d-js-projects/Shuitunjun/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js",
@@ -884,15 +912,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2963,
+						"buffer_size": 2485,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1467,
-								1467
+								637,
+								637
 							]
 						],
 						"settings":
@@ -906,7 +934,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 689.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -914,53 +942,109 @@
 				},
 				{
 					"buffer": 1,
-					"file": "blog/LICENSE",
-					"semi_transient": true,
+					"file": "blog/p/articles/android/index.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11325,
+						"buffer_size": 90,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								90,
+								90
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
-							"origin_encoding": "ASCII",
+							"origin_encoding": "UTF-8",
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "blog/vendor/blog.css",
+					"file": "publish.sh",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5292,
+						"buffer_size": 56,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4124,
-								4124
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blog/p/articles/android/DrawerLayout问题.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1355,
+								1355
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blog/vendor/blog.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5225,
+								5225
 							]
 						],
 						"settings":
@@ -973,28 +1057,28 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 2960.0,
+						"translation.x": -0.0,
+						"translation.y": 3623.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
 					"file": "blog/vendor/blog.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6707,
+						"buffer_size": 7883,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3452,
-								3452
+								4825,
+								4825
 							]
 						],
 						"settings":
@@ -1008,7 +1092,39 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1225.0,
+						"translation.y": 2467.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -1060,7 +1176,7 @@
 	{
 		"height": 114.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/User/blog_publish.sublime-build",
 	"project": "project.sublime-project",
 	"replace":
 	{
