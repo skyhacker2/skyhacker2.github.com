@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"paddi",
+				"padding"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
 				"bor",
 				"border-radius"
 			],
@@ -22,10 +42,6 @@
 			[
 				"text",
 				"text-decoration"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"margin",
@@ -258,10 +274,6 @@
 			[
 				"in",
 				"input"
-			],
-			[
-				"marg",
-				"margin-top"
 			],
 			[
 				"al",
@@ -502,23 +514,43 @@
 			[
 				"Col",
 				"Column"
-			],
-			[
-				"shar",
-				"shareBtn"
-			],
-			[
-				"slide",
-				"slideToPrev"
-			],
-			[
-				"sl",
-				"slideToPrev"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "blog/index.html",
+			"settings":
+			{
+				"buffer_size": 2963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/LICENSE",
+			"settings":
+			{
+				"buffer_size": 11325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/vendor/blog.css",
+			"settings":
+			{
+				"buffer_size": 5292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/vendor/blog.js",
+			"settings":
+			{
+				"buffer_size": 6707,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -557,7 +589,9 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/eleven/skyhacker2.github.com"
+		"/Users/eleven/skyhacker2.github.com",
+		"/Users/eleven/skyhacker2.github.com/blog",
+		"/Users/eleven/skyhacker2.github.com/blog/vendor"
 	],
 	"file_history":
 	[
@@ -664,7 +698,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -692,6 +726,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hover",
+			"title",
 			"img_root",
 			".markdown-body a",
 			"a:hover",
@@ -817,9 +853,7 @@
 			"cc.per",
 			"ChipmunkBaseLayer",
 			"EventListener",
-			"column",
-			"cc.log",
-			"template\nResolutionPolicy"
+			"column"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -841,8 +875,145 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "blog/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1467,
+								1467
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 689.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/LICENSE",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 11325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog/vendor/blog.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4124,
+								4124
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2960.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blog/vendor/blog.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3452,
+								3452
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
