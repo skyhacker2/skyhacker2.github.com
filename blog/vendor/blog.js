@@ -11,6 +11,9 @@
     var markdown_root = 'p';
     //当前请求的markdown文件
     var cur_md_path = '';
+    var mainPage = location.search.slice(1).replace(/&.*/, '') || 'index';
+    var mainTitle = '';
+    var onlineUrl = 'http://skyhacker2.github.io/blog/' + location.search.replace(/&.*/, '');
     /*是否是http:// 如果是，那么这是资源文件,如果否，说明这是要处理的a标签*/
     function isAbsolute(url) {
         return url.indexOf('//') !== -1;
@@ -53,6 +56,15 @@
             return froms.join('/') + "/" + tos.join('/');
         }
         return resolvePath(froms.join('/'), tos.join('/'));
+    }
+    function guid() {
+        function s4() {
+            return Math.floor((1 + Math.random()) * 0x10000)
+            .toString(16)
+            .substring(1);
+        }
+        return s4() + s4() + s4() + s4() +
+            s4() + s4() + s4() + s4();
     }
         /**
          * @param selector 选择器
@@ -101,7 +113,7 @@
             //main-page
             if (!isSidebar) {
                 //change title
-                var mainTitle = $('#main-page').find('h1, h2, h3, h4, h5, h6').first().text();
+                mainTitle = $('#main-page').find('h1, h2, h3, h4, h5, h6').first().text();
                 $('title').text(mainTitle);
                 $('.page-title').text(mainTitle);
                 $('#main-page').find('h1').first().remove();
@@ -120,6 +132,21 @@
                     var path = resolvePath(getPageBase(p_url), src);
                     $(item).attr('src', path);
                 });
+
+                // 评论
+                /* * * CONFIGURATION VARIABLES * * */
+                var disqus_shortname = 'novembereleven';
+                window.disqus_title = mainTitle;
+                window.disqus_identifier = mainPage;
+                window.disqus_url = onlineUrl;
+                
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+
             }
             //sidebar
             if (isSidebar) {
@@ -170,7 +197,7 @@
             //加载侧边菜单栏
             load('#sidebar-page', 'sidebar.md', true);
             load('#sidebar-header', 'sidebarheader.md', true);
-            load('#main-page-footer', 'footer.md');
+            //load('#main-page-footer', 'footer.md');
             //加载主内容页
             if (location.search.indexOf('&') !== -1) {
                 cur_md_path = location.search.slice(1, location.search.indexOf('&'));
