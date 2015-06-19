@@ -158,7 +158,7 @@ blockquote {
     margin: 15px 0px 15px auto;
 }
 .avatar {
-   border-radius: 50%;
+   border-radius: 9999px;
    padding: 3px;
    max-width: 50%;
 }
