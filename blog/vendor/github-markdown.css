@@ -286,7 +286,7 @@
   color: #000000;
   font-weight: 400;
   font-family: 'Roboto Mono';
-  /*border-bottom: 1px solid #eee;*/
+  border-bottom: 1px solid #eee;
 }
 
 .markdown-body h2 {

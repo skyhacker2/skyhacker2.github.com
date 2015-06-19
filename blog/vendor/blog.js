@@ -13,28 +13,47 @@
     var cur_md_path = '';
     /*是否是http:// 如果是，那么这是资源文件,如果否，说明这是要处理的a标签*/
     function isAbsolute(url) {
-            return url.indexOf('//') !== -1;
-        }
-        /*获得相对目录*/
+        return url.indexOf('//') !== -1;
+    }
+    /*获得相对目录*/
     function getPageBase(url) {
-            return url.slice(0, url.lastIndexOf('/') + 1);
-        }
-        /*判断加载的路径是否是markdown文件*/
+        return url.slice(0, url.lastIndexOf('/') + 1);
+    }
+    /*判断加载的路径是否是markdown文件*/
     function isMarkdownFile(url) {
-            return url.toLowerCase().indexOf('.md') !== -1 || url.toLowerCase().indexOf('.markdown') !== -1;
-        }
-        //获得markdown的文件名,用作标题
+        return url.toLowerCase().indexOf('.md') !== -1 || url.toLowerCase().indexOf('.markdown') !== -1;
+    }
+    //获得markdown的文件名,用作标题
     function getMarkdownTitle(file_path) {
-            if (!isMarkdownFile(file_path)) {
-                return app_name;
-            } else {
-                var real_file_name = file_path;
-                if (hasFolder(file_path)) {
-                    real_file_name = file_path.slice(file_path.lastIndexOf('/') + 1, file_path.length);
-                }
-                return real_file_name.split('.')[0];
+        if (!isMarkdownFile(file_path)) {
+            return app_name;
+        } else {
+            var real_file_name = file_path;
+            if (hasFolder(file_path)) {
+                real_file_name = file_path.slice(file_path.lastIndexOf('/') + 1, file_path.length);
             }
+            return real_file_name.split('.')[0];
         }
+    }
+    // resolve 路径
+    function resolvePath(from, to) {
+        if (from[from.length-1] == '/') {
+            from = from.substring(0, from.length-1);
+        }
+        var froms = from.split('/');
+        var tos = to.split('/');
+        if (tos[0] == '.') {
+            tos.splice(0, 1);
+        } else if (tos[0] == '..') {
+            froms.splice(froms.length-1, 1);
+            tos.splice(0, 1);
+        } else if (tos[0].indexOf('http') != -1 || tos[0].indexOf('https') != -1) {
+            return to;
+        } else {
+            return froms.join('/') + "/" + tos.join('/');
+        }
+        return resolvePath(froms.join('/'), tos.join('/'));
+    }
         /**
          * @param selector 选择器
          * @param  file_path 文件路径
@@ -75,23 +94,8 @@
 
                 //main page
                 if (!isAbsolute(url) && !isSidebar && isMarkdownFile(url)) {
-                    var new_url = getPageBase(cur_md_path);
-                    //上一级目录
-                    if (url.indexOf('../') == 0) {
-                        new_url = new_url.substring(0, new_url.length - 1);
-                        if (new_url.indexOf('/') != -1) {
-                            new_url = new_url.slice(0, new_url.lastIndexOf('/') + 1) + url.slice(3, url.length);
-                        } else {
-                            new_url = url.slice(3, url.length);
-                        }
-                    } else if (url.indexOf('__P__') == 0) {
-                        //文章根目录`p/`下
-                        new_url = url.replace('__P__/', '');
-                    } else {
-                        //当前目录
-                        new_url = new_url + url.replace('./', '');
-                    }
-                    $element.attr('href', '?' + new_url);
+                    var path = resolvePath(getPageBase(cur_md_path), url);
+                    $element.attr('href', '?' + path);
                 }
             });
             //main-page
@@ -111,12 +115,8 @@
                         $(item).addClass('img-center');
                     }
                     var src = $(item).attr('src');
-                    if (src[0] == '.') {
-                        src = src.substring(2, src.length);
-                        var url = getPageBase(p_url);
-                        src = url + src;
-                        $(item).attr('src', src);
-                    }
+                    var path = resolvePath(getPageBase(p_url), src);
+                    $(item).attr('src', path);
                 });
             }
             //sidebar
