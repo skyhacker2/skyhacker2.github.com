@@ -4,8 +4,6 @@
 
 - [芒果布丁00的博客](http://blog.csdn.net/u013174689?viewmode=list)
 
-- [小小天使心的世界](http://blog.sina.com.cn/xxryme)
-
 - [wawa](http://blog.csdn.net/wawa1203)
 
 #邑大开发者
@@ -20,4 +18,6 @@
 
 - [Fritx' Blog](http://blog.fritx.me/)
 >Life is short, I use JS
+
+- [小小天使心的世界](http://blog.sina.com.cn/xxryme)
 
