@@ -1,11 +1,3 @@
-# 小伙伴
-
-- [哎呀的专栏](http://blog.csdn.net/odiecn)
-
-- [芒果布丁00的博客](http://blog.csdn.net/u013174689?viewmode=list)
-
-- [wawa](http://blog.csdn.net/wawa1203)
-
 #邑大开发者
 - [Jayin Blog](http://jayin.github.io/blog/index.html)
 >A commit a day, keep bugs away.
@@ -20,4 +12,14 @@
 >Life is short, I use JS
 
 - [小小天使心的世界](http://blog.sina.com.cn/xxryme)
+
+# 友情链接
+
+- [哎呀的专栏](http://blog.csdn.net/odiecn)
+
+- [芒果布丁00的博客](http://blog.csdn.net/u013174689?viewmode=list)
+
+- [wawa](http://blog.csdn.net/wawa1203)
+
+
 
