@@ -1,8 +1,9 @@
-# 分类
+# 文章
 
-##[通用编程](./通用编程/index.md)
-##[Android](./android/index.md)
+##分类
+1. [通用编程](./通用编程/index.md)
+2. [Android](./android/index.md)
 
-# 2015
-##[mvc](mvc.md)
-##[java使用hmac-sha1算法](java使用hmac-sha1算法.md)
+## 2015
+1. [mvc](mvc.md)
+2. [java使用hmac-sha1算法](java使用hmac-sha1算法.md)

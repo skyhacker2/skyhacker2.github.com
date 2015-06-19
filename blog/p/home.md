@@ -1,3 +1,3 @@
-# NovemberEleven的个人博客
+# Home
 
 ![image](../img/logo.jpg)
