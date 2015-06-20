@@ -204,6 +204,9 @@ blockquote {
     margin: 0;
     list-style: none;
 }
+.right-menu {
+    display: none;
+}
 .right-menu li {
     float: left;
     height: 100%;
@@ -275,9 +278,7 @@ blockquote {
     .button-collapse i {
         line-height: 128px;
     }
-    .right-menu {
-        display: none;
-    }
+    
     .cover {
         position: fixed;
         height: 100%;
@@ -319,6 +320,11 @@ blockquote {
     }
     .button-collapse {
         display: none;
+    }
+}
+@media (min-width: 1270px) {
+    .right-menu {
+        display: list-item;
     }
 }
 /* 多说评论框*/
