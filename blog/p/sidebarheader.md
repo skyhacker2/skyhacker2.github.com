@@ -1,4 +1,4 @@
-![Meizhuo logo](./img/logo.jpg)
+![Logo](img/logo.jpg)
 
 # [NovemberEleven](.)
 

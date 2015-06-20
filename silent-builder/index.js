@@ -19,12 +19,7 @@ marked.setOptions({
 //replace(/<!--\s*include\s+(['"])([^'"]+)\.(less|scss|coffee|css|js|inc\.[^'"]+)\1\s*(.*?)\s*-->/mg, (full, quote, incName, ext, params) ->
 
 var compile = function(file, opt) {
-    // console.log(process.cwd());
-    var basePath = path.resolve(process.cwd(), opt.basePath);
-    console.log(basePath);
-    var relativePath = path.relative(basePath, file.path);
-    console.log(relativePath);
-    var template = fs.readFileSync('./blog/index.html', 'utf-8');
+    var template = fs.readFileSync(opt.baseLayout, 'utf-8');
     //console.log(template);
     var content = file.contents.toString();
     var htmlContent = marked(content);
