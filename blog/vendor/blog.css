@@ -292,7 +292,7 @@ blockquote {
     }
   
 }
-@media (min-width: 990px) {
+@media (min-width: 640px) {
     .top-nav {
         padding-left: 250px;
     }
