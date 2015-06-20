@@ -9,14 +9,14 @@
 
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="logo.jpg">
-
     <!-- import vendor styles -->
-    <link rel="stylesheet" href="vendor/blog.css">
-    <link rel="stylesheet" href="vendor/github-markdown.css">
+    <!-- <link rel="stylesheet" href="vendor/blog.css"> -->
+    <!-- <link rel="stylesheet" href="vendor/github-markdown.css"> -->
     <!-- code highlight css-->
-    <link rel="stylesheet" href="vendor/highlight/styles/github.css">
+    <!-- <link rel="stylesheet" href="vendor/highlight/styles/github.css"> -->
     <!-- font awesome -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> -->
+    
     <script>
     var _hmt = _hmt || [];
     (function() {
@@ -74,11 +74,34 @@
 </body>
 
 <!-- import vendor scripts -->
-<script src="vendor/jquery-1.11.1.min.js"></script>
-<script src="vendor/marked-0.3.2.min.js"></script>
-<script src="vendor/blog.js"></script>
+
+<script type="text/javascript">
+    G = {};
+    G.CDN_BASE = location.origin + '/blog/';
+    // console.log(G.CDN_BASE);
+    
+    document.write([
+        '<link rel="stylesheet" href="' + G.CDN_BASE + 'vendor/blog.css" />',
+        '<link rel="stylesheet" href="' + G.CDN_BASE + 'vendor/github-markdown.css" />',
+        '<link rel="stylesheet" href="' + G.CDN_BASE + 'vendor/highlight/styles/github.css" />',
+        '<link rel="stylesheet" href="' + G.CDN_BASE + 'vendor/github-markdown.css" />',
+        '<link rel="shortcut icon" type="image/x-icon" href="' + G.CDN_BASE + 'logo.jpg">'
+
+    ].join(''));
+    document.write([
+        '<script src="' + G.CDN_BASE + 'vendor/jquery-1.11.1.min.js"></s','cript>',
+        '<script src="' + G.CDN_BASE + 'vendor/marked-0.3.2.min.js"></s','cript>',
+        '<script src="' + G.CDN_BASE + 'vendor/blog.js"></s','cript>',
+
+        '<script src="' + G.CDN_BASE + 'vendor/highlight/highlight.pack.js"></s','cript>'
+    ].join(''));
+</script>
+
+<!-- <script src="vendor/jquery-1.11.1.min.js"></script> -->
+<!--<script src="vendor/marked-0.3.2.min.js"></script>-->
+<!--<script src="vendor/blog.js"></script>-->
 <!-- code highlight-->
-<script src="vendor/highlight/highlight.pack.js"></script>
+<!-- <script src="vendor/highlight/highlight.pack.js"></script> -->
 
 <script type="text/javascript">
     $(".button-collapse").click(function() {

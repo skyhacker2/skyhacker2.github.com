@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
 				"skyhac",
 				"skyhacker2"
 			],
@@ -20,10 +28,6 @@
 				"transition"
 			],
 			[
-				"mar",
-				"margin"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -34,10 +38,6 @@
 			[
 				"bor",
 				"border-radius"
-			],
-			[
-				"padding",
-				"padding-right"
 			],
 			[
 				"inl",
@@ -523,7 +523,7 @@
 			"file": "blog/index.html",
 			"settings":
 			{
-				"buffer_size": 2485,
+				"buffer_size": 3030,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "blog/p/articles/android/index.md",
 			"settings":
 			{
-				"buffer_size": 90,
+				"buffer_size": 92,
 				"line_ending": "Unix"
 			}
 		},
@@ -555,7 +555,47 @@
 			"file": "blog/vendor/blog.css",
 			"settings":
 			{
-				"buffer_size": 5343,
+				"buffer_size": 6124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/p/home.md",
+			"settings":
+			{
+				"buffer_size": 33,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/p/articles/index.md",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/vendor/github-markdown.css",
+			"settings":
+			{
+				"buffer_size": 13898,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/p/projects/PDF阅读器.md",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/p/projects/生活清单.md",
+			"settings":
+			{
+				"buffer_size": 717,
 				"line_ending": "Unix"
 			}
 		},
@@ -564,14 +604,6 @@
 			"settings":
 			{
 				"buffer_size": 7883,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 304,
 				"line_ending": "Unix"
 			}
 		}
@@ -618,6 +650,7 @@
 		"/Users/eleven/skyhacker2.github.com/blog/p",
 		"/Users/eleven/skyhacker2.github.com/blog/p/articles",
 		"/Users/eleven/skyhacker2.github.com/blog/p/articles/android",
+		"/Users/eleven/skyhacker2.github.com/blog/p/projects",
 		"/Users/eleven/skyhacker2.github.com/blog/vendor"
 	],
 	"file_history":
@@ -754,6 +787,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"border-bottom",
+			"avatar",
+			"sidebar",
 			"hover",
 			"title",
 			"img_root",
@@ -878,10 +914,7 @@
 			"cc.audioEngine",
 			"cc.audioEngine.perload",
 			"cc.audioEngine",
-			"cc.per",
-			"ChipmunkBaseLayer",
-			"EventListener",
-			"column"
+			"cc.per"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -903,7 +936,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -912,15 +945,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2485,
+						"buffer_size": 3030,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								637,
-								637
+								1094,
+								1166
 							]
 						],
 						"settings":
@@ -934,10 +967,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 121.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -946,15 +979,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 90,
+						"buffer_size": 92,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								90,
-								90
+								57,
+								57
 							]
 						],
 						"settings":
@@ -969,7 +1002,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -992,13 +1025,16 @@
 						"settings":
 						{
 							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -1021,13 +1057,18 @@
 						"settings":
 						{
 							"incomplete_sync": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 224.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -1036,15 +1077,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5343,
+						"buffer_size": 6124,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5225,
-								5225
+								191,
+								186
 							]
 						],
 						"settings":
@@ -1057,15 +1098,177 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 3623.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "blog/p/home.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "blog/p/articles/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "blog/vendor/github-markdown.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7339,
+								7339
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4023.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 8,
+					"file": "blog/p/projects/PDF阅读器.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								541
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "blog/p/projects/生活清单.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
 					"file": "blog/vendor/blog.js",
 					"semi_transient": false,
 					"settings":
@@ -1077,8 +1280,8 @@
 						"selection":
 						[
 							[
-								4825,
-								4825
+								3290,
+								3290
 							]
 						],
 						"settings":
@@ -1092,42 +1295,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2467.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "index.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 304,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"origin_encoding": "UTF-8",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
