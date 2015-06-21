@@ -93,9 +93,8 @@
             _selector.find('[href]').each(function() {
                 var $element = $(this);
                 var url = $element.attr('href');
-                arr = url.split('.');
-                arr[arr.length-1] = "html";
-                url = arr.join('.');
+                url = url.replace(/md/g, "html");
+                console.log(url);
 
                 if (isAbsolute(url)) {
                     $element.attr('target', '_blank');
@@ -103,7 +102,7 @@
 
                 // sidebar
                 if (isSidebar) {
-                    $element.attr('href', G.CDN_BASE + "posts/" + url);
+                    $element.attr('href', url);
                 }
 
                 //main page
@@ -222,8 +221,8 @@
         //     }
         // });
         //加载侧边菜单栏
-        load('#sidebar-page', G.CDN_BASE + 'p/sidebar.md', true);
-        load('#sidebar-header', G.CDN_BASE + 'p/sidebarheader.md', true);
+        load('#sidebar-page', G.CDN_BASE + 'pp/sidebar.md', true);
+        load('#sidebar-header', G.CDN_BASE + 'pp/sidebarheader.md', true);
         //load('#main-page-footer', 'footer.md');
         //加载主内容页
         if (location.search.indexOf('&') !== -1) {
