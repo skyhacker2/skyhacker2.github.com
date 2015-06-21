@@ -322,7 +322,7 @@ blockquote {
         display: none;
     }
 }
-@media (min-width: 1270px) {
+@media (min-width: 1279px) {
     .right-menu {
         display: list-item;
     }
