@@ -1,4 +1,4 @@
 - [文章](articles/index.md)
-- [项目](projects/index.md)
-- [关于](about.md)
+- [作品](projects/index.md)
 - [小伙伴](friends.md)
+- [关于](about.md)

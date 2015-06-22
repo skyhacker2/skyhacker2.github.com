@@ -73,8 +73,8 @@
          * @param  baseUrl 基准url
          */
     function load(selector, file_path, isSidebar, baseUrl) {
-        baseUrl = baseUrl || blog_base;
-        isSidebar = isSidebar || false;
+        var baseUrl = baseUrl || blog_base;
+        var isSidebar = isSidebar || false;
 
         p_url = baseUrl + file_path;
         // console.log(getPageBase(p_url));
@@ -139,7 +139,7 @@
                 window.disqus_title = mainTitle;
                 window.disqus_identifier = mainPage;
                 window.disqus_url = onlineUrl;
-                
+
                 /* * * DON'T EDIT BELOW THIS LINE * * */
                 (function() {
                     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -217,5 +217,5 @@
     }
 
     main();
-    
+
 })(jQuery);
