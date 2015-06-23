@@ -10,7 +10,7 @@
 
 - Android应用开发
 - Cocos2dx游戏开发(C++, Lua, Js)
-- Web前端开发，略懂
+- Web前端开发
 
 ##联系我
 
