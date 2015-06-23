@@ -197,7 +197,7 @@
             //加载侧边菜单栏
             load('#sidebar-page', 'sidebar.md', true);
             load('#sidebar-header', 'sidebarheader.md', true);
-            //load('#main-page-footer', 'footer.md');
+            load('#main-page-footer', 'footer.md');
             //加载主内容页
             if (location.search.indexOf('&') !== -1) {
                 cur_md_path = location.search.slice(1, location.search.indexOf('&'));
