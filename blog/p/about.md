@@ -15,3 +15,5 @@
 ##联系我
 
 邮箱: skyhacker@126.com
+
+[友情链接](friends.md)

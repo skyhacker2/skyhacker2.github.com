@@ -1,5 +1,5 @@
 - [文章](articles/index.md)
 - [作品](projects/index.md)
-- [小伙伴](friends.md)
+- [计划](todo.md)
 - [收藏](favorites.md)
 - [关于](about.md)
