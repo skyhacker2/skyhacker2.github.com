@@ -1,6 +1,7 @@
 # Android
 
 ##2015
+- [Android Draw Text垂直居中](Android Draw Text垂直居中.md)
 - [Android ListView添加删除item动画](Android ListView添加删除item动画.md)
 - [Android使用ttf](Android使用ttf.md)
 - [Android MVC实现一个音乐播放器](AndroidMVC实现播放器.md)
