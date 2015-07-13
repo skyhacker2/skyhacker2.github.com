@@ -1,6 +1,7 @@
 #ios
 
 ##2015
+- [iOS 国际化](iOS 国际化.md)
 - [iOS 开发记录2](iOS开发记录2.md)
 - [iOS frame and bounds](http://stackoverflow.com/questions/1210047/cocoa-whats-the-difference-between-the-frame-and-the-bounds)
 - [iOS 开发记录1](iOS开发记录1.md)
