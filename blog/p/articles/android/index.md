@@ -1,6 +1,7 @@
 # Android
 
 ##2015
+- [Android 蓝牙坑爹问题集合](http://stackoverflow.com/questions/20069507/gatt-callback-fails-to-register)
 - [Android unbindService后不Destory Service](Android unbindService后不Destory Service.md)
 - [Gradle 设置BuildConfig](Gradle 设置BuildConfig.md)
 - [LED显示屏后记](LED显示屏后记.md)
