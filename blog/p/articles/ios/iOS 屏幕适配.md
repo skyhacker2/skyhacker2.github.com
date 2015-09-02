@@ -1,19 +1,19 @@
 #iOS 屏幕适配
 
 ## 设计图的界面
-![img](./img/Foobler1.png)
+<img src="./img/Foobler1.png" width="200px" height="auto"/>
 
 ## 4S效果
-![img](./img/Foobler2.png)
+<img src="./img/Foobler2.png" width="200px" height="auto"/>
 
 ## 5S效果
-![img](./img/Foobler3.png)
+<img src="./img/Foobler3.png" width="200px" height="auto"/>
 
 ## 6效果
-![img](./img/Foobler4.png)
+<img src="./img/Foobler4.png" width="200px" height="auto"/>
 
 ## 6 Plus
-![img](./img/Foobler5.png)
+<img src="./img/Foobler5.png" width="200px" height="auto"/>
 
 ##解决方案
 
