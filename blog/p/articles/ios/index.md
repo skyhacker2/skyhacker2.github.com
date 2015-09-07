@@ -1,6 +1,7 @@
 #iOS
 
 ##2015
+- [iOS 输入法上添加Toolbar和隐藏输入法](iOS 输入法上添加Toolbar和隐藏输入法.md)
 - [iOS 屏幕适配](iOS 屏幕适配.md)
 - [iOS 获取view的真实高度](iOS 获取view的真实高度.md)
 - [iOS 改变UITableViewCell选中颜色](iOS 改变UITableViewCell选中颜色.md)
