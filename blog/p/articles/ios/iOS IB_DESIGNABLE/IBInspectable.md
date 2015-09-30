@@ -34,4 +34,4 @@ IB_DESIGNABLE @interface ECRangeSlider : UIControl
 ```
 
 在Interface Builder里面看到的效果。
-![image](./images/ECRangeSlider.png)
+![image](./images/ECRanger.png)
