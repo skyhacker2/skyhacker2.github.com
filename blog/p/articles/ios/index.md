@@ -1,6 +1,7 @@
 #iOS
 
 ##2015
+- [iOS 命令行构建](iOS 命令行构建.md)
 - [iOS 更新provisioning profile](iOS 更新provisioning profile.md)
 - [iOS 打开邮箱](iOS打开邮箱.md)
 - [iOS IB_DESIGNABLE IBInspectable](IBInspectable.md)
