@@ -23,3 +23,8 @@
 <img src="./img/pdf4.png" width="200px" height="auto"/>
 
 <a class="download-btn" href="http://app.mi.com/detail/78505?ref=search">下载APK</a>
+
+###赞助者名单
+名称|金额|留言|时间
+----|---|----|
+isilent|10元|阅读器做的不错，支持下!|2015.10.25
