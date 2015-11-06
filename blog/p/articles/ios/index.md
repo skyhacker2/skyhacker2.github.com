@@ -1,6 +1,7 @@
 #iOS
 
 ##2015
+- [iOS 判断是否是模拟器](iOS 判断是否是模拟器.md)
 - [iOS 分析crash日志](iOS 分析crash日志.md)
 - [iOS 自定义UISegmentedControl](http://stackoverflow.com/questions/10562300/customizing-left-right-uisegmentedcontrol-buttons)
 - [iOS 命令行构建](iOS 命令行构建.md)
