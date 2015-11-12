@@ -1,6 +1,7 @@
 # Android
 
 ##2015
+- [Android ListviewAdapter getView setSelected不起作用](Android ListviewAdapter getView setSelected不起作用.md)
 - [Android 利用tools属性在android studio上高效预览](Android 利用tools属性在android studio上高效预览.md)
 - [Andorid adb录屏](Andorid adb录屏.md)
 - [Android 颜色属性动画](Android 颜色属性动画.md)
