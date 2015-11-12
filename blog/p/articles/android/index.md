@@ -1,6 +1,7 @@
 # Android
 
 ##2015
+- [Android 利用tools属性在android studio上高效预览](Android 利用tools属性在android studio上高效预览.md)
 - [Andorid adb录屏](Andorid adb录屏.md)
 - [Android 颜色属性动画](Android 颜色属性动画.md)
 - [Android Studio发布library](Android Studio发布library.md)
