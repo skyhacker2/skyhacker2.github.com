@@ -24,7 +24,7 @@
 
 这时候就需要用到`Unwind Segue`。
 
-1. 在需要回到的ViewController定义一个方法，参数是`UIStoryboardSegue *`
+1.在需要回到的ViewController定义一个方法，参数是`UIStoryboardSegue *`
 
 ```
 #import <UIKit/UIKit.h>
@@ -36,7 +36,7 @@
 @end
 ```
 
-2. Control Drag 连线到`ViewController`上方的`Exit`的那个东东那里。
+2.Control Drag 连线到`ViewController`上方的`Exit`的那个东东那里。
 
 ![img](./img/屏幕快照 2015-11-28 上午12.09.28.png)
 
