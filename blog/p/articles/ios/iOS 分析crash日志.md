@@ -22,7 +22,7 @@ Foobler.app.dSYM
 
 先找到`symbolicatecrash`
 
-`Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/PrivateFrameworks/DTDeviceKitBase.framework/Versions/A/Resources`
+`/Applications/Xcode.app/Contents/SharedFrameworks/DTDeviceKitBase.framework/Versions/A/Resources/symbolicatecrash`
 
 获取xcode的目录
 
