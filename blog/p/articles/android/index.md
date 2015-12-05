@@ -1,6 +1,7 @@
 # Android
 
 ##2015
+- [Android 解决“com.android.dex.DexIndexOverflowException: method ID not in [0, 0xffff]: 65536”问题](http://www.cnblogs.com/yeahgis/p/4660873.html)
 - [Android ListviewAdapter getView setSelected不起作用](Android ListviewAdapter getView setSelected不起作用.md)
 - [Android 利用tools属性在android studio上高效预览](Android 利用tools属性在android studio上高效预览.md)
 - [Andorid adb录屏](Andorid adb录屏.md)
