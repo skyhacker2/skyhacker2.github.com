@@ -11,9 +11,14 @@
 - Android应用开发
 - Cocos2dx游戏开发(C++, Lua, Js)
 - Web前端开发
+- iOS应用开发
 
 ##联系我
 
 邮箱: skyhacker@126.com
 
 [友情链接](friends.md)
+
+## 赞助我的人
+
+[赞助我的人](donate.md)
