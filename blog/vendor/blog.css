@@ -74,7 +74,7 @@ blockquote {
 .sidebar-header blockquote{
     border: 0px;
     padding-left: 0px;
-    color: #fff; 
+    color: #fff;
 }
 .sidebar-header p {
     color: #fff;
@@ -164,8 +164,8 @@ blockquote {
 }
 /*.sidebar-item{
     transition:margin-left 0.5s;
-    -moz-transition:margin-left 0.5s;  
-    -webkit-transition:margin-left 0.5s;  
+    -moz-transition:margin-left 0.5s;
+    -webkit-transition:margin-left 0.5s;
     -o-transition:margin-left 0.5s;
 }
 .sidebar-item:hover{
@@ -220,7 +220,7 @@ blockquote {
     height: 100%;
 }
 .right-menu li a:hover {
-    background-color: #00897B;    
+    background-color: #00897B;
 }
 .right-menu li i {
     line-height: 115px;
@@ -248,6 +248,9 @@ blockquote {
 }
 .cover {
     transition: all 0.2s ease-out;
+}
+.shengdan {
+    display: none;
 }
 
 @media (max-width: 640px) {
@@ -278,7 +281,7 @@ blockquote {
     .button-collapse i {
         line-height: 128px;
     }
-    
+
     .cover {
         position: fixed;
         height: 100%;
@@ -291,7 +294,7 @@ blockquote {
         opacity: 0;
         display: none;
     }
-  
+
 }
 @media (min-width: 640px) {
     .top-nav {
@@ -320,6 +323,14 @@ blockquote {
     }
     .button-collapse {
         display: none;
+    }
+    .shengdan {
+        display: block;
+        position: absolute;
+        width: 81px;
+        left: 29px;
+        top: 6px;
+        transform: rotate(32deg);
     }
 }
 @media (min-width: 1279px) {
