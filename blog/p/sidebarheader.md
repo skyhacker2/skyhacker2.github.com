@@ -1,5 +1,4 @@
 ![Logo](img/logo.jpg)
-<img class="shengdan" src="img/shengdan.png"></img>
 
 # [NovemberEleven](.)
 
