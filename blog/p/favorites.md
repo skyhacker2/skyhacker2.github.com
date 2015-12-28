@@ -33,3 +33,6 @@
 ###其他
 - [MAME](https://github.com/mamedev/mame)
 >多种街机模拟器
+
+- [FreeFileSync](http://www.freefilesync.org/)
+>文件夹文件同步
