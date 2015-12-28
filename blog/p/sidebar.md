@@ -1,5 +1,5 @@
 - [文章](articles/index.md)
 - [作品](projects/index.md)
-- [计划](todo.md)
+- [日常](daily/index.md)
 - [收藏](favorites.md)
 - [关于](about.md)
