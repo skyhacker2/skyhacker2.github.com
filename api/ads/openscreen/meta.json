@@ -1,5 +1,12 @@
 {
     "images": [
-        "http://skyhacker2.github.io/api/ads/openscreen/logo.jpg"
+        {
+            "imageURL":"http://skyhacker2.github.io/api/ads/openscreen/logo.jpg",
+            "url": "http://skyhacker2.github.io"
+        },
+        {
+            "imageURL":"http://skyhacker2.github.io/api/ads/openscreen/logo.jpg",
+            "url": "http://skyhacker2.github.io"
+        }
     ]
 }
