@@ -7,6 +7,10 @@
         {
             "imageURL":"http://skyhacker2.github.io/blog/p/projects/img/led1.jpg",
             "url": "http://skyhacker2.github.io/blog/index.html?projects/LED%E6%98%BE%E7%A4%BA%E5%B1%8F.md"
+        },
+        {
+            "imageURL":"http://skyhacker2.github.io/blog/p/projects/img/pdf1.png",
+            "url":"market://details?id=com.eleven.app.pdfreader"
         }
     ]
 }
