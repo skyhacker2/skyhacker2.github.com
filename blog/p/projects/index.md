@@ -27,3 +27,7 @@
 
 [LED显示屏](LED显示屏.md)
 >用手机屏幕模拟LED屏
+
+## OSX App
+[BleSim](BleSim.md)
+> 蓝牙4.0模拟器。
