@@ -3,7 +3,7 @@
 
 ![img](./img/蓝牙模拟器logo64.png)
 
-<a class="download-btn" href="http://7sbkkt.com2.z0.glb.clouddn.com/BleSim.app.zip"><i class="fa fa-android"></i> 下载</a>
+<a class="download-btn" href="http://7sbkkt.com2.z0.glb.clouddn.com/BleSim.app.zip"> 下载</a>
 
 ![img](./img/屏幕快照 2016-01-31 下午6.31.35.png)
 
