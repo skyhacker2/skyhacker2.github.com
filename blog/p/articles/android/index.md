@@ -1,5 +1,8 @@
 # Android
 
+##2016
+- [Android 音乐节奏.md](./Android 音乐节奏.md)
+
 ##2015
 - [Android 解决“com.android.dex.DexIndexOverflowException: method ID not in [0, 0xffff]: 65536”问题](http://www.cnblogs.com/yeahgis/p/4660873.html)
 - [Android ListviewAdapter getView setSelected不起作用](Android ListviewAdapter getView setSelected不起作用.md)
