@@ -34,4 +34,13 @@ imagePicker.cameraViewTransform = CGAffineTransformRotate(imagePicker.cameraView
 [window bringSubviewToFront:_viewController.view];
 ```
 
-![image](./images/IMG_0659.JPG)
+还要在RootViewController.mm文件里面更改
+
+```
+- (NSUInteger) supportedInterfaceOrientations{
+#ifdef __IPHONE_6_0
+    return UIInterfaceOrientationMaskLandscape;
+#endif
+```
+
+![image](./images/IMG_0659.png)
