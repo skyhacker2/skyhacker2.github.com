@@ -6,3 +6,4 @@
 ### [iOS](./ios/index.md)
 ### [Cocoa](./osx/index.md)
 ### [前端、Node](./js/index.md)
+### [Cocos2d-X](./cocos2dx/index.md)
