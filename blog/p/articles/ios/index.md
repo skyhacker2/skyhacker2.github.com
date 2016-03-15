@@ -1,6 +1,7 @@
 #iOS
 
 ##2016
+- [UIImageView 图片居中](UIImageView 图片居中.md)
 - [UIImagePickerController全屏显示](UIImagePickerController全屏显示.md)
 
 ##2015
