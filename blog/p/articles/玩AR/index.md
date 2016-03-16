@@ -1,6 +1,6 @@
 # 玩AR
 
-看《iOS现实增强笔记》
+看《iOS现实增强开发》笔记
 
 作者GitHub：[https://github.com/kyleroche/Professional_iOS_AugmentedReality](https://github.com/kyleroche/Professional_iOS_AugmentedReality)
 
