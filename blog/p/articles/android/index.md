@@ -2,6 +2,7 @@
 
 ##2016
 - [Android 音乐节奏.md](./Android 音乐节奏.md)
+- [Android Seekbar自定义Thumb在5.0上背景白色](Android Seekbar自定义Thumb在5.0上背景白色.md)
 
 ##2015
 - [Android 解决“com.android.dex.DexIndexOverflowException: method ID not in [0, 0xffff]: 65536”问题](http://www.cnblogs.com/yeahgis/p/4660873.html)
