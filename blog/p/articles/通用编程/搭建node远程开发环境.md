@@ -109,4 +109,13 @@ npm install -g nodemom
 nodemom index.js
 ```
 
+## 杀死node进程
+
+有时ssh连接断开了，但是node进程没有关闭，重新ssh进去服务器后要先kill掉原来的node进程。
+
+```
+lsof -i :1337 // 显示占用1337端口的程序
+kill -9 pid 
+```
+
 ## 完成，可以愉快地写代码了。😂
