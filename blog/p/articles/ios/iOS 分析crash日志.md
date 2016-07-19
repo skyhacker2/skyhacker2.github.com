@@ -24,6 +24,10 @@ Foobler.app.dSYM
 
 `/Applications/Xcode.app/Contents/SharedFrameworks/DTDeviceKitBase.framework/Versions/A/Resources/symbolicatecrash`
 
+xcode 7在：
+
+`/Applications/Xcode.app/Contents/SharedFrameworks/DTDeviceKitBase.framework/Versions/A/Resources/symbolicatecrash.`
+
 获取xcode的目录
 
 `xcode-select --print-path`

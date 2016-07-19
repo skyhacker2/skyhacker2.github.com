@@ -1,6 +1,7 @@
 # Android
 
 ##2016
+- [Android Studio Gradle自动重命名安装包](Android Studio Gradle自动重命名安装包.md)
 - [Android 音乐节奏.md](./Android 音乐节奏.md)
 - [Android Seekbar自定义Thumb在5.0上背景白色](Android Seekbar自定义Thumb在5.0上背景白色.md)
 
