@@ -1,0 +1,15 @@
+{
+  "name": "updater",
+  "version": "1.0.0",
+  "description": "App在线版本更新器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eleven",
+  "license": "ISC",
+  "dependencies": {
+    "node-apk-parser": "^0.2.3",
+    "qiniu": "^6.1.13"
+  }
+}

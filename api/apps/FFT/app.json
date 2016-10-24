@@ -1,0 +1,8 @@
+{
+    "versionCode": 1,
+    "versionName": "1.0",
+    "channels": {
+        "360": "http://ofjeo4hda.bkt.clouddn.com/FFT/FFT-1.0_1.0_UMENG_CHANNEL_360应用平台_360_sign.apk",
+        "Baidu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FFT-1.0_1.0_UMENG_CHANNEL_百度手机助手_Baidu_sign.apk"
+    }
+}
