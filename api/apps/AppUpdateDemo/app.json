@@ -9,5 +9,6 @@
         "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-wandoujia-release.apk",
         "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-xiaomi-release.apk",
         "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-yingyongbao-release.apk"
-    }
+    },
+    "updateMessage": "1. 更新界面\n2. 增加在线参数功能\n3. 增加好多功能"
 }
