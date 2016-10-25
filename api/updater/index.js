@@ -177,30 +177,6 @@ function travelApps(root) {
     processApps(root, lists, 0, function() {
         console.log("处理完成");
     });
-    // lists.forEach(function(appDir) {
-    //     var fullPath = path.join(root, appDir);
-    //     var stats = fs.lstatSync(fullPath);
-    //     if (stats.isDirectory()) {
-    //         var apksDir = path.join(fullPath, "apks");
-    //         if (fs.existsSync(apksDir)) {
-    //             var infos = getApksInfo(apksDir);
-    //             var existsConfig = getExistsConfig(fullPath);
-    //             var versionCode = existsConfig.versionCode;
-    //             var config = updateApkInfoConfig(infos, existsConfig);
-
-    //             if (versionCode == config.versionCode) {
-    //                 console.log("return!");
-    //                 return;
-    //             }
-    //             console.log(config);
-    //             var apkNames = fs.readdirSync(apksDir);
-    //             uploadApks(appDir, apksDir, apkNames, 0, config, function() {
-    //                 fs.writeFileSync(path.join(fullPath, 'app.json'), JSON.stringify(config, null, 4));
-    //             });
-    //         }
-    //     }
-
-    // });
 }
 
 travelApps(APPS_FOLDER);

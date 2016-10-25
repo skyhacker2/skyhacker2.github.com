@@ -1,0 +1,13 @@
+{
+    "versionCode": 2,
+    "versionName": "1.1",
+    "channels": {
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-_360-release.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-google_play-release.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-meizu-release.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-source-release.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-wandoujia-release.apk",
+        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-xiaomi-release.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/AppUpdateDemo/app-yingyongbao-release.apk"
+    }
+}
