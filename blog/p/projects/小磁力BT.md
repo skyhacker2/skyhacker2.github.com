@@ -6,6 +6,4 @@
 
  <img src="img/BT1.png" width="200px"/>
 
-
-
- <img src="img/BT2.png" width="200px"/>
+<img src="img/BT2.png" width="200px"/>
