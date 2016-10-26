@@ -4,6 +4,8 @@
 
 [下载](http://sj.qq.com/myapp/detail.htm?apkName=io.github.skyhacker2.magnetsearch)
 
- ![BT1](img/BT1.png)
+ <img src="img/BT1.png" width="200px"/>
 
- ![BT2](img/BT2.png)
+
+
+ <img src="img/BT2.png" width="200px"/>
