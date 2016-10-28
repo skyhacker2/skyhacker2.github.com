@@ -5,6 +5,7 @@
         "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-source-release.apk",
         "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-yingyongbao-release.apk"
     },
+    "updateMessage": "1. 增加自动更新",
     "onlineParams": {
         "showAd": "true"
     }
