@@ -1,8 +1,9 @@
 {
-    "versionCode": 1,
-    "versionName": "1.0",
+    "versionCode": 2,
+    "versionName": "1.1",
     "channels": {
-        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-_360-release.apk"
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-source-release.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-yingyongbao-release.apk"
     },
     "onlineParams": {
         "showAd": "true"
