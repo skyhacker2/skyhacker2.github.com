@@ -3,5 +3,8 @@
     "versionName": "1.0",
     "channels": {
         "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-_360-release.apk"
+    },
+    "onlineParams": {
+        "showAd": "true"
     }
 }
