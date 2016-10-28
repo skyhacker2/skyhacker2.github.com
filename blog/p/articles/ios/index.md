@@ -1,6 +1,7 @@
 #iOS
 
 ##2016
+- [相机权限查询](./2016-28-检查有没有相机权限.md)
 - [创建bundle和framework](2016-08-15-创建bundle和framework.md)
 - [iOS UITableView的一些坑](2016-7-20-iOS UITableView的一些坑.md)
 - [iOS 横屏转竖屏](iOS 横屏转竖屏.md)
