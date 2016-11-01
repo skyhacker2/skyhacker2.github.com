@@ -1,7 +1,13 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
+    "versionCode": 3,
+    "versionName": "1.2",
     "channels": {
-        "undefined": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-yingyongbao-debug.apk"
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-_360-debug.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-google_play-debug.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-meizu-debug.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-source-debug.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-wandoujia-debug.apk",
+        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-xiaomi-debug.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-yingyongbao-debug.apk"
     }
 }
