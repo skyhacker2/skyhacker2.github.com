@@ -1,11 +1,16 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
+    "versionCode": 3,
+    "versionName": "1.2",
     "channels": {
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-_360-release.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-google_play-release.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-meizu-release.apk",
         "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-source-release.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-wandoujia-release.apk",
+        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-xiaomi-release.apk",
         "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-yingyongbao-release.apk"
     },
-    "updateMessage": "1. 增加自动更新",
+    "updateMessage": "1. 优化Toolbar\n2. 增加排序操作",
     "onlineParams": {
         "showAd": "true"
     }

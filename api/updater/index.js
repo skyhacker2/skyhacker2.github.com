@@ -37,7 +37,7 @@ var getManifest = function(apk) {
     if (!apk.endsWith('apk')) {return null;}
     var reader = ApkReader.readFile(apk);
     var manifest = reader.readManifestSync();
-    // console.log('apk versionCode: ' + manifest.versionCode);
+    console.log('apk versionCode: ' + manifest.versionCode);
     // console.log('apk versionName: ' + manifest.versionName);
     return manifest;
 }
@@ -68,6 +68,8 @@ function updateApkInfoConfig(infos, existsConfig) {
     }
     var first = infos[0];
     for (var i = 1; i < infos.length; i++){
+        console.log("firstVersionCode " + first.versionCode);
+        console.log("versionCode " + infos[i].versionCode);
         if (first.versionCode != infos[i].versionCode) {
             console.log("apk版本号不一致");
             return existsConfig;
