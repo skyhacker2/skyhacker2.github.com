@@ -1,1 +1,10 @@
-{}
+{
+    "versionCode": 7,
+    "versionName": "1.6",
+    "channels": {
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-meizu-release.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-source-release.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-wandoujia-release.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-yingyongbao-release.apk"
+    }
+}
