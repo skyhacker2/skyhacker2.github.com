@@ -1,5 +1,17 @@
 {
     "onlineParams": {
         "showAd": "true"
-    }
+    },
+    "versionCode": 6,
+    "versionName": "1.5",
+    "channels": {
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-_360-release.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-google_play-release.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-meizu-release.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-source-release.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-wandoujia-release.apk",
+        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-xiaomi-release.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/HeatUp/app-yingyongbao-release.apk"
+    },
+    "updateMessage": "很多同学反馈说加热效果不行，这次我加强加热效果，不行你发邮件给我。😂"
 }
