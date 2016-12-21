@@ -1,7 +1,8 @@
 {
-    "versionCode": 5,
-    "versionName": "1.4",
+    "versionCode": 6,
+    "versionName": "1.5",
     "channels": {
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-_360-release.apk",
         "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-google_play-release.apk",
         "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-meizu-release.apk",
         "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-source-release.apk",
@@ -9,7 +10,7 @@
         "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-xiaomi-release.apk",
         "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-yingyongbao-release.apk"
     },
-    "updateMessage": "1. 广告增加关闭按钮",
+    "updateMessage": "强烈要求更新该版本，修复不能搜索问题。",
     "onlineParams": {
         "showAd": "true"
     }
