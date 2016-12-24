@@ -1,0 +1,38 @@
+[
+    {
+        "title": "PDF阅读器",
+        "subtitle": "最简洁的PDF阅读器",
+        "packageName": "com.eleven.app.pdfreader",
+        "icon": "icons/ic_pdf.png"
+    },
+    {
+        "title": "生活清单",
+        "subtitle": "让您的清单一目了然",
+        "packageName": "com.eleven.app.shoppinglist",
+        "icon": "icons/ic_life_list.png"
+    },
+    {
+        "title": "小磁力BT",
+        "subtitle": "你懂的~",
+        "packageName": "io.github.skyhacker2.magnetsearch",
+        "icon": "icons/ic_magnet.png"
+    },
+    {
+        "title": "LED显示屏",
+        "subtitle": "用手机屏幕模拟LED屏幕效果",
+        "packageName": "com.eleven.app.ledscreen",
+        "icon": "icons/ic_led.png"
+    },
+    {
+        "title": "孩子更像谁",
+        "subtitle": "测量你更像爸爸还是更像妈妈",
+        "packageName": "com.eleven.app.likewho",
+        "icon": "icons/ic_likewho.png"
+    },
+    {
+        "title": "文件闪存",
+        "subtitle": "在网页快速下载手机照片",
+        "packageName": "app.eleven.com.fastfiletransfer",
+        "icon": "icons/fft.png"
+    }
+]
