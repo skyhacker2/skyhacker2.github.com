@@ -33,6 +33,6 @@
         "title": "文件闪存",
         "subtitle": "在网页快速下载手机照片",
         "packageName": "app.eleven.com.fastfiletransfer",
-        "icon": "icons/fft.png"
+        "icon": "icons/ic_fft.png"
     }
 ]
