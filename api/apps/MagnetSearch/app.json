@@ -1,14 +1,14 @@
 {
-    "versionCode": 6,
-    "versionName": "1.5",
+    "versionCode": 7,
+    "versionName": "1.6",
     "channels": {
-        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-_360-release.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-google_play-release.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-meizu-release.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-source-release.apk",
-        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-wandoujia-release.apk",
-        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-xiaomi-release.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/app-yingyongbao-release.apk"
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-_360-v1.6-build7.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v1.6-build7.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v1.6-build7.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v1.6-build7.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-wandoujia-v1.6-build7.apk",
+        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-xiaomi-v1.6-build7.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-yingyongbao-v1.6-build7.apk"
     },
     "updateMessage": "修复一些在6.0.1可能崩溃的问题",
     "onlineParams": {
