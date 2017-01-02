@@ -13,7 +13,7 @@
     var cur_md_path = '';
     var mainPage = location.search.slice(1).replace(/&.*/, '') || 'index';
     var mainTitle = '';
-    var onlineUrl = 'http://skyhacker2.github.io/blog/' + location.search.replace(/&.*/, '');
+    var onlineUrl = location.href;
     /*是否是http:// 如果是，那么这是资源文件,如果否，说明这是要处理的a标签*/
     function isAbsolute(url) {
         return url.indexOf('//') !== -1;
