@@ -337,7 +337,7 @@ blockquote {
         transform: rotate(32deg);
     }
 }
-@media (min-width: 1279px) {
+@media (min-width: 1024px) {
     .right-menu {
         display: list-item;
     }
