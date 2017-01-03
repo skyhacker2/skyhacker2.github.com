@@ -12,10 +12,12 @@
 - Cocos2dx游戏开发(C++, Lua, Js)
 - Web前端开发
 - iOS应用开发
+- U3D游戏开发
 
 ##联系我
 
 邮箱: skyhacker@126.com
+微博: [NovemberEleven](http://weibo.com/skyhacker)
 
 ## 友情链接
 [友情链接](friends.md)
