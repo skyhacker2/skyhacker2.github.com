@@ -1,4 +1,4 @@
 # About
 
-## [博客](./blog/README.MD)
+## [博客](./blog/README.md)
 
