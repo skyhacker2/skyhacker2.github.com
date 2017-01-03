@@ -16,8 +16,8 @@
 
 ##联系我
 
-邮箱: skyhacker@126.com
-微博: [NovemberEleven](http://weibo.com/skyhacker)
+- 邮箱: skyhacker@126.com
+- 微博: [NovemberEleven](http://weibo.com/skyhacker)
 
 ## 友情链接
 [友情链接](friends.md)
