@@ -10,7 +10,7 @@
         "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-xiaomi-v1.7-build8.apk",
         "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-yingyongbao-v1.7-build8.apk"
     },
-    "updateMessage": "1. 修复重复出现搜索结果。\n 2. 修复广告整屏出现。",
+    "updateMessage": "1. 修复重复出现搜索结果。\n2. 修复广告整屏出现。",
     "onlineParams": {
         "showAd": "true"
     }
