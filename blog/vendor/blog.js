@@ -117,7 +117,7 @@
                     mainTitle = $('#main-page').find('h1').first().text();
                     $('title').text(mainTitle);
                     $('.page-title').text(mainTitle);
-                    $('#main-page').find('h1').first().remove();
+                    // $('#main-page').find('h1').first().remove();
 
                     //图片位置
                     $.each(_selector.find('img'), function(index, item) {
