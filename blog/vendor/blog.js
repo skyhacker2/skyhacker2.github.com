@@ -113,25 +113,28 @@
             //main-page
             if (!isSidebar) {
                 //change title
-                mainTitle = $('#main-page').find('h1').first().text();
-                $('title').text(mainTitle);
-                $('.page-title').text(mainTitle);
-                $('#main-page').find('h1').first().remove();
+                setTimeout(function(){
+                    mainTitle = $('#main-page').find('h1').first().text();
+                    $('title').text(mainTitle);
+                    $('.page-title').text(mainTitle);
+                    $('#main-page').find('h1').first().remove();
 
-                //图片位置
-                $.each(_selector.find('img'), function(index, item) {
-                    var alt = $(item).attr('alt') || '';
-                    if (alt.indexOf('|left') != -1) {
-                        $(item).addClass('img-left');
-                    } else if (alt.indexOf('|right') != -1) {
-                        $(item).addClass('img-right');
-                    } else {
-                        $(item).addClass('img-center');
-                    }
-                    var src = $(item).attr('src');
-                    var path = resolvePath(getPageBase(p_url), src);
-                    $(item).attr('src', path);
-                });
+                    //图片位置
+                    $.each(_selector.find('img'), function(index, item) {
+                        var alt = $(item).attr('alt') || '';
+                        if (alt.indexOf('|left') != -1) {
+                            $(item).addClass('img-left');
+                        } else if (alt.indexOf('|right') != -1) {
+                            $(item).addClass('img-right');
+                        } else {
+                            $(item).addClass('img-center');
+                        }
+                        var src = $(item).attr('src');
+                        var path = resolvePath(getPageBase(p_url), src);
+                        $(item).attr('src', path);
+                    });
+                }, 0);
+                
 
                 // 评论
                 /* * * CONFIGURATION VARIABLES * * */
