@@ -75,6 +75,7 @@
     function load(selector, file_path, isSidebar, baseUrl) {
         var baseUrl = baseUrl || blog_base;
         var isSidebar = isSidebar || false;
+        console.log(file_path);
 
         p_url = baseUrl + file_path;
         // console.log(getPageBase(p_url));
@@ -113,27 +114,27 @@
             //main-page
             if (!isSidebar) {
                 //change title
-                setTimeout(function(){
+                if (!$('.page-title').text()) {
                     mainTitle = $('#main-page').find('h1').first().text();
                     $('title').text(mainTitle);
                     $('.page-title').text(mainTitle);
-                    // $('#main-page').find('h1').first().remove();
+                    $('#main-page').find('h1').first().remove();
+                }
 
-                    //图片位置
-                    $.each(_selector.find('img'), function(index, item) {
-                        var alt = $(item).attr('alt') || '';
-                        if (alt.indexOf('|left') != -1) {
-                            $(item).addClass('img-left');
-                        } else if (alt.indexOf('|right') != -1) {
-                            $(item).addClass('img-right');
-                        } else {
-                            $(item).addClass('img-center');
-                        }
-                        var src = $(item).attr('src');
-                        var path = resolvePath(getPageBase(p_url), src);
-                        $(item).attr('src', path);
-                    });
-                }, 0);
+                //图片位置
+                $.each(_selector.find('img'), function(index, item) {
+                    var alt = $(item).attr('alt') || '';
+                    if (alt.indexOf('|left') != -1) {
+                        $(item).addClass('img-left');
+                    } else if (alt.indexOf('|right') != -1) {
+                        $(item).addClass('img-right');
+                    } else {
+                        $(item).addClass('img-center');
+                    }
+                    var src = $(item).attr('src');
+                    var path = resolvePath(getPageBase(p_url), src);
+                    $(item).attr('src', path);
+                });
                 
 
                 // 评论
