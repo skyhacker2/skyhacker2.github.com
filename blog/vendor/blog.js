@@ -113,7 +113,7 @@
             //main-page
             if (!isSidebar) {
                 //change title
-                mainTitle = $('#main-page').find('h1, h2, h3, h4, h5, h6').first().text();
+                mainTitle = $('#main-page').find('h1').first().text();
                 $('title').text(mainTitle);
                 $('.page-title').text(mainTitle);
                 $('#main-page').find('h1').first().remove();
