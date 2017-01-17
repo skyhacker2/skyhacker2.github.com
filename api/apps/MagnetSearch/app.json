@@ -1,16 +1,16 @@
 {
-    "versionCode": 8,
-    "versionName": "1.7",
+    "versionCode": 9,
+    "versionName": "1.8",
     "channels": {
-        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-_360-v1.7-build8.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v1.7-build8.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v1.7-build8.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v1.7-build8.apk",
-        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-wandoujia-v1.7-build8.apk",
-        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-xiaomi-v1.7-build8.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-yingyongbao-v1.7-build8.apk"
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-_360-v1.8-build9.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v1.8-build9.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v1.8-build9.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v1.8-build9.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-wandoujia-v1.8-build9.apk",
+        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-xiaomi-v1.8-build9.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-yingyongbao-v1.8-build9.apk"
     },
-    "updateMessage": "1. 修复重复出现搜索结果。\n2. 修复广告整屏出现。",
+    "updateMessage": "1. 增加直接调用支持磁力下载的App进行下载",
     "onlineParams": {
         "showAd": "true"
     }
