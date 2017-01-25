@@ -1,5 +1,11 @@
 [
     {
+        "title": "小磁力BT(无广告)",
+        "subtitle": "你懂的~",
+        "packageName": "io.github.skyhacker2.magnetsearchpro",
+        "icon": "icons/ic_magnet.png"
+    },
+    {
         "title": "PDF阅读器",
         "subtitle": "最简洁的PDF阅读器",
         "packageName": "com.eleven.app.pdfreader",
