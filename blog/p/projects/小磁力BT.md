@@ -1,9 +1,17 @@
 # 小磁力BT
 
- ![小磁力144](img/小磁力144.png)
+![小磁力144](img/小磁力144.png)
 
-[下载](http://sj.qq.com/myapp/detail.htm?apkName=io.github.skyhacker2.magnetsearch)
+<a class="download-btn" href="http://app.meizu.com/apps/public/detail?package_name=io.github.skyhacker2.magnetsearch"></i> 下载</a>
 
- <img src="img/BT1.png" width="200px"/>
+磁力链接搜索Android客户端
 
-<img src="img/BT2.png" width="200px"/>
+磁力种子搜索神器，本App搜索结果来自网络，实现了一站式全网磁力引擎种子搜索功能，包括视频、音频、图片、小说等。
+
+种子搜索神器，你值得拥有。
+
+[特别声明]本App不提供、不存储种子文件，只提供磁力链接，如有侵权，请跟分享方联系。
+
+<img src="img/BT1.png" width="200px" height="auto" />
+
+<img src="img/BT2.png" width="200px" height="auto" />
