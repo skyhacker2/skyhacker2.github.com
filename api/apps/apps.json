@@ -6,6 +6,12 @@
         "icon": "icons/ic_magnet.png"
     },
     {
+        "title": "小磁力BT",
+        "subtitle": "你懂的~",
+        "packageName": "io.github.skyhacker2.magnetsearch",
+        "icon": "icons/ic_magnet.png"
+    },
+    {
         "title": "PDF阅读器",
         "subtitle": "最简洁的PDF阅读器",
         "packageName": "com.eleven.app.pdfreader",
@@ -16,12 +22,6 @@
         "subtitle": "让您的清单一目了然",
         "packageName": "com.eleven.app.shoppinglist",
         "icon": "icons/ic_life_list.png"
-    },
-    {
-        "title": "小磁力BT",
-        "subtitle": "你懂的~",
-        "packageName": "io.github.skyhacker2.magnetsearch",
-        "icon": "icons/ic_magnet.png"
     },
     {
         "title": "LED显示屏",
