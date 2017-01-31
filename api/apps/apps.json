@@ -18,6 +18,12 @@
         "icon": "icons/ic_pdf.png"
     },
     {
+        "title": "iPDF(GooglePlay)",
+        "subtitle": "最简洁的PDF阅读器",
+        "packageName": "io.github.skyhacker2.pdf",
+        "icon": "icons/ic_pdf.png"
+    },
+    {
         "title": "生活清单",
         "subtitle": "让您的清单一目了然",
         "packageName": "com.eleven.app.shoppinglist",
