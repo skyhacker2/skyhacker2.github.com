@@ -46,7 +46,6 @@ table {
 table th, table td {
     border: 1px solid #ddd;
     padding: 6px 13px;
-    min-width: 4em;
 }
 table tr {
     border-top: 1px solid #ccc;
@@ -283,7 +282,7 @@ blockquote {
         margin-left: 8%;
     }
     .button-collapse i {
-        line-height: 128px;
+        line-height: 5rem;
     }
 
     .cover {
@@ -298,6 +297,41 @@ blockquote {
         opacity: 0;
         display: none;
     }
+    .top-nav {
+        height: 5rem;
+    }
+    .page-title {
+        line-height: 5rem;
+    }
+    table {
+        display: table !important;
+        padding-left: -5%;
+        padding-right: -5%;
+    }
+    table tr {
+        display: block;
+        margin-bottom: 10px;
+        background-color: #ffffff !important;
+        width: 100%;
+        border: none !important;
+        border-bottom: 1px solid #ddd !important;
+        // box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        border-radius: 2px;
+    }
+    table td {
+        display: block;
+        padding: 10px;
+        text-align: left;
+        border: none !important;
+    }
+    table thead th{
+        border: none !important;
+    }
+    table thead tr {
+        font-size: 22px;
+        background-color: #f5f5f5 !important;
+    }
+
 
 }
 @media (min-width: 640px) {
@@ -336,6 +370,8 @@ blockquote {
         top: 6px;
         transform: rotate(32deg);
     }
+
+
 }
 @media (min-width: 1024px) {
     .right-menu {
