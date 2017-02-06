@@ -309,7 +309,7 @@ blockquote {
         padding-right: -5%;
     }
     table tr {
-        display: block;
+        display: block !important;
         margin-bottom: 10px;
         background-color: #ffffff !important;
         width: 100%;
@@ -319,7 +319,7 @@ blockquote {
         border-radius: 2px;
     }
     table td {
-        display: block;
+        display: block !important;
         padding: 10px;
         text-align: left;
         border: none !important;
