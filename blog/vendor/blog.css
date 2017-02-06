@@ -277,7 +277,10 @@ blockquote {
         padding-left: 5%;
         padding-right: 5%;
     }
-    .button-collapse, .page-title  {
+    .page-title {
+        margin-left: 8%;
+    }
+    .button-collapse {
         float: left;
         margin-left: 8%;
     }
