@@ -1,16 +1,11 @@
 {
-    "versionCode": 9,
-    "versionName": "1.8",
+    "versionCode": 11,
+    "versionName": "2.0",
     "channels": {
-        "_360": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-_360-v1.8-build9.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v1.8-build9.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v1.8-build9.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v1.8-build9.apk",
-        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-wandoujia-v1.8-build9.apk",
-        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-xiaomi-v1.8-build9.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-yingyongbao-v1.8-build9.apk"
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v2.0-build11.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v2.0-build11.apk"
     },
-    "updateMessage": "1. 增加直接调用支持磁力下载的App进行下载",
+    "updateMessage": "1. 新界面，更简洁\n2. 增加搜索词建议",
     "onlineParams": {
         "showAd": "true"
     }
