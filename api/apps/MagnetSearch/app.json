@@ -1,9 +1,9 @@
 {
-    "versionCode": 10,
-    "versionName": "2.0",
+    "versionCode": 12,
+    "versionName": "2.0.1",
     "channels": {
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v2.0-build11.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v2.0-build11.apk"
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v2.0.1-build12.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v2.0.1-build12.apk"
     },
     "updateMessage": "1. 新界面，更简洁\n2. 增加搜索词建议",
     "onlineParams": {
