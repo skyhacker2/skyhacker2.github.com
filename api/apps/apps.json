@@ -1,13 +1,13 @@
 [
     {
         "title": "小磁力BT(无广告)",
-        "subtitle": "你懂的~",
+        "subtitle": "极简磁力链接搜索工具",
         "packageName": "io.github.skyhacker2.magnetsearchpro",
         "icon": "icons/ic_magnet.png"
     },
     {
         "title": "小磁力BT",
-        "subtitle": "你懂的~",
+        "subtitle": "极简磁力链接搜索工具",
         "packageName": "io.github.skyhacker2.magnetsearch",
         "icon": "icons/ic_magnet.png"
     },
@@ -46,11 +46,5 @@
         "subtitle": "在网页快速下载手机照片",
         "packageName": "app.eleven.com.fastfiletransfer",
         "icon": "icons/ic_fft.png"
-    },
-    {
-        "title": "水滴爆破",
-        "subtitle": "一滴水引爆整个世界",
-        "packageName": "com.eleven.game.tenwater",
-        "icon": "icons/ic_tenwater.png"
     }
 ]
