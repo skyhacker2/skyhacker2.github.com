@@ -34,6 +34,24 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub root@192.168.200.10
 
 ## 安装Mongodb
 
+### 添加源
+```
+emacs /etc/yum.repos.d/mongodb.repo
+```
+输入下面内容：
+
+```
+[mongodb]
+name=MongoDB Repository
+baseurl=http://downloads-distro.mongodb.org/repo/redhat/os/x86_64/
+gpgcheck=0
+enabled=1
+```
+
+然后运行yum repolist
+
+最后
+
 ```
 yum install mongodb-org
 ```
