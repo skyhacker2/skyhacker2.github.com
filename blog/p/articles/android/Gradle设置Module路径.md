@@ -2,6 +2,8 @@
 
 代码表示更清楚
 
+在settings.gradle文件里：
+
 ```
 include ':libcocos2dx', ':libpluginble', ':libpluginmscvoice', ':libtakephoto'
 project(':libcocos2dx').projectDir = new File(settingsDir, '../cocos2d/cocos/platform/android/libcocos2dx')
