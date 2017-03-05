@@ -1,5 +1,8 @@
 # Android
 
+##2017
+- [Gradle设置Module路径](Gradle设置Module路径.md)
+
 ##2016
 - [Android Studio Gradle自动重命名安装包](Android Studio Gradle自动重命名安装包.md)
 - [Android 音乐节奏.md](./Android 音乐节奏.md)
