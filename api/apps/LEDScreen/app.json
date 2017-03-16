@@ -1,12 +1,12 @@
 {
-    "versionCode": 9,
-    "versionName": "1.8",
+    "versionCode": 10,
+    "versionName": "1.9",
     "channels": {
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-google_play-release.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-meizu-release.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-source-release.apk",
-        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-wandoujia-release.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/app-yingyongbao-release.apk"
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-google_play-v1.9-build10.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v1.9-build10.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-source-v1.9-build10.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-wandoujia-v1.9-build10.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v1.9-build10.apk"
     },
-    "updateMessage": "增加去除广告功能"
+    "updateMessage": "修复手绘返回崩溃的问题"
 }
