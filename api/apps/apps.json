@@ -18,12 +18,6 @@
         "icon": "icons/ic_pdf.png"
     },
     {
-        "title": "iPDF(GooglePlay)",
-        "subtitle": "最简洁的PDF阅读器",
-        "packageName": "io.github.skyhacker2.pdf",
-        "icon": "icons/ic_pdf.png"
-    },
-    {
         "title": "生活清单",
         "subtitle": "让您的清单一目了然",
         "packageName": "com.eleven.app.shoppinglist",
@@ -46,5 +40,11 @@
         "subtitle": "在网页快速下载手机照片",
         "packageName": "app.eleven.com.fastfiletransfer",
         "icon": "icons/ic_fft.png"
+    },
+    {
+        "title": "SendApp",
+        "subtitle": "发送和抽取已安装的应用",
+        "packageName": "io.github.skyhacker2.sendapp",
+        "icon": "icons/ic_sendapp.png"
     }
 ]
