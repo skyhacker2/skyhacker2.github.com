@@ -166,6 +166,9 @@ function processApps(root, lists, current, callback) {
                 fs.writeFileSync(path.join(fullPath, 'app.json'), JSON.stringify(config, null, 4));
                 processApps(root, lists, current+1, callback);
             });
+        } else {
+            console.log("跳过" + appDir);
+            processApps(root, lists, current+1, callback);
         }
     } else {
         processApps(root, lists, current+1, callback);

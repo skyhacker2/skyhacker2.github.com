@@ -1,1 +1,11 @@
-{}
+{
+    "versionCode": 4,
+    "versionName": "1.1",
+    "channels": {
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-cool-v1.1-build4.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-google_play-v1.1-build4.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-meizu-v1.1-build4.apk",
+        "YingYongBao": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-yingyongbao-v1.1-build4.apk"
+    },
+    "updateMessage": "增加搜索功能"
+}
