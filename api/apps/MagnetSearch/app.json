@@ -1,11 +1,11 @@
 {
-    "versionCode": 13,
-    "versionName": "2.0.2",
+    "versionCode": 18,
+    "versionName": "2.0.6",
     "channels": {
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v2.0.2-build13.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v2.0.2-build13.apk"
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v2.0.6-build18.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v2.0.6-build18.apk"
     },
-    "updateMessage": "修复搜索框不能粘贴",
+    "updateMessage": "修复搜索结果重复",
     "onlineParams": {
         "showAd": "true"
     }
