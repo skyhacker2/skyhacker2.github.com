@@ -2,7 +2,7 @@
 
 ![小磁力144](img/小磁力144.png)
 
-<a class="download-btn" href="http://app.meizu.com/apps/public/detail?package_name=io.github.skyhacker2.magnetsearch"></i> 下载</a>
+<a class="download-btn" href="http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v2.0.6-build18.apk"></i> 下载</a>
 
 磁力链接搜索Android客户端
 
