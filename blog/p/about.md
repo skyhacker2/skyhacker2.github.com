@@ -6,13 +6,11 @@
 
 得可爱女友一枚，帮助我设计。个人曾开发多款app上架应用商店。[作品](./projects/index.md)
 
-##掌握技能
+##简历
 
-- Android应用开发
-- Cocos2dx游戏开发(C++, Lua, Js)
-- Web前端开发
-- iOS应用开发
-- U3D游戏开发
+[英文简历](Hongjing Chen Resume.md)
+
+<a href="p/陈洪晶的简历.pdf">中文简历</a>
 
 ##联系我
 
