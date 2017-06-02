@@ -1,12 +1,12 @@
 {
-    "versionCode": 0,
-    "versionName": "3.0.5",
+    "versionCode": 28,
+    "versionName": "3.0.7",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.0.5-build26.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.0.5-build26.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.0.5-build26.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.0.7-build28.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.0.7-build28.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.0.7-build28.apk"
     },
-    "updateMessage": "重磅功能更新：\n1. 增加MXPlayer播放支持\n2. 增加ADM下载支持\n注意：不是所有资源都支持！\n升级时如果提示无法解析安装包，请到酷安或GooglePlay下载最新版本。\n感谢大家一直支持。",
+    "updateMessage": "增加搜索源切换",
     "onlineParams": {
         "showAd": "true"
     }
