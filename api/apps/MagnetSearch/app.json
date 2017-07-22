@@ -1,12 +1,12 @@
 {
-    "versionCode": 28,
-    "versionName": "3.0.7",
+    "versionCode": 29,
+    "versionName": "3.0.8",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.0.7-build28.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.0.7-build28.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.0.7-build28.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.0.8-build29.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.0.8-build29.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.0.8-build29.apk"
     },
-    "updateMessage": "增加搜索源切换",
+    "updateMessage": "修复无法搜索",
     "onlineParams": {
         "showAd": "true"
     }
