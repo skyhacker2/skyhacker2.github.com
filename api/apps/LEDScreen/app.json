@@ -8,5 +8,8 @@
         "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-wandoujia-v1.9-build10.apk",
         "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v1.9-build10.apk"
     },
-    "updateMessage": "修复手绘返回崩溃的问题"
+    "updateMessage": "修复手绘返回崩溃的问题",
+    "onlineParams": {
+        "showPay": "false"
+    }
 }
