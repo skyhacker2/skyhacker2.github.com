@@ -1,1 +1,14 @@
-{}
+{
+    "versionCode": 12,
+    "versionName": "2.1",
+    "channels": {
+        "_360": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-_360-release.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-google_play-release.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-meizu-release.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-source-release.apk",
+        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-wandoujia-release.apk",
+        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-xiaomi-release.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-yingyongbao-release.apk"
+    },
+    "updateMessage": "优化拖动排序"
+}
