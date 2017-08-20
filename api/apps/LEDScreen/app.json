@@ -10,6 +10,6 @@
     },
     "updateMessage": "修复手绘返回崩溃的问题",
     "onlineParams": {
-        "showPay": "true"
+        "showPay": "false"
     }
 }
