@@ -1,12 +1,12 @@
 {
-    "versionCode": 31,
-    "versionName": "3.1.0",
+    "versionCode": 33,
+    "versionName": "3.1.2",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.0-build31.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.0-build31.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.0-build31.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.2-build33.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.2-build33.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.2-build33.apk"
     },
-    "updateMessage": "1. 增加btbook搜索源\n2. 增加自动选择速度最快的搜索源",
+    "updateMessage": "修复btbook有时长时间不出结果",
     "onlineParams": {
         "showAd": "true"
     }
