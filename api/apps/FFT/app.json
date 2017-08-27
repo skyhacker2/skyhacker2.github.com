@@ -6,7 +6,7 @@
         "Baidu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FFT-1.0_1.0_UMENG_CHANNEL_百度手机助手_Baidu_sign.apk"
     },
     "onlineParams": {
-        "showSpotAd": "true",
+        "showSpotAd": "false",
         "showBannerAd": "true"
     }
 }
