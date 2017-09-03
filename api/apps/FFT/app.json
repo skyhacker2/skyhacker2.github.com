@@ -1,10 +1,15 @@
 {
-    "versionCode": 1,
-    "versionName": "1.0",
+    "versionCode": 6,
+    "versionName": "1.5",
     "channels": {
-        "360": "http://ofjeo4hda.bkt.clouddn.com/FFT/FFT-1.0_1.0_UMENG_CHANNEL_360应用平台_360_sign.apk",
-        "Baidu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FFT-1.0_1.0_UMENG_CHANNEL_百度手机助手_Baidu_sign.apk"
+        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-cool-v1.5-build6.apk",
+        "dev": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-dev-v1.5-build6.apk",
+        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_play-v1.5-build6.apk",
+        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizu-v1.5-build6.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-source-v1.5-build6.apk",
+        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbao-v1.5-build6.apk"
     },
+    "updateMessage":"1. 增加密码功能\n2. 修复download文件夹文件不能选中下载\n3. 文件列表按照名字排序",
     "onlineParams": {
         "showSpotAd": "false",
         "showBannerAd": "true"
