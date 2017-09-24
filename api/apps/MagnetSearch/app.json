@@ -8,6 +8,8 @@
     },
     "updateMessage": "修复btbook有时长时间不出结果",
     "onlineParams": {
-        "showAd": "true"
+        "comment": "0-腾讯, 1-admob",
+        "showAd": "true",
+        "adProvider": "1"
     }
 }
