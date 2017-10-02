@@ -12,7 +12,8 @@
         "showAd": "true",
         "adProvider": "0",
         "adTypeComment": "native-原生, banner-横幅",
-        "adType": "native",
+        "QQAdType": "banner",
+        "GoogleAdType": "native",
         "smartAdProviderComment": "没有手机权限时，显示admob的广告",
         "smartAdProvider" : "true"
     }
