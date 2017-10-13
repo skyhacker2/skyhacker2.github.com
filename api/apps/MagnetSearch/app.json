@@ -1,12 +1,12 @@
 {
-    "versionCode": 33,
-    "versionName": "3.1.2",
+    "versionCode": 38,
+    "versionName": "3.1.7",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.2-build33.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.2-build33.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.2-build33.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.7-build38.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.7-build38.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.7-build38.apk"
     },
-    "updateMessage": "修复btbook有时长时间不出结果",
+    "updateMessage": "增加一个搜索源",
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",
@@ -15,6 +15,6 @@
         "QQAdType": "banner",
         "GoogleAdType": "banner",
         "smartAdProviderComment": "没有手机权限时，显示admob的广告",
-        "smartAdProvider" : "true"
+        "smartAdProvider": "true"
     }
 }
