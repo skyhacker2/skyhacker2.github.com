@@ -11,7 +11,7 @@
     },
     "updateMessage": "1. 优化上传大文件的处理时间\n2. 修复同时上传多个文件\n3. 增加上传文件列表",
     "onlineParams": {
-        "showSpotAd": "false",
-        "showBannerAd": "true"
+        "showSpotAd": "true",
+        "showBannerAd": "false"
     }
 }
