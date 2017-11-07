@@ -10,7 +10,7 @@
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",
-        "adProvider": "0",
+        "adProvider": "1",
         "adTypeComment": "native-原生, banner-横幅",
         "QQAdType": "banner",
         "GoogleAdType": "banner",
