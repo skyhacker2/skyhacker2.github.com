@@ -1,12 +1,12 @@
 {
-    "versionCode": 38,
-    "versionName": "3.1.7",
+    "versionCode": 39,
+    "versionName": "3.1.8",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.7-build38.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.7-build38.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.7-build38.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.8-build39.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.8-build39.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.8-build39.apk"
     },
-    "updateMessage": "增加一个搜索源",
+    "updateMessage": "1. 修复阿狸磁力无法访问\n2. 优化遇到无法访问的搜索源时自动切换可用的",
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",

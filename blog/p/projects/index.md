@@ -33,7 +33,7 @@
 
 [小磁力BT](小磁力BT.md)
 
-> 搜索磁力链接
+> 最好用的磁力搜索App
 
 ## OSX App
 [BleSim](BleSim.md)
