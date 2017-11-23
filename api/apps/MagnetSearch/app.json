@@ -1,12 +1,12 @@
 {
-    "versionCode": 39,
-    "versionName": "3.1.8",
+    "versionCode": 40,
+    "versionName": "3.1.9",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.8-build39.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.8-build39.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.8-build39.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.1.9-build40.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.1.9-build40.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.1.9-build40.apk"
     },
-    "updateMessage": "1. 修复阿狸磁力无法访问\n2. 优化遇到无法访问的搜索源时自动切换可用的",
+    "updateMessage": "1. 修复nimasou搜索源\n2. 增加BTDB搜索源",
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",
