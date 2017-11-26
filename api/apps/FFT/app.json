@@ -1,15 +1,14 @@
 {
-    "versionCode": 8,
-    "versionName": "1.7",
+    "versionCode": "13",
+    "versionName": "2.2",
     "channels": {
-        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-cool-v1.7-build8.apk",
-        "dev": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-dev-v1.7-build8.apk",
-        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_play-v1.7-build8.apk",
-        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizu-v1.7-build8.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-source-v1.7-build8.apk",
-        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbao-v1.7-build8.apk"
+        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-coolRelease-2.2-build13.apk",
+        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_playRelease-2.2-build13.apk",
+        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizuRelease-2.2-build13.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-xiaomiRelease-2.2-build13.apk",
+        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbaoRelease-2.2-build13.apk"
     },
-    "updateMessage": "1. 优化上传大文件的处理时间\n2. 修复同时上传多个文件\n3. 增加上传文件列表",
+    "updateMessage": "1. 优化app界面\n2. 增加屏幕投影到浏览器功能（无需安装额外程序\n3. 网页端能同步手机剪切板（双向）",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false"
