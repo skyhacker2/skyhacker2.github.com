@@ -1,14 +1,14 @@
 {
-    "versionCode": "13",
-    "versionName": "2.2",
+    "versionCode": "14",
+    "versionName": "2.3",
     "channels": {
-        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-coolRelease-2.2-build13.apk",
-        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_playRelease-2.2-build13.apk",
-        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizuRelease-2.2-build13.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-xiaomiRelease-2.2-build13.apk",
-        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbaoRelease-2.2-build13.apk"
+        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-coolRelease-2.3-build14.apk",
+        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_playRelease-2.3-build14.apk",
+        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizuRelease-2.3-build14.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-xiaomiRelease-2.3-build14.apk",
+        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbaoRelease-2.3-build14.apk"
     },
-    "updateMessage": "1. 优化app界面\n2. 增加屏幕投影到浏览器功能（无需安装额外程序\n3. 网页端能同步手机剪切板（双向）",
+    "updateMessage": "1. 优化app界面\n2. 增加屏幕投影到浏览器功能（无需安装额外程序\n3. 网页端能同步手机剪切板（双向\n4.增加后台运行",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false"
