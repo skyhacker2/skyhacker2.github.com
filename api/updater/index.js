@@ -1,8 +1,8 @@
-var ApkReader = require('node-apk-parser');
 var fs = require('fs');
 var path = require('path');
 var qiniuConfig = require('./qiniu.json');
 var qiniu = require('qiniu');
+var child_process = require('child_process');
 
 var APPS_FOLDER = '../apps/';
 var channelMaps = {};
@@ -35,10 +35,16 @@ var uploadFileToQiniu = function(uptoken, key, localFile, callback) {
 /// 获取apk的信息
 var getManifest = function(apk) {
     if (!apk.endsWith('apk')) {return null;}
-    var reader = ApkReader.readFile(apk);
-    var manifest = reader.readManifestSync();
-    console.log('apk versionCode: ' + manifest.versionCode);
-    // console.log('apk versionName: ' + manifest.versionName);
+    var info = child_process.execSync("aapt d --include-meta-data badging " + apk).toString();
+    var versionCode = /package:.*versionCode='([^\n\']+)'/g.exec(info)[1];
+    var versionName = /package:.*versionName='([^\n\']+)'/g.exec(info)[1];
+    var channel = /meta-data: name='UMENG_CHANNEL' value='([^\n\']+)'/g.exec(info)[1];
+    var manifest = {
+        versionCode: versionCode,
+        versionName: versionName,
+        channel: channel
+    };
+    console.log(manifest);
     return manifest;
 }
 
@@ -48,12 +54,7 @@ function getApksInfo(apksDir) {
     for (var i = 0; i < apks.length; i++) {
         var manifest = getManifest(path.join(apksDir, apks[i]));
         if (manifest){
-            for (var j = 0; j < manifest.application.metaDatas.length; j++) {
-                if (manifest.application.metaDatas[j]["name"] == "UMENG_CHANNEL") {
-                    channelMaps[apks[i]] = manifest.application.metaDatas[j]["value"];
-                }
-            }
-            
+            channelMaps[apks[i]] = manifest.channel;
             infos.push(manifest);
         }
         // console.log(manifest.application.metaDatas);
@@ -85,13 +86,8 @@ function updateApkInfoConfig(infos, existsConfig) {
     existsConfig.channels = {};
 
     for (var i = 0; i < infos.length; i++) {
-        var metaDatas = infos[i].application.metaDatas;
-        for (var j = 0; j < metaDatas.length; j++) {
-            if (metaDatas[j]["name"] == "UMENG_CHANNEL") {
-                // console.log(metaDatas[j]["value"]);
-                existsConfig.channels[metaDatas[j]["value"]] = "";
-            }
-        }
+        var channel = infos[i].channel;
+        existsConfig.channels[channel] = "";
     }
 
     return existsConfig;
