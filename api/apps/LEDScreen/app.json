@@ -1,16 +1,15 @@
 {
-    "versionCode": 10,
-    "versionName": "1.9",
+    "versionCode": "16",
+    "versionName": "2.5",
     "channels": {
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-google_play-v1.9-build10.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v1.9-build10.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-source-v1.9-build10.apk",
-        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-wandoujia-v1.9-build10.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v1.9-build10.apk"
+        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v2.5-build16.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v2.5-build16.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v2.5-build16.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v2.5-build16.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "修复手绘返回崩溃的问题",
+    "updateMessage": "1. 手绘增加静态模式\n2. 全屏时，隐藏虚拟按键\n3. 修复选择图案没有实时显示预览",
     "onlineParams": {
         "showPay": "false"
     }
