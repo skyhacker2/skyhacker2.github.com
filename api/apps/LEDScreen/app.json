@@ -11,6 +11,7 @@
     "installMode": 0,
     "updateMessage": "1. 手绘增加静态模式\n2. 全屏时，隐藏虚拟按键\n3. 修复选择图案没有实时显示预览",
     "onlineParams": {
-        "showPay": "false"
+        "showPay": "true",
+        "price": "4.00"
     }
 }
