@@ -12,6 +12,7 @@
     "updateMessage": "1. 增加内购移除广告\n2. 颜色对话框增加预设颜色",
     "onlineParams": {
         "showPay": "false",
-        "price": "2.99"
+        "price": "2.99",
+        "showPay2": "true"
     }
 }
