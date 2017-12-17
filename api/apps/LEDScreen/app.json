@@ -1,6 +1,6 @@
 {
-    "versionCode": "17",
-    "versionName": "2.6",
+    "versionCode": "16",
+    "versionName": "2.5",
     "channels": {
         "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v2.6-build17.apk",
         "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v2.6-build17.apk",
@@ -11,7 +11,7 @@
     "installMode": 0,
     "updateMessage": "1. 增加内购移除广告\n2. 颜色对话框增加预设颜色",
     "onlineParams": {
-        "showPay": "true",
+        "showPay": "false",
         "price": "2.99"
     }
 }
