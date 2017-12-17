@@ -1,15 +1,15 @@
 {
-    "versionCode": "16",
-    "versionName": "2.5",
+    "versionCode": "18",
+    "versionName": "2.7",
     "channels": {
-        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v2.6-build17.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v2.6-build17.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v2.6-build17.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v2.6-build17.apk"
+        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v2.7-build18.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v2.7-build18.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v2.7-build18.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v2.7-build18.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "1. 增加内购移除广告\n2. 颜色对话框增加预设颜色",
+    "updateMessage": "1. 紧急修复支付功能\n2. 颜色对话框增加预设颜色",
     "onlineParams": {
         "showPay": "false",
         "price": "2.99",
