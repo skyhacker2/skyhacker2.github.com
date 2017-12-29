@@ -1,15 +1,14 @@
 {
-    "versionCode": "20",
-    "versionName": "2.9",
+    "versionCode": "21",
+    "versionName": "3.0",
     "channels": {
-        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v2.9-build20.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v2.9-build20.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v2.9-build20.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v2.9-build20.apk"
+        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v3.0-build21.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v3.0-build21.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v3.0-build21.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "1. 修复手绘一系列奇怪问题\n2. 修复展示时屏幕不能常亮\n3. 一点界面的小优化",
+    "updateMessage": "1.【严重】修复进入字幕滚动崩溃\n2. 增加多行文本显示",
     "onlineParams": {
         "showPay": "false",
         "price": "2.99",
