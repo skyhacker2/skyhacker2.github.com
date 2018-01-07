@@ -3,7 +3,7 @@
     "versionName": "3.1.9",
     "channels": {
     },
-    "updateMessage": "【注意】由于之前版本存在缺陷，本次版本更新需要在开发者网站下载APK覆盖安装，GooglePlay用户可以通过商店更新。对此深感抱歉😞。\nApp关于页面->开发者->作品->小磁力BT\n\n 1. 更新磁力网站最新URL\n2.适配全面屏手机",
+    "updateMessage": "【注意】由于之前版本存在缺陷，本次版本更新需要在开发者网站下载APK覆盖安装，GooglePlay用户可以通过商店更新。对此深感抱歉😞。\nApp关于页面->开发者->作品->小磁力BT\n\n1. 更新磁力网站最新URL\n2.适配全面屏手机",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
