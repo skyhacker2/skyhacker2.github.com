@@ -8,6 +8,8 @@
         "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch-source-v3.1.9-build40.apk"
     },
     "updateMessage": "1. 修复nimasou搜索源\n2. 增加BTDB搜索源",
+    "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
+    "installMode": 2,
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",
