@@ -12,6 +12,9 @@
     "onlineParams": {
         "showPay": "false",
         "price": "2.99",
-        "showPay2": "true"
+        "showPay2": "true",
+        "splashADPerLaunch": "2",
+        "QQAdTypeComment": "0-banner广告，1-开屏广告",
+        "QQAdType": "0"
     }
 }
