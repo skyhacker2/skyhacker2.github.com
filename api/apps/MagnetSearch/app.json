@@ -4,7 +4,7 @@
     "channels": {
         "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.2.0-build41.apk"
     },
-    "updateMessage": "【注意】由于之前版本存在缺陷，自动更新安装后可能无法启动App，本次版本更新需要在开发者网站下载APK覆盖安装，GooglePlay用户可以通过商店更新。对此深感抱歉😞。\n\n更新按钮可能导致闪退，请点击以后再说\n\n更新步骤：\n右上角菜单->关于->开发者->作品->小磁力BT\n\n更新内容:\n1. 更新磁力网站最新URL\n2.适配全面屏手机",
+    "updateMessage": "更新内容:\n1. 更新磁力网站最新URL\n2.适配全面屏(18:9)手机",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
