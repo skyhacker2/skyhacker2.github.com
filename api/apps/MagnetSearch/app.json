@@ -1,11 +1,11 @@
 {
-    "versionCode": "41",
-    "versionName": "3.2.0",
+    "versionCode": "43",
+    "versionName": "3.3",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.2.1-build42.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.2.1-build42.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.2.1-build42.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v3.2.1-build42.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.3-build43.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.3-build43.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.3-build43.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v3.3-build43.apk"
     },
     "updateMessage": "更新内容:\n增加第三方下载软件调用。",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
