@@ -15,6 +15,8 @@
         "QQAdType": "native",
         "GoogleAdType": "banner",
         "smartAdProviderComment": "没有手机权限时，显示admob的广告",
-        "smartAdProvider": "true"
+        "smartAdProvider": "true",
+        "showShuoFeng": "true",
+        "shuoFengUrl": "https://d.appband.com/?from=xcl"
     }
 }
