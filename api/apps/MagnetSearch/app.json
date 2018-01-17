@@ -22,6 +22,7 @@
         "showShuoFeng": "true",
         "shuoFengUrl": "https://d.appband.com/?from=xcl",
         "showXunLei": "true",
-        "xunLeiUrl": "https://mobile.xunlei.com"
+        "xunLeiUrl": "https://mobile.xunlei.com",
+        "useDabaicai": "false"
     }
 }
