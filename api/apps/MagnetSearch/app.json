@@ -21,7 +21,7 @@
         "smartAdProvider": "true",
         "showShuoFeng": "true",
         "shuoFengUrl": "https://d.appband.com/?from=xcl",
-        "showXunLei": "true",
+        "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
         "useDabaicai": "true",
         "pinnedAd": "true",
