@@ -24,7 +24,7 @@
         "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
         "useDabaicai": "true",
-        "pinnedAd": "true",
+        "pinnedAd": "false",
         "openAdCloseButton": "true"
     }
 }
