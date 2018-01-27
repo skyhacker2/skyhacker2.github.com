@@ -13,8 +13,8 @@
         "showPay": "false",
         "price": "2.99",
         "showPay2": "true",
-        "splashADPerLaunch": "5",
+        "splashADPerLaunch": "1",
         "QQAdTypeComment": "0-banner广告，1-开屏广告",
-        "QQAdType": "0"
+        "QQAdType": "1"
     }
 }
