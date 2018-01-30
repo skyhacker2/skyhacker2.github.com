@@ -21,10 +21,10 @@
         "smartAdProvider": "true",
         "showShuoFeng": "true",
         "shuoFengUrl": "https://d.appband.com/?from=xcl",
-        "showXunLei": "true",
+        "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
         "useDabaicai": "true",
-        "pinnedAd": "false",
-        "openAdCloseButton": "false"
+        "pinnedAd": "true",
+        "openAdCloseButton": "true"
     }
 }
