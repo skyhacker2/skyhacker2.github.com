@@ -1,3 +1,22 @@
 {
-
+    "updateMessage": "增加搜索源",
+    "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
+    "installMode": 2,
+    "onlineParams": {
+        "comment": "0-腾讯, 1-admob",
+        "showAd": "true",
+        "adProvider": "0",
+        "adTypeComment": "native-原生, banner-横幅",
+        "QQAdType": "native",
+        "GoogleAdType": "banner",
+        "smartAdProviderComment": "没有手机权限时，显示admob的广告",
+        "smartAdProvider": "true",
+        "showShuoFeng": "true",
+        "shuoFengUrl": "https://d.appband.com/?from=xcl",
+        "showXunLei": "false",
+        "xunLeiUrl": "https://mobile.xunlei.com",
+        "useDabaicai": "true",
+        "pinnedAd": "true",
+        "openAdCloseButton": "true"
+    }
 }
