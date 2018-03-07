@@ -15,7 +15,7 @@
         "shuoFengUrl": "https://d.appband.com/?from=xcl",
         "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
-        "useDabaicai": "true",
+        "useDabaicai": "false",
         "pinnedAd": "true",
         "openAdCloseButton": "true"
     }
