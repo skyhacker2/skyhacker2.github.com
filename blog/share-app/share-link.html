@@ -44,7 +44,7 @@
                 var appName = '';
                 var packageName = '';
                 if (arr.length > 0) {
-                    appName = arr[0].split('=')[1];
+                    appName = decodeURI(arr[0].split('=')[1]);
                 }
                 if (arr.length > 1) {
                     packageName = arr[1].split('=')[1];
