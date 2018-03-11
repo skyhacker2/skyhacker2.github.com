@@ -34,7 +34,7 @@
             <!-- <iframe src="market://details?id=com.sand.airdroid" style="display:none"></iframe> -->
             <!--手动点击跳转-->
             <!-- <a class="download-btn" href="https://fir.im/2snu"><i class="fa fa-android"></i> 下载</a> -->
-            <a class="download-btn" id="url" href="market://details?id=com.sand.airdroid">在应用商店安装</a>
+            <a class="download-btn" id="url" href="">在应用商店安装</a>
         </div>
         <script>
             $(document).ready(function(){
@@ -51,9 +51,11 @@
                 }
                 console.log(appName);
                 console.log(packageName);
-                $('body').append('<iframe src="market://details?id=' + packageName +'" style="display:none"></iframe>')
-                $('#url').attr('href','market://details?id=' + packageName);
-                $('h1').html("好友给你分享<br/>" + appName);
+                if(packageName) {
+                    $('body').append('<iframe src="market://details?id=' + packageName +'" style="display:none"></iframe>')
+                    $('#url').attr('href','market://details?id=' + packageName);
+                    $('h1').html("好友给你分享<br/>" + appName);
+                }
             });
         </script>
     </body>  
