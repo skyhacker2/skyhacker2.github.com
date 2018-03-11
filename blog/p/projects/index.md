@@ -18,6 +18,9 @@
 [文件闪传](文件闪传.md)
 >无数据线管理手机
 
+[SendApp](SendApp.md)
+>快速分享App给好友
+
 ## 游戏
 [反转贪吃蛇](./反转贪吃蛇.md)
 > 使用cocos2d-x lua和code ide编写的贪吃蛇小游戏
