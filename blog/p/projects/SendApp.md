@@ -2,7 +2,7 @@
 
 ![image](./img/send_app.png)
 
-<a class="download-btn" href="http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-cool-v1.2-build5.apk"><i class="fa fa-android"></i> 下载</a>
+<a class="download-btn" href="http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.5-build8.apk"><i class="fa fa-android"></i> 下载</a>
 
 快速分享已安装的App给好友。
 

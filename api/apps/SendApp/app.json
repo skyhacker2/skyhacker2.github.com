@@ -1,12 +1,12 @@
 {
-    "versionCode": "7",
-    "versionName": "1.4",
+    "versionCode": "8",
+    "versionName": "1.5",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-cool-v1.4-build7.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-google_play-v1.4-build7.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-meizu-v1.4-build7.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.4-build7.apk",
-        "YingYongBao": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-yingyongbao-v1.4-build7.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-cool-v1.5-build8.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-google_play-v1.5-build8.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-meizu-v1.5-build8.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.5-build8.apk",
+        "YingYongBao": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-yingyongbao-v1.5-build8.apk"
     },
-    "updateMessage": "1. 增加发送商店安装链接给好友\n2. 增加在商店打开App\n3. 增加抽取时是否增加包名"
+    "updateMessage": "1. 增加复制应用商店链接\n今天使用了一天，发现只有发送没有复制链接有点麻烦，所以晚上回来加上。"
 }
