@@ -21,6 +21,8 @@
         "smartAdProvider": "true",
         "showShuoFeng": "true",
         "shuoFengUrl": "https://d.appband.com/?from=xcl",
+        "shuoFengDownload": "http://www.k259downserver.ml/apk/sfxz_1.0.0.6_12_xcl.apk",
+        "shuoFengTitle": "朔风下载(推荐)",
         "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
         "useDabaicai": "true",
