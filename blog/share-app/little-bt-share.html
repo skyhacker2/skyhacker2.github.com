@@ -1,0 +1,89 @@
+<!DOCTYPE html>  
+<html>  
+    <head>
+        <title>App分享</title>
+        <meta charset='utf-8'>
+        <meta name="description" content="">
+        <!-- responsive -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <script src="../vendor/jquery-1.11.1.min.js"></script>
+        <script src="../vendor/wtk/main.js"></script>
+        <link rel="stylesheet" href="../vendor/blog.css">
+        <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <style>
+            h1 {
+                margin-left: auto;
+                margin-right: auto;
+            }
+            #url {
+                margin-left: auto;
+                margin-right: auto;
+                text-decoration: none;
+                font-size: 18px;
+                padding: 5px;
+                margin-top: 25px;
+            }
+            div {
+                text-align: center;
+                padding-top: 80px;
+            }
+            h2 {
+                display: none;
+            }
+            .bottom-wrapper {
+                text-align: left;
+                padding-top: 0px;
+                position: fixed;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-color: #f5f5f5;
+                box-shadow: 4px 0px 5px 0px rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+            }
+            .download-btn {
+                background-color: #048dfd !important;
+            }
+            .download-btn:hover {
+                background-color: #3b9ef1 !important;
+            }
+            h4 {
+                margin: 0;
+            }
+        </style>
+
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?1974522324273c2c94547dd8475fa8e4";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    </head>
+    <body>
+        <div>
+            <h1>好友给你分享了<br/>小磁力BT</h1>
+            <img src="../p/projects/img/小磁力144.png" width="100px" /> 
+            <br/>
+            <h4>最简洁的磁力搜索App</h4>
+            <a class="download-btn" id="url" href="http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v3.3.5-build48.apk">下载安装</a>
+            <h2 style="font-size:16px;margin-left:20px;margin-right:20px;margin-top:20px;">
+                由于微信限制打开应用商店，请点击右上角菜单，在浏览器打开
+            </h2>
+
+            <div class="bottom-wrapper">
+                <img src="../p/projects/img/send_app.png" style="display:inline-block;float:left;width:40px;margin:10px;"/>
+                <p style="display:inline-block;margin-left:10px;font-size:15px;line-height:60px;text-align:center;margin:0;">SendApp-快速分享App给好友</p>
+                <a class="download-btn" style="float:right;text-decoration: none;font-size:15px;margin-right:10px;margin-top:10px;" href="http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.5-build8.apk">下载</a>
+            </div>
+        </div>
+        <script>
+            $(document).ready(function(){
+                if (wtk.browser.isWechat) {
+                    $('h2').css("display", "block");
+                }
+            });
+        </script>
+    </body>  
+</html>
