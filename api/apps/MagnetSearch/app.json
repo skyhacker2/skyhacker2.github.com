@@ -1,13 +1,13 @@
 {
-    "versionCode": "48",
-    "versionName": "3.3.5",
+    "versionCode": "49",
+    "versionName": "3.3.6",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.3.5-build48.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.3.5-build48.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.3.5-build48.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v3.3.5-build48.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.3.6-build49.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.3.6-build49.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.3.6-build49.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v3.3.6-build49.apk"
     },
-    "updateMessage": "增加繁体中文、英文和日文翻译",
+    "updateMessage": "1. 更新几个搜索源的最新URL\n2. 切换搜索源对话框显示目前可用状态",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
