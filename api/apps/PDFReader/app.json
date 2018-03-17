@@ -1,1 +1,9 @@
-{}
+{
+    "updateMessage": "",
+    "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
+    "installMode": 2,
+    "onlineParams": {
+        "showAd": "true",
+        "showBannerAd": "true"
+    }
+}
