@@ -1,17 +1,17 @@
 {
-    "versionCode": "23",
-    "versionName": "3.2",
+    "versionCode": "25",
+    "versionName": "3.4",
     "channels": {
-        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v3.2-build23.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-google_play-v3.2-build23.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v3.2-build23.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-source-v3.2-build23.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v3.2-build23.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v3.2-build23.apk"
+        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v3.4-build25.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-google_play-v3.4-build25.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v3.4-build25.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-source-v3.4-build25.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v3.4-build25.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v3.4-build25.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "增加新的滚动效果",
+    "updateMessage": "修复某些机型手绘无法保存",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
