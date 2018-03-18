@@ -1,9 +1,17 @@
 {
+    "versionCode": "21",
+    "versionName": "2.9.1",
+    "channels": {
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-Yingyongbao-v2.9.1-build21.apk",
+        "coolapk": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-coolapk-v2.9.1-build21.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-google_play-v2.9.1-build21.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-source-v2.9.1-build21.apk"
+    },
     "updateMessage": "",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
         "showAd": "true",
         "showBannerAd": "true"
-    }
+    },
 }
