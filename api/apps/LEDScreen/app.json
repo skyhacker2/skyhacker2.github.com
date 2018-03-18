@@ -10,7 +10,7 @@
         "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v3.4-build25.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
-    "installMode": 0,
+    "installMode": 2,
     "updateMessage": "修复某些机型手绘无法保存",
     "onlineParams": {
         "showPay": "false",
