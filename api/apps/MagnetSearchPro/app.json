@@ -11,7 +11,7 @@
         "GoogleAdType": "banner",
         "smartAdProviderComment": "没有手机权限时，显示admob的广告",
         "smartAdProvider": "true",
-        "showShuoFeng": "false",
+        "showShuoFeng": "true",
         "shuoFengUrl": "https://d.appband.com/?from=xcl",
         "shuoFengDownload": "http://www.k259downserver.ml/apk/sfxz_1.0.0.6_12_xcl.apk",
         "shuoFengTitle": "朔风下载(推荐)",
