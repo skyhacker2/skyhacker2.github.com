@@ -40,7 +40,7 @@ var getManifest = function(apk) {
     var versionName = /package:.*versionName='([^\n\']+)'/g.exec(info)[1];
     var channel = /meta-data: name='UMENG_CHANNEL' value='([^\n\']+)'/g.exec(info)[1];
     var manifest = {
-        versionCode: versionCode,
+        versionCode: parseInt(versionCode),
         versionName: versionName,
         channel: channel
     };
@@ -77,7 +77,7 @@ function updateApkInfoConfig(infos, existsConfig) {
         }
     }
     if (existsConfig.versionCode >= first.versionCode) {
-        console.log("versionCode比目前的小 " + first.versionCode);
+        console.log("versionCode比目前的小 " + first.versionCode + " " + existsConfig.versionCode);
         return existsConfig;
     }
 
