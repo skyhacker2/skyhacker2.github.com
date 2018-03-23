@@ -1,12 +1,12 @@
 {
-    "versionCode": 10,
-    "versionName": "1.7",
+    "versionCode": 11,
+    "versionName": "1.8",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-cool-v1.7-build10.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-google_play-v1.7-build10.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-meizu-v1.7-build10.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.7-build10.apk",
-        "YingYongBao": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-yingyongbao-v1.7-build10.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-cool-v1.8-build11.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-google_play-v1.8-build11.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-meizu-v1.8-build11.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.8-build11.apk",
+        "YingYongBao": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-yingyongbao-v1.8-build11.apk"
     },
-    "updateMessage": "1. 增加复制应用商店链接\n今天使用了一天，发现只有发送没有复制链接有点麻烦，所以晚上回来加上。"
+    "updateMessage": "1. 增加复制包名功能\n2.修复抽取App名字如果带有特殊符号无法抽取的问题。"
 }
