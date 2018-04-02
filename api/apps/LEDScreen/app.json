@@ -11,7 +11,7 @@
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
-    "updateMessage": "修复某些机型手绘无法保存",
+    "updateMessage": "增加GIF生成和分享功能",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
