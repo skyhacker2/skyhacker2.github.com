@@ -20,7 +20,7 @@
         "QQAdTypeComment": "0-banner广告，1-开屏广告",
         "QQAdType": "1",
         "SplashAdComment": "0-腾讯广告，1-有米广告",
-        "SplashAd": "1",
+        "SplashAd": "0",
         "SplashShowStrategyComment": "开屏广告显示策略，0-只显示一个广告商，1-轮流显示",
         "SplashShowStrategy": "0",
         "showAd": "true"
