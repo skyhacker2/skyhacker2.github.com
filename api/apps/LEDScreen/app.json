@@ -1,17 +1,16 @@
 {
-    "versionCode": 29,
-    "versionName": "3.5",
+    "versionCode": 31,
+    "versionName": "3.6",
     "channels": {
-        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v3.5-build29_legu_signed_zipalign.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-google_play-v3.5-build29_legu_signed_zipalign.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v3.5-build29_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-source-v3.5-build29_legu_signed_zipalign.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v3.5-build29_legu_signed_zipalign.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v3.5-build29_legu_signed_zipalign.apk"
+        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v3.6-build31_legu_signed_zipalign.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-google_play-v3.6-build31_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-source-v3.6-build31_legu_signed_zipalign.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v3.6-build31_legu_signed_zipalign.apk",
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v3.6-build31_legu_signed_zipalign.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
-    "updateMessage": "增加GIF生成和分享功能",
+    "updateMessage": "1. 文字滚动增加大小设置\n2. 文字滚动支持emoji表情\n3. 增加锁屏显示功能",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
