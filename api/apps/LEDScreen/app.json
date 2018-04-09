@@ -23,6 +23,6 @@
         "SplashAd": "0",
         "SplashShowStrategyComment": "开屏广告显示策略，0-只显示一个广告商，1-轮流显示",
         "SplashShowStrategy": "0",
-        "showAd": "true"
+        "showAd": "false"
     }
 }
