@@ -21,7 +21,7 @@
         "SplashAdComment": "0-腾讯广告，1-有米广告",
         "SplashAd": "0",
         "SplashShowStrategyComment": "开屏广告显示策略，0-只显示一个广告商，1-轮流显示",
-        "SplashShowStrategy": "0",
+        "SplashShowStrategy": "1",
         "showAd": "true"
     }
 }
