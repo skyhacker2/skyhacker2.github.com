@@ -1,13 +1,14 @@
 {
-    "versionCode": "49",
-    "versionName": "3.3.6",
+    "versionCode": 50,
+    "versionName": "4.0",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v3.3.6-build49.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v3.3.6-build49.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v3.3.6-build49.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v3.3.6-build49.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.0-build50_legu_signed_zipalign.apk",
+        "Dev": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-dev-v4.0-build50_legu_signed_zipalign.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.0-build50_legu_signed_zipalign.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.0-build50_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.0-build50_legu_signed_zipalign.apk"
     },
-    "updateMessage": "1. 更新几个搜索源的最新URL\n2. 切换搜索源对话框显示目前可用状态",
+    "updateMessage": "你没用过的船新版本😆",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
@@ -29,6 +30,6 @@
         "useDabaicai": "true",
         "pinnedAd": "true",
         "openAdCloseButton": "true",
-        "useSpotAd": "true"
+        "useSpotAd": "false"
     }
 }
