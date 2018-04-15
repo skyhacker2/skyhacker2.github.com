@@ -13,7 +13,7 @@
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",
-        "adProvider": "1",
+        "adProvider": "0",
         "adTypeComment": "native-原生, banner-横幅",
         "QQAdType": "native",
         "GoogleAdType": "banner",
@@ -29,6 +29,6 @@
         "useDabaicai": "true",
         "pinnedAd": "true",
         "openAdCloseButton": "true",
-        "useSpotAd": "false"
+        "useSpotAd": "true"
     }
 }
