@@ -1,14 +1,13 @@
 {
-    "versionCode": 50,
-    "versionName": "4.0",
+    "versionCode": 52,
+    "versionName": "4.0.2",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.0-build50_legu_signed_zipalign.apk",
-        "Dev": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-dev-v4.0-build50_legu_signed_zipalign.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.0-build50_legu_signed_zipalign.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.0-build50_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.0-build50_legu_signed_zipalign.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.0.2-build52_legu_signed_zipalign.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.0.2-build52_legu_signed_zipalign.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.0.2-build52_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.0.2-build52_legu_signed_zipalign.apk"
     },
-    "updateMessage": "你没用过的船新版本😆",
+    "updateMessage": "修复新版本导致的一些闪退问题😣",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
