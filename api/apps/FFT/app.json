@@ -1,14 +1,15 @@
 {
-    "versionCode": "15",
-    "versionName": "2.4",
+    "versionCode": 16,
+    "versionName": "2.5",
     "channels": {
-        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-coolRelease-2.4-build15.apk",
-        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_playRelease-2.4-build15.apk",
-        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizuRelease-2.4-build15.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-xiaomiRelease-2.4-build15.apk",
-        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbaoRelease-2.4-build15.apk"
+        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-coolRelease-2.5-build16_legu_signed_zipalign.apk",
+        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_playRelease-2.5-build16_legu_signed_zipalign.apk",
+        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizuRelease-2.5-build16_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-sourceRelease-2.5-build16_legu_signed_zipalign.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-xiaomiRelease-2.5-build16_legu_signed_zipalign.apk",
+        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbaoRelease-2.5-build16_legu_signed_zipalign.apk"
     },
-    "updateMessage": "1. 修复关闭投屏后，第二次打开app投屏还是打开\n2. 增加获取高级版本入口",
+    "updateMessage": "1. 增加设置网页默认打开的页面（照片、音频、下载等），避免默认显示全部图片可能带来尴尬。😀",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false"
