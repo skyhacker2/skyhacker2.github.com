@@ -30,6 +30,11 @@
         "pinnedAd": "true",
         "openAdCloseButton": "true",
         "useSpotAd": "false",
-        "payEnable": "true"
+        "payEnable": "true",
+        "menu1Enable": "true",
+        "menu1": "追踪机器人",
+        "menu1ShowCount": "5",
+        "menu1ClickDismiss": "true",
+        "menu1Url": "https://lab.ruguoapp.com/robots.html?key=XCLJQR"
     }
 }
