@@ -31,10 +31,14 @@
         "openAdCloseButton": "true",
         "useSpotAd": "false",
         "payEnable": "true",
-        "menu1Enable": "true",
+        "menu1Enable": "false",
         "menu1": "追踪机器人",
         "menu1ShowCount": "5",
         "menu1ClickDismiss": "true",
-        "menu1Url": "https://lab.ruguoapp.com/robots.html?key=XCLJQR"
+        "menu1Url": "https://lab.ruguoapp.com/robots.html?key=XCLJQR",
+        "searchTextMenuEnable": "true",
+        "searchTextMenu":"追踪机器人",
+        "searchTextMenuUrl": "https://lab.ruguoapp.com/robots.html?key=XCLJQR",
+        "searchTextMenuShowCount": "5"
     }
 }
