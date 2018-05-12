@@ -1,12 +1,12 @@
 {
-    "versionCode": 55,
-    "versionName": "4.0.5",
+    "versionCode": 56,
+    "versionName": "4.0.6",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.0.5-build55_legu_signed_zipalign.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.0.5-build55_legu_signed_zipalign.apk",
-        "GooglePlayPro": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play_pro-v4.0.5-build55_legu_signed_zipalign.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.0.5-build55_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.0.5-build55_legu_signed_zipalign.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.0.6-build56_legu_signed_zipalign.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.0.6-build56_legu_signed_zipalign.apk",
+        "GooglePlayPro": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play_pro-v4.0.6-build56_legu_signed_zipalign.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.0.6-build56_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.0.6-build56_legu_signed_zipalign.apk"
     },
     "updateMessage": "1. 增加升级高级版的内购\n2. 修复btbook的地址\n\n谢谢大家支持！",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
