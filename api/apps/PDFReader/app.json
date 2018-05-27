@@ -1,13 +1,13 @@
 {
-    "versionCode": "22",
-    "versionName": "2.9.2",
+    "versionCode": 24,
+    "versionName": "2.9.4",
     "channels": {
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-Yingyongbao-v2.9.2-build22.apk",
-        "coolapk": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-coolapk-v2.9.2-build22.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-google_play-v2.9.2-build22.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-source-v2.9.2-build22.apk"
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-Yingyongbao-v2.9.4-build24_legu_signed_zipalign.apk",
+        "coolapk": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-coolapk-v2.9.4-build24_legu_signed_zipalign.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-google_play-v2.9.4-build24_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-source-v2.9.4-build24_legu_signed_zipalign.apk"
     },
-    "updateMessage": "",
+    "updateMessage": "增加内购移除广告",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
