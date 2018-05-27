@@ -12,6 +12,7 @@
     "installMode": 2,
     "onlineParams": {
         "showAd": "true",
-        "showBannerAd": "true"
+        "showBannerAd": "true",
+        "payEnable": "true"
     }
 }
