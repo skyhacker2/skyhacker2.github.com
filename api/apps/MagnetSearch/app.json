@@ -1,13 +1,13 @@
 {
-    "versionCode": 59,
-    "versionName": "4.0.9",
+    "versionCode": 60,
+    "versionName": "4.1.0",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.0.9-build59_legu_signed_zipalign.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.0.9-build59_legu_signed_zipalign.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.0.9-build59_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.0.9-build59_legu_signed_zipalign.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.1.0-build60_legu_signed_zipalign.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.1.0-build60_legu_signed_zipalign.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.1.0-build60_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.1.0-build60_legu_signed_zipalign.apk"
     },
-    "updateMessage": "1. 修复一些崩溃问题\n2. 新界面怎样刷新搜索源功能",
+    "updateMessage": "修复btkitty和alicili无法使用",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
@@ -30,9 +30,9 @@
         "useDabaicai": "true",
         "pinnedAd": "true",
         "openAdCloseButton": "true",
-        "useSpotAd": "true",
-        "useOpenScreenAd": "false",
-        "useBannerAd": "true",
+        "useSpotAd": "false",
+        "useOpenScreenAd": "true",
+        "useBannerAd": "false",
         "payEnable": "true",
         "menu1Enable": "false",
         "menu1": "追踪机器人",
