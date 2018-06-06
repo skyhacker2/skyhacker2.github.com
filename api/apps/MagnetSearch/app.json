@@ -31,6 +31,8 @@
         "pinnedAd": "true",
         "openAdCloseButton": "true",
         "useSpotAd": "true",
+        "useOpenScreenAd": "false",
+        "useBannerAd": "true",
         "payEnable": "true",
         "menu1Enable": "false",
         "menu1": "追踪机器人",
