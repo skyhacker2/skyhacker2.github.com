@@ -1,13 +1,13 @@
 {
-    "versionCode": 60,
-    "versionName": "4.1.0",
+    "versionCode": 61,
+    "versionName": "4.1.1",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.1.0-build60_legu_signed_zipalign.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.1.0-build60_legu_signed_zipalign.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.1.0-build60_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.1.0-build60_legu_signed_zipalign.apk"
+        "Cool": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-cool-v4.1.1-build61_legu_signed_zipalign.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-google_play-v4.1.1-build61_legu_signed_zipalign.apk",
+        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-meizu-v4.1.1-build61_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.1.1-build61_legu_signed_zipalign.apk"
     },
-    "updateMessage": "修复btkitty和alicili无法使用",
+    "updateMessage": "1. 高级版增加BTDigg和BT樱桃搜索源\n\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
@@ -24,7 +24,7 @@
         "shuoFengDownload": "http://www.k259downserver.ml/apk2/xcl.apk",
         "shuoFengDownload2": "https://showdou.com/?from=xcl&action=geturl",
         "shuoFengDownload3": "https://showdou.com/?from=xcl&action=getsslurl",
-        "shuoFengTitle": "朔风下载(预览)",
+        "shuoFengTitle": "匆匆下载(预览)",
         "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
         "useDabaicai": "true",

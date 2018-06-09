@@ -2,7 +2,7 @@
 
 ![小磁力144](img/小磁力144.png)
 
-<a class="download-btn" href="http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.1.0-build60_legu_signed_zipalign.apk"></i>下载</a>
+<a class="download-btn" href="http://ofjeo4hda.bkt.clouddn.com/MagnetSearch/MagnetSearch-source-v4.1.1-build61_legu_signed_zipalign.apk"></i>下载</a>
 
 磁力链接搜索Android客户端
 
