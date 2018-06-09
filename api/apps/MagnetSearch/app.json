@@ -32,7 +32,7 @@
         "openAdCloseButton": "true",
         "useSpotAd": "false",
         "useOpenScreenAd": "true",
-        "useBannerAd": "false",
+        "useBannerAd": "true",
         "payEnable": "true",
         "menu1Enable": "false",
         "menu1": "追踪机器人",
