@@ -12,6 +12,7 @@
     "updateMessage": "1. 增加设置网页默认打开的页面（照片、音频、下载等），避免默认显示全部图片可能带来尴尬。😀",
     "onlineParams": {
         "showSpotAd": "true",
-        "showBannerAd": "false"
+        "showBannerAd": "false",
+        "payEnable": "true"
     }
 }
