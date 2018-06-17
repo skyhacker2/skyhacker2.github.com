@@ -1,15 +1,15 @@
 {
-    "versionCode": 16,
-    "versionName": "2.5",
+    "versionCode": 18,
+    "versionName": "2.7",
     "channels": {
-        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-coolRelease-2.5-build16_legu_signed_zipalign.apk",
-        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_playRelease-2.5-build16_legu_signed_zipalign.apk",
-        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizuRelease-2.5-build16_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-sourceRelease-2.5-build16_legu_signed_zipalign.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-xiaomiRelease-2.5-build16_legu_signed_zipalign.apk",
-        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbaoRelease-2.5-build16_legu_signed_zipalign.apk"
+        "cool": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-coolRelease-2.7-build18_legu_signed_zipalign.apk",
+        "google_play": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-google_playRelease-2.7-build18_legu_signed_zipalign.apk",
+        "meizu": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-meizuRelease-2.7-build18_legu_signed_zipalign.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-sourceRelease-2.7-build18_legu_signed_zipalign.apk",
+        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-xiaomiRelease-2.7-build18_legu_signed_zipalign.apk",
+        "yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/FFT/FastFileTransfer-yingyongbaoRelease-2.7-build18_legu_signed_zipalign.apk"
     },
-    "updateMessage": "1. 增加设置网页默认打开的页面（照片、音频、下载等），避免默认显示全部图片可能带来尴尬。😀",
+    "updateMessage": "1. 优化上传大文件等待的问题，上传完终于不用等待啦。\n2. 优化网页显示界面，给文件类型增加图标。\n3. 支持拖拽上传啦，还可以上传文件夹呢。",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
