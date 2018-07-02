@@ -39,7 +39,7 @@
         "menu1ShowCount": "5",
         "menu1ClickDismiss": "true",
         "menu1Url": "https://lab.ruguoapp.com/robots.html?key=XCLJQR",
-        "searchTextMenuEnable": "true",
+        "searchTextMenuEnable": "false",
         "searchTextMenu": "追踪机器人",
         "searchTextMenuUrl": "https://lab.ruguoapp.com/robots.html?key=XCLJQR",
         "searchTextMenuShowCount": "3"
