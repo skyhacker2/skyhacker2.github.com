@@ -1,13 +1,14 @@
 {
-    "versionCode": 24,
-    "versionName": "2.9.4",
+    "versionCode": 25,
+    "versionName": "2.9.5",
     "channels": {
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-Yingyongbao-v2.9.4-build24_legu_signed_zipalign.apk",
-        "coolapk": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-coolapk-v2.9.4-build24_legu_signed_zipalign.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-google_play-v2.9.4-build24_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-source-v2.9.4-build24_legu_signed_zipalign.apk"
+        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-Yingyongbao-v2.9.5-build25_psigned.apk",
+        "coolapk": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-coolapk-v2.9.5-build25_psigned.apk",
+        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-google_play-v2.9.5-build25_psigned.apk",
+        "huawei": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-huawei-v2.9.5-build25_psigned.apk",
+        "source": "http://ofjeo4hda.bkt.clouddn.com/PDFReader/PDFReader-source-v2.9.5-build25_psigned.apk"
     },
-    "updateMessage": "增加内购移除广告",
+    "updateMessage": "增加查看PDF文档时保持手机常亮",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
