@@ -9,7 +9,7 @@
     },
     "updateMessage": "修复BTBook无法复制链接\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
-    "installMode": 2,
+    "installMode": 0,
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",
