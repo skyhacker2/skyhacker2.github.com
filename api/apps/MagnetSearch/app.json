@@ -13,9 +13,9 @@
     "onlineParams": {
         "comment": "0-腾讯, 1-admob",
         "showAd": "true",
-        "adProvider": "1",
+        "adProvider": "0",
         "adTypeComment": "native-原生, banner-横幅",
-        "QQAdType": "banner",
+        "QQAdType": "native",
         "GoogleAdType": "banner",
         "smartAdProviderComment": "没有手机权限时，显示admob的广告",
         "smartAdProvider": "true",
