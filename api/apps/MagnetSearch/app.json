@@ -30,7 +30,7 @@
         "useDabaicai": "true",
         "pinnedAd": "true",
         "openAdCloseButton": "true",
-        "useSpotAd": "false",
+        "useSpotAd": "true",
         "useOpenScreenAd": "true",
         "useBannerAd": "true",
         "payEnable": "true",
