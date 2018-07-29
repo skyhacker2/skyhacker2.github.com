@@ -3,6 +3,7 @@ var path = require('path');
 var qiniuConfig = require('./qiniu.json');
 var qiniu = require('qiniu');
 var child_process = require('child_process');
+var resolve = require('path').resolve
 
 var APPS_FOLDER = '../apps/';
 var channelMaps = {};
@@ -30,6 +31,15 @@ var uploadFileToQiniu = function(uptoken, key, localFile, callback) {
             callback(err);
         }
   });
+}
+
+var uploadFileToServer = function(localFile, callback) {
+    console.log(resolve(localFile));
+    var filePath = resolve(localFile);
+    var cmd = "rsync -av -e 'ssh -i ~/.ssh/gcloud' " + filePath +  " eleven@35.187.234.117:/var/www/apks";
+    var ret = child_process.execSync(cmd).toString;
+    console.log(ret);
+    callback(null);
 }
 
 /// 获取apk的信息
@@ -115,12 +125,25 @@ function uploadApks(appName, apksDir, apkNames, current, config, callback) {
     var apkName = apkNames[current];
     if (apkName.endsWith('apk')) {
         var apkPath= path.join(apksDir, apkName);
-        var key = appName + "/" + apkName;
-        var token = uptoken(key);
-        uploadFileToQiniu(token, key, apkPath, function(err, ret) {
+        // var key = appName + "/" + apkName;
+        // var token = uptoken(key);
+        // uploadFileToQiniu(token, key, apkPath, function(err, ret) {
+        //     if (!err) {
+        //         console.log("上传" + apkName + "成功!");
+        //         config.channels[channelMaps[apkName]] = qiniuConfig.DOWNLOAD_URL + ret.key;
+        //         if (fs.existsSync(apkPath)) {
+        //             fs.unlinkSync(apkPath);
+        //         }
+        //         uploadApks(appName, apksDir, apkNames, current+1, config, callback);
+        //     } else {
+        //         console.log("上传 " + apkName + " 发生错误，终止!");
+        //     }
+
+        // });
+        uploadFileToServer(apkPath, function(err, ret) {
             if (!err) {
                 console.log("上传" + apkName + "成功!");
-                config.channels[channelMaps[apkName]] = qiniuConfig.DOWNLOAD_URL + ret.key;
+                config.channels[channelMaps[apkName]] = "http://d.apptor.me/" + apkName;
                 if (fs.existsSync(apkPath)) {
                     fs.unlinkSync(apkPath);
                 }
