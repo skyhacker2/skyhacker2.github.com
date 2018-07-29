@@ -2,12 +2,12 @@
     "versionCode": 32,
     "versionName": "3.7",
     "channels": {
-        "cookapk": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-cookapk-v3.7-build32_legu_signed_zipalign.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-google_play-v3.7-build32_legu_signed_zipalign.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-meizu-v3.7-build32_legu_signed_zipalign.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-source-v3.7-build32_legu_signed_zipalign.apk",
-        "xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-xiaomi-v3.7-build32_legu_signed_zipalign.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LEDScreen/LEDScreen-yingyongbao-v3.7-build32_legu_signed_zipalign.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v3.7-build32_legu_signed_zipalign.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v3.7-build32_legu_signed_zipalign.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v3.7-build32_legu_signed_zipalign.apk",
+        "source": "http://d.apptor.me/LEDScreen-source-v3.7-build32_legu_signed_zipalign.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v3.7-build32_legu_signed_zipalign.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v3.7-build32_legu_signed_zipalign.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
