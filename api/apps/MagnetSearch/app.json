@@ -33,7 +33,7 @@
         "pinnedAd": "true",
         "openAdCloseButton": "true",
         "useSpotAd": "false",
-        "useOpenScreenAd": "false",
+        "useOpenScreenAd": "true",
         "useBannerAd": "false",
         "payEnable": "true",
         "menu1Enable": "false",
