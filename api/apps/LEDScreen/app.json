@@ -1,16 +1,16 @@
 {
-    "versionCode": 32,
-    "versionName": "3.7",
+    "versionCode": 33,
+    "versionName": "3.8",
     "channels": {
-        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v3.7-build32_legu_signed_zipalign.apk",
-        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v3.7-build32_legu_signed_zipalign.apk",
-        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v3.7-build32_legu_signed_zipalign.apk",
-        "source": "http://d.apptor.me/LEDScreen-source-v3.7-build32_legu_signed_zipalign.apk",
-        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v3.7-build32_legu_signed_zipalign.apk",
-        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v3.7-build32_legu_signed_zipalign.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v3.8-build33_legu_signed_zipalign.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v3.8-build33_legu_signed_zipalign.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v3.8-build33_legu_signed_zipalign.apk",
+        "source": "http://d.apptor.me/LEDScreen-source-v3.8-build33_legu_signed_zipalign.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v3.8-build33_legu_signed_zipalign.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v3.8-build33_legu_signed_zipalign.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
-    "installMode": 2,
+    "installMode": 0,
     "updateMessage": "1. 修复文字滚动生成GIF字不在中间\n2. 修复生成GIF的进度超过100%\n3. 增加内购移除广告",
     "onlineParams": {
         "showPay": "false",
