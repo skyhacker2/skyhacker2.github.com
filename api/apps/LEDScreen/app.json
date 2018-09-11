@@ -1,13 +1,13 @@
 {
-    "versionCode": 33,
-    "versionName": "3.8",
+    "versionCode": 34,
+    "versionName": "3.9",
     "channels": {
-        "cookapk": "https://d.apptor.me/LEDScreen-cookapk-v3.8-build33_legu_signed_zipalign.apk",
-        "GooglePlay": "https://d.apptor.me/LEDScreen-google_play-v3.8-build33_legu_signed_zipalign.apk",
-        "Meizu": "https://d.apptor.me/LEDScreen-meizu-v3.8-build33_legu_signed_zipalign.apk",
-        "source": "https://d.apptor.me/LEDScreen-source-v3.8-build33_legu_signed_zipalign.apk",
-        "xiaomi": "https://d.apptor.me/LEDScreen-xiaomi-v3.8-build33_legu_signed_zipalign.apk",
-        "Yingyongbao": "https://d.apptor.me/LEDScreen-yingyongbao-v3.8-build33_legu_signed_zipalign.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v3.9-build34_legu_signed_zipalign.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v3.9-build34_legu_signed_zipalign.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v3.9-build34_legu_signed_zipalign.apk",
+        "source": "http://d.apptor.me/LEDScreen-source-v3.9-build34_legu_signed_zipalign.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v3.9-build34_legu_signed_zipalign.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v3.9-build34_legu_signed_zipalign.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
