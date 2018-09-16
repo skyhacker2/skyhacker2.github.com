@@ -1,14 +1,16 @@
 {
-    "versionCode": 12,
-    "versionName": "2.1",
+    "versionCode": 16,
+    "versionName": "2.4",
     "channels": {
-        "_360": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-_360-release.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-google_play-release.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-meizu-release.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-source-release.apk",
-        "Wandoujia": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-wandoujia-release.apk",
-        "Xiaomi": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-xiaomi-release.apk",
-        "Yingyongbao": "http://ofjeo4hda.bkt.clouddn.com/LifeList/app-yingyongbao-release.apk"
+        "_360": "http://d.apptor.me/ShoppingList-_360-v2.4-build16_legu_signed_zipalign.apk",
+        "GooglePlay": "http://d.apptor.me/ShoppingList-google_play-v2.4-build16_legu_signed_zipalign.apk",
+        "Meizu": "http://d.apptor.me/ShoppingList-meizu-v2.4-build16_legu_signed_zipalign.apk",
+        "source": "http://d.apptor.me/ShoppingList-source-v2.4-build16_legu_signed_zipalign.apk",
+        "Wandoujia": "http://d.apptor.me/ShoppingList-wandoujia-v2.4-build16_legu_signed_zipalign.apk",
+        "Xiaomi": "http://d.apptor.me/ShoppingList-xiaomi-v2.4-build16_legu_signed_zipalign.apk",
+        "Yingyongbao": "http://d.apptor.me/ShoppingList-yingyongbao-v2.4-build16_legu_signed_zipalign.apk"
     },
-    "updateMessage": "优化拖动排序"
+    "updateMessage": "1. 更新界面\n2. 修复无法备份数据",
+    "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
+    "installMode": 0
 }
