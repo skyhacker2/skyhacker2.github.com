@@ -1,17 +1,17 @@
 {
-    "versionCode": 34,
-    "versionName": "3.9",
+    "versionCode": 35,
+    "versionName": "4.0",
     "channels": {
-        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v3.9-build34_legu_signed_zipalign.apk",
-        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v3.9-build34_legu_signed_zipalign.apk",
-        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v3.9-build34_legu_signed_zipalign.apk",
-        "source": "http://d.apptor.me/LEDScreen-source-v3.9-build34_legu_signed_zipalign.apk",
-        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v3.9-build34_legu_signed_zipalign.apk",
-        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v3.9-build34_legu_signed_zipalign.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v4.0-build35_legu_signed_zipalign.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v4.0-build35_legu_signed_zipalign.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v4.0-build35_legu_signed_zipalign.apk",
+        "source": "http://d.apptor.me/LEDScreen-source-v4.0-build35_legu_signed_zipalign.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v4.0-build35_legu_signed_zipalign.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v4.0-build35_legu_signed_zipalign.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
-    "installMode": 2,
-    "updateMessage": "1. 字幕滚动增加发光效果\n2. 字幕滚动增加颜色循环",
+    "installMode": 0,
+    "updateMessage": "1. 文件滚动和手绘滚动增加动感边框效果",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
