@@ -13,6 +13,6 @@
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
-        "payEnable": "true"
+        "payEnable": "false"
     }
 }
