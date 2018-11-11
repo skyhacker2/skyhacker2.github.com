@@ -1,17 +1,17 @@
 {
-    "versionCode": 37,
-    "versionName": "4.2",
+    "versionCode": 38,
+    "versionName": "4.3",
     "channels": {
-        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v4.2-build37_legu_signed_zipalign.apk",
-        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v4.2-build37_legu_signed_zipalign.apk",
-        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v4.2-build37_legu_signed_zipalign.apk",
-        "source": "http://d.apptor.me/LEDScreen-source-v4.2-build37_legu_signed_zipalign.apk",
-        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v4.2-build37_legu_signed_zipalign.apk",
-        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v4.2-build37_legu_signed_zipalign.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v4.3-build38_legu_signed_zipalign.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v4.3-build38_legu_signed_zipalign.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v4.3-build38_legu_signed_zipalign.apk",
+        "source": "http://d.apptor.me/LEDScreen-source-v4.3-build38_legu_signed_zipalign.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v4.3-build38_legu_signed_zipalign.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v4.3-build38_legu_signed_zipalign.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "修复生成的GIF图片速度过快",
+    "updateMessage": "1. 文件滚动增加变色效果。2. 双十一半价高级版优惠。",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
