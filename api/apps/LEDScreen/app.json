@@ -11,7 +11,7 @@
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "1. 文件滚动增加变色效果。2. 双十一半价高级版优惠。",
+    "updateMessage": "1. 文件滚动增加变色效果。",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
