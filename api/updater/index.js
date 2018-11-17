@@ -33,10 +33,11 @@ var uploadFileToQiniu = function(uptoken, key, localFile, callback) {
   });
 }
 
-var uploadFileToServer = function(localFile, callback) {
+var uploadFileToServer = function(localFile, remoteFolder, callback) {
     console.log(resolve(localFile));
     var filePath = resolve(localFile);
-    var cmd = "rsync -av -e 'ssh -i ~/.ssh/gcloud' " + filePath +  " eleven@35.187.234.117:/var/www/apks";
+    var cmd = "scp -P 27322 " + filePath +  " root@67.230.179.2:/var/www/apks/" + remoteFolder;
+    console.log(cmd);
     var ret = child_process.execSync(cmd).toString;
     console.log(ret);
     callback(null);
@@ -117,11 +118,12 @@ function getExistsConfig(root) {
     }
 }
 
-function uploadApks(appName, apksDir, apkNames, current, config, callback) {
+function uploadApks(remoteFolder, appName, apksDir, apkNames, current, config, callback) {
     if (current >= apkNames.length) {
         callback();
         return 0;
     }
+    console.log("appName=" + appName + "version=" + config.versionName);
     var apkName = apkNames[current];
     if (apkName.endsWith('apk')) {
         var apkPath= path.join(apksDir, apkName);
@@ -140,21 +142,21 @@ function uploadApks(appName, apksDir, apkNames, current, config, callback) {
         //     }
 
         // });
-        uploadFileToServer(apkPath, function(err, ret) {
+        uploadFileToServer(apkPath, remoteFolder, function(err, ret) {
             if (!err) {
                 console.log("上传" + apkName + "成功!");
-                config.channels[channelMaps[apkName]] = "http://d.apptor.me/" + apkName;
+                config.channels[channelMaps[apkName]] = "http://d.apptor.me/" + remoteFolder + apkName;
                 if (fs.existsSync(apkPath)) {
                     fs.unlinkSync(apkPath);
                 }
-                uploadApks(appName, apksDir, apkNames, current+1, config, callback);
+                uploadApks(remoteFolder, appName, apksDir, apkNames, current+1, config, callback);
             } else {
                 console.log("上传 " + apkName + " 发生错误，终止!");
             }
 
         });
     } else {
-        uploadApks(appName, apksDir, apkNames, current+1, config, callback);
+        uploadApks(remoteFolder, appName, apksDir, apkNames, current+1, config, callback);
     }
 }
 
@@ -181,7 +183,11 @@ function processApps(root, lists, current, callback) {
             }
             // console.log(config);
             var apkNames = fs.readdirSync(apksDir);
-            uploadApks(appDir, apksDir, apkNames, 0, config, function() {
+            // 在服务器上建立文件夹
+            var remoteFolder = appDir + "/" + config.versionName + "/";
+            console.log("create remote folder: " + remoteFolder);
+            child_process.execSync("ssh -p 27322 root@67.230.179.2 " + "'mkdir -p /var/www/apks/" + remoteFolder + "'")
+            uploadApks(remoteFolder, appDir, apksDir, apkNames, 0, config, function() {
                 fs.writeFileSync(path.join(fullPath, 'app.json'), JSON.stringify(config, null, 4));
                 processApps(root, lists, current+1, callback);
             });
