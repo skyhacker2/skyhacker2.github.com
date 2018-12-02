@@ -2,7 +2,7 @@
 
 ![image](./img/send_app.png)
 
-<a class="download-btn" href="http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.5-build8.apk"><i class="fa fa-android"></i> 下载</a>
+<a class="download-btn" href="http://d.apptor.me/SendApp/2.0/SendApp-source-v2.0-build12.apk"><i class="fa fa-android"></i> 下载</a>
 
 快速分享已安装的App给好友。
 
