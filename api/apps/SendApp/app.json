@@ -1,12 +1,12 @@
 {
-    "versionCode": 11,
-    "versionName": "1.8",
+    "versionCode": 12,
+    "versionName": "2.0",
     "channels": {
-        "Cool": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-cool-v1.8-build11.apk",
-        "GooglePlay": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-google_play-v1.8-build11.apk",
-        "Meizu": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-meizu-v1.8-build11.apk",
-        "source": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-source-v1.8-build11.apk",
-        "YingYongBao": "http://ofjeo4hda.bkt.clouddn.com/SendApp/SendApp-yingyongbao-v1.8-build11.apk"
+        "Cool": "http://d.apptor.me/SendApp/2.0/SendApp-cool-v2.0-build12.apk",
+        "GooglePlay": "http://d.apptor.me/SendApp/2.0/SendApp-google_play-v2.0-build12.apk",
+        "Meizu": "http://d.apptor.me/SendApp/2.0/SendApp-meizu-v2.0-build12.apk",
+        "source": "http://d.apptor.me/SendApp/2.0/SendApp-source-v2.0-build12.apk",
+        "YingYongBao": "http://d.apptor.me/SendApp/2.0/SendApp-yingyongbao-v2.0-build12.apk"
     },
-    "updateMessage": "1. 增加复制包名功能\n2.修复抽取App名字如果带有特殊符号无法抽取的问题。"
+    "updateMessage": "1. 修复无法弹出存储对话框\n2. 主题改成暗色风格"
 }
