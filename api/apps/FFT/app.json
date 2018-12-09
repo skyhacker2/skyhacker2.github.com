@@ -1,15 +1,15 @@
 {
-    "versionCode": 19,
-    "versionName": "2.8",
+    "versionCode": 21,
+    "versionName": "2.8.2",
     "channels": {
-        "cool": "http://d.apptor.me/FastFileTransfer-coolRelease-2.8-build19_legu_signed_zipalign.apk",
-        "google_play": "http://d.apptor.me/FastFileTransfer-google_playRelease-2.8-build19_legu_signed_zipalign.apk",
-        "meizu": "http://d.apptor.me/FastFileTransfer-meizuRelease-2.8-build19_legu_signed_zipalign.apk",
-        "source": "http://d.apptor.me/FastFileTransfer-sourceRelease-2.8-build19_legu_signed_zipalign.apk",
-        "xiaomi": "http://d.apptor.me/FastFileTransfer-xiaomiRelease-2.8-build19_legu_signed_zipalign.apk",
-        "yingyongbao": "http://d.apptor.me/FastFileTransfer-yingyongbaoRelease-2.8-build19_legu_signed_zipalign.apk"
+        "cool": "http://d.apptor.me/FFT/2.8.2/FastFileTransfer-coolRelease-2.8.2-build21.apk",
+        "google_play": "http://d.apptor.me/FFT/2.8.2/FastFileTransfer-google_playRelease-2.8.2-build21.apk",
+        "meizu": "http://d.apptor.me/FFT/2.8.2/FastFileTransfer-meizuRelease-2.8.2-build21.apk",
+        "source": "http://d.apptor.me/FFT/2.8.2/FastFileTransfer-sourceRelease-2.8.2-build21.apk",
+        "xiaomi": "http://d.apptor.me/FFT/2.8.2/FastFileTransfer-xiaomiRelease-2.8.2-build21.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/2.8.2/FastFileTransfer-yingyongbaoRelease-2.8.2-build21.apk"
     },
-    "updateMessage": "1.网页端增加删除文件功能\n2.网页端增加视频观看（高级版）",
+    "updateMessage": "1.适配Android 9.0\n2. 支持手机热点",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
