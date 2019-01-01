@@ -1,11 +1,5 @@
 [
     {
-        "title": "小磁力BT Pro",
-        "subtitle": "极简磁力链接搜索工具",
-        "packageName": "io.github.skyhacker2.magnetsearchpro",
-        "icon": "icons/ic_magnet.png"
-    },
-    {
         "title": "小磁力BT",
         "subtitle": "极简磁力链接搜索工具",
         "packageName": "io.github.skyhacker2.magnetsearch",
