@@ -2,7 +2,7 @@
 
 ![image](./img/LED显示屏.png)
 
-<a class="download-btn" href="http://d.apptor.me/LEDScreen-source-v4.3-build38_legu_signed_zipalign.apk"><i class="fa fa-android"></i> 下载</a>
+<a class="download-btn" href="http://d.apptor.me/LEDScreen/4.4/LEDScreen-source-v4.4-build39_psigned.apk"><i class="fa fa-android"></i> 下载</a>
 
 用手机屏幕模拟LED屏幕效果。
 
@@ -12,6 +12,10 @@
 
 <img src="./img/led1.jpg" width="200px" height="auto"/>
 <img src="./img/led2.jpg" width="200px" height="auto"/>
+
+##4.4
+1. 增加时间显示功能
+2. 字幕滚动增加霓虹灯功能
 
 ##Reference
 

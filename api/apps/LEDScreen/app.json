@@ -1,17 +1,17 @@
 {
-    "versionCode": 38,
-    "versionName": "4.3",
+    "versionCode": 39,
+    "versionName": "4.4",
     "channels": {
-        "cookapk": "http://d.apptor.me/LEDScreen-cookapk-v4.3-build38_legu_signed_zipalign.apk",
-        "GooglePlay": "http://d.apptor.me/LEDScreen-google_play-v4.3-build38_legu_signed_zipalign.apk",
-        "Meizu": "http://d.apptor.me/LEDScreen-meizu-v4.3-build38_legu_signed_zipalign.apk",
-        "source": "http://d.apptor.me/LEDScreen-source-v4.3-build38_legu_signed_zipalign.apk",
-        "xiaomi": "http://d.apptor.me/LEDScreen-xiaomi-v4.3-build38_legu_signed_zipalign.apk",
-        "Yingyongbao": "http://d.apptor.me/LEDScreen-yingyongbao-v4.3-build38_legu_signed_zipalign.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen/4.4/LEDScreen-cookapk-v4.4-build39_psigned.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen/4.4/LEDScreen-google_play-v4.4-build39_psigned.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen/4.4/LEDScreen-meizu-v4.4-build39_psigned.apk",
+        "source": "http://d.apptor.me/LEDScreen/4.4/LEDScreen-source-v4.4-build39_psigned.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen/4.4/LEDScreen-xiaomi-v4.4-build39_psigned.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen/4.4/LEDScreen-yingyongbao-v4.4-build39_psigned.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "1. 文件滚动增加变色效果。",
+    "updateMessage": "1. 增加时间显示功能\n2. 字幕滚动增加霓虹灯模式",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
