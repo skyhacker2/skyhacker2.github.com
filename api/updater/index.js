@@ -1,6 +1,5 @@
 var fs = require('fs');
 var path = require('path');
-var qiniuConfig = require('./qiniu.json');
 var qiniu = require('qiniu');
 var child_process = require('child_process');
 var resolve = require('path').resolve
@@ -8,8 +7,8 @@ var resolve = require('path').resolve
 var APPS_FOLDER = '../apps/';
 var channelMaps = {};
 
-qiniu.conf.ACCESS_KEY = qiniuConfig.ACCESS_KEY;
-qiniu.conf.SECRET_KEY = qiniuConfig.SECRET_KEY;
+qiniu.conf.ACCESS_KEY = "";
+qiniu.conf.SECRET_KEY = "";
 
 var bucket = 'apps';
 // 构建上传策略函数
