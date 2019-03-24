@@ -35,7 +35,9 @@ var uploadFileToQiniu = function(uptoken, key, localFile, callback) {
 var uploadFileToServer = function(localFile, remoteFolder, callback) {
     console.log(resolve(localFile));
     var filePath = resolve(localFile);
-    var cmd = "scp -P 27322 " + filePath +  " root@67.230.179.2:/var/www/apks/" + remoteFolder;
+    var fileName = path.basename(filePath);
+    console.log("file name=" + fileName);
+    var cmd = "scp -P 27322 " + filePath +  " root@67.230.179.2:/var/www/apks/" + remoteFolder + fileName;
     console.log(cmd);
     var ret = child_process.execSync(cmd).toString;
     console.log(ret);
