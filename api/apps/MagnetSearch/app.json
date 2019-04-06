@@ -1,11 +1,11 @@
 {
-    "versionCode": 78,
-    "versionName": "4.4.6",
+    "versionCode": 80,
+    "versionName": "4.4.8",
     "channels": {
-        "Cool": "http://d.apptor.me/MagnetSearch/4.4.6/MagnetSearch-cool-v4.4.6-build78_psigned.apk",
-        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.4.6/MagnetSearch-google_play-v4.4.6-build78_psigned.apk",
-        "Meizu": "http://d.apptor.me/MagnetSearch/4.4.6/MagnetSearch-meizu-v4.4.6-build78_psigned.apk",
-        "source": "http://d.apptor.me/MagnetSearch/4.4.6/MagnetSearch-source-v4.4.6-build78_psigned.apk"
+        "Cool": "http://d.apptor.me/MagnetSearch/4.4.8/MagnetSearch-cool-v4.4.8-build80_psigned.apk",
+        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.4.8/MagnetSearch-google_play-v4.4.8-build80_psigned.apk",
+        "Meizu": "http://d.apptor.me/MagnetSearch/4.4.8/MagnetSearch-meizu-v4.4.8-build80_psigned.apk",
+        "source": "http://d.apptor.me/MagnetSearch/4.4.8/MagnetSearch-source-v4.4.8-build80_psigned.apk"
     },
     "updateMessage": "更新部分搜索源无法使用\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
