@@ -2,7 +2,7 @@
 
 ![image](./img/LED显示屏.png)
 
-<a class="download-btn" href="http://d.apptor.me/LEDScreen/4.4.3/LEDScreen-source-v4.4.3-build42_psigned.apk"><i class="fa fa-android"></i> 下载</a>
+<a class="download-btn" href="http://d.apptor.me/LEDScreen/4.4.4/LEDScreen-source-v4.4.4-build43.apk"><i class="fa fa-android"></i> 下载</a>
 
 用手机屏幕模拟LED屏幕效果。
 
