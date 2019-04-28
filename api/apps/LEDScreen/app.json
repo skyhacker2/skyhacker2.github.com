@@ -1,17 +1,17 @@
 {
-    "versionCode": 43,
-    "versionName": "4.4.4",
+    "versionCode": 44,
+    "versionName": "4.4.5",
     "channels": {
-        "cookapk": "http://d.apptor.me/LEDScreen/4.4.4/LEDScreen-cookapk-v4.4.4-build43.apk",
-        "GooglePlay": "http://d.apptor.me/LEDScreen/4.4.4/LEDScreen-google_play-v4.4.4-build43.apk",
-        "Meizu": "http://d.apptor.me/LEDScreen/4.4.4/LEDScreen-meizu-v4.4.4-build43.apk",
-        "source": "http://d.apptor.me/LEDScreen/4.4.4/LEDScreen-source-v4.4.4-build43.apk",
-        "xiaomi": "http://d.apptor.me/LEDScreen/4.4.4/LEDScreen-xiaomi-v4.4.4-build43.apk",
-        "Yingyongbao": "http://d.apptor.me/LEDScreen/4.4.4/LEDScreen-yingyongbao-v4.4.4-build43.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-cookapk-v4.4.5-build44.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-google_play-v4.4.5-build44.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-meizu-v4.4.5-build44.apk",
+        "source": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-source-v4.4.5-build44.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-xiaomi-v4.4.5-build44.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-yingyongbao-v4.4.5-build44.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "修复Android 9.0崩溃",
+    "updateMessage": "修复点击激活按钮崩溃",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
