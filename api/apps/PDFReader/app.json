@@ -1,14 +1,14 @@
 {
-    "versionCode": 25,
-    "versionName": "2.9.5",
+    "versionCode": 26,
+    "versionName": "2.9.6",
     "channels": {
-        "Yingyongbao": "http://d.apptor.me/PDFReader-Yingyongbao-v2.9.5-build25_psigned.apk",
-        "coolapk": "http://d.apptor.me/PDFReader-coolapk-v2.9.5-build25_psigned.apk",
-        "GooglePlay": "http://d.apptor.me/PDFReader-google_play-v2.9.5-build25_psigned.apk",
-        "huawei": "http://d.apptor.me/PDFReader-huawei-v2.9.5-build25_psigned.apk",
-        "source": "http://d.apptor.me/PDFReader-source-v2.9.5-build25_psigned.apk"
+        "Yingyongbao": "http://d.apptor.me/PDFReader/2.9.6/PDFReader-Yingyongbao-v2.9.6-build26.apk",
+        "coolapk": "http://d.apptor.me/PDFReader/2.9.6/PDFReader-coolapk-v2.9.6-build26.apk",
+        "GooglePlay": "http://d.apptor.me/PDFReader/2.9.6/PDFReader-google_play-v2.9.6-build26.apk",
+        "huawei": "http://d.apptor.me/PDFReader/2.9.6/PDFReader-huawei-v2.9.6-build26.apk",
+        "source": "http://d.apptor.me/PDFReader/2.9.6/PDFReader-source-v2.9.6-build26.apk"
     },
-    "updateMessage": "增加查看PDF文档时保持手机常亮",
+    "updateMessage": "适配Android P",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
