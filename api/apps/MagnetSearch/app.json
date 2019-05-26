@@ -1,13 +1,13 @@
 {
-    "versionCode": 83,
-    "versionName": "4.5.1",
+    "versionCode": 84,
+    "versionName": "4.5.2",
     "channels": {
-        "Cool": "http://d.apptor.me/MagnetSearch/4.5.1/MagnetSearch-cool-v4.5.1-build83_psigned.apk",
-        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.5.1/MagnetSearch-google_play-v4.5.1-build83_psigned.apk",
-        "Meizu": "http://d.apptor.me/MagnetSearch/4.5.1/MagnetSearch-meizu-v4.5.1-build83_psigned.apk",
-        "source": "http://d.apptor.me/MagnetSearch/4.5.1/MagnetSearch-source-v4.5.1-build83_psigned.apk"
+        "Cool": "http://d.apptor.me/MagnetSearch/4.5.2/MagnetSearch-cool-v4.5.2-build84_psigned.apk",
+        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.5.2/MagnetSearch-google_play-v4.5.2-build84_psigned.apk",
+        "Meizu": "http://d.apptor.me/MagnetSearch/4.5.2/MagnetSearch-meizu-v4.5.2-build84_psigned.apk",
+        "source": "http://d.apptor.me/MagnetSearch/4.5.2/MagnetSearch-source-v4.5.2-build84_psigned.apk"
     },
-    "updateMessage": "修复Android9.0系统崩溃问题\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
+    "updateMessage": "修复搜索源\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
