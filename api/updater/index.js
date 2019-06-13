@@ -37,7 +37,7 @@ var uploadFileToServer = function(localFile, remoteFolder, callback) {
     var filePath = resolve(localFile);
     var fileName = path.basename(filePath);
     console.log("file name=" + fileName);
-    var cmd = "scp -P 27322 " + filePath +  " root@67.230.179.2:/var/www/apks/" + remoteFolder + fileName;
+    var cmd = "scp -P 27322 " + filePath +  " root@67.230.179.46:/var/www/apks/" + remoteFolder + fileName;
     console.log(cmd);
     var ret = child_process.execSync(cmd).toString;
     console.log(ret);
@@ -187,7 +187,7 @@ function processApps(root, lists, current, callback) {
             // 在服务器上建立文件夹
             var remoteFolder = appDir + "/" + config.versionName + "/";
             console.log("create remote folder: " + remoteFolder);
-            child_process.execSync("ssh -p 27322 root@67.230.179.2 " + "'mkdir -p /var/www/apks/" + remoteFolder + "'")
+            child_process.execSync("ssh -p 27322 root@67.230.179.46 " + "'mkdir -p /var/www/apks/" + remoteFolder + "'")
             uploadApks(remoteFolder, appDir, apksDir, apkNames, 0, config, function() {
                 fs.writeFileSync(path.join(fullPath, 'app.json'), JSON.stringify(config, null, 4));
                 processApps(root, lists, current+1, callback);
