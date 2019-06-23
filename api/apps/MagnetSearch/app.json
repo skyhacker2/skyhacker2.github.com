@@ -35,7 +35,7 @@
         "useSpotAd": "false",
         "useOpenScreenAd": "false",
         "useBannerAd": "true",
-        "payEnable": "false",
+        "payEnable": "true",
         "menu1Enable": "false",
         "menu1": "追踪机器人",
         "menu1ShowCount": "5",
