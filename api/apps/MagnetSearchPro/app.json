@@ -19,7 +19,7 @@
         "shuoFengDownload2": "https://showdou.com/?from=xcl&action=geturl",
         "shuoFengDownload3": "https://showdou.com/?from=xcl&action=getsslurl",
         "shuoFengTitle": "极速下载",
-        "shuoFengPackageName": " com.keke01.dl.application",
+        "shuoFengPackageName": "com.keke01.dl.application",
         "shuoFengActivity": "com.keke01.dl.application.kk.MagnetActivity",
         "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
