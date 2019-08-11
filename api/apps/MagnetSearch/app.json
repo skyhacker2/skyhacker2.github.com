@@ -1,13 +1,14 @@
 {
-    "versionCode": 87,
-    "versionName": "4.5.5",
+    "versionCode": 88,
+    "versionName": "4.5.6",
     "channels": {
-        "Cool": "http://d.apptor.me/MagnetSearch/4.5.5/MagnetSearch-cool-v4.5.5-build87_psigned.apk",
-        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.5.5/MagnetSearch-google_play-v4.5.5-build87_psigned.apk",
-        "Meizu": "http://d.apptor.me/MagnetSearch/4.5.5/MagnetSearch-meizu-v4.5.5-build87_psigned.apk",
-        "source": "http://d.apptor.me/MagnetSearch/4.5.5/MagnetSearch-source-v4.5.5-build87_psigned.apk"
+        "Cool": "http://d.apptor.me/MagnetSearch/4.5.6/MagnetSearch-cool-v4.5.6-build88.apk",
+        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.5.6/MagnetSearch-google_play-v4.5.6-build88.apk",
+        "GooglePlayPro": "http://d.apptor.me/MagnetSearch/4.5.6/MagnetSearch-google_play_pro-v4.5.6-build88.apk",
+        "Meizu": "http://d.apptor.me/MagnetSearch/4.5.6/MagnetSearch-meizu-v4.5.6-build88.apk",
+        "source": "http://d.apptor.me/MagnetSearch/4.5.6/MagnetSearch-source-v4.5.6-build88.apk"
     },
-    "updateMessage": "修复因为图标问题，导致Android 7.0系统上崩溃\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
+    "updateMessage": "常规更新搜索源\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
