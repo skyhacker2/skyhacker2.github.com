@@ -1,12 +1,5 @@
 [
     {
-        "title": "小磁力BT",
-        "subtitle": "极简磁力链接搜索工具",
-        "packageName": "io.github.skyhacker2.magnetsearch",
-        "icon": "icons/ic_magnet.png",
-        "url": "http://d.apptor.me/MagnetSearch/4.4.6/MagnetSearch-source-v4.4.6-build78_psigned.apk"
-    },
-    {
         "title": "PDF阅读器",
         "subtitle": "最简洁的PDF阅读器",
         "packageName": "com.eleven.app.pdfreader",
