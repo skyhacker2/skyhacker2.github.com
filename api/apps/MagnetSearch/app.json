@@ -1,13 +1,13 @@
 {
-    "versionCode": 92,
-    "versionName": "4.6.0",
+    "versionCode": 93,
+    "versionName": "4.6.1",
     "channels": {
-        "Cool": "http://d.apptor.me/MagnetSearch/4.6.0/MagnetSearch-cool-v4.6.0-build92_460_jiagu_sign.apk",
-        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.6.0/MagnetSearch-google_play-v4.6.0-build92_460_jiagu_sign.apk",
-        "Meizu": "http://d.apptor.me/MagnetSearch/4.6.0/MagnetSearch-meizu-v4.6.0-build92_460_jiagu_sign.apk",
-        "source": "http://d.apptor.me/MagnetSearch/4.6.0/MagnetSearch-source-v4.6.0-build92_460_jiagu_sign.apk"
+        "Cool": "http://d.apptor.me/MagnetSearch/4.6.1/MagnetSearch-cool-v4.6.1-build93_461_jiagu_sign.apk",
+        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.6.1/MagnetSearch-google_play-v4.6.1-build93_461_jiagu_sign.apk",
+        "Meizu": "http://d.apptor.me/MagnetSearch/4.6.1/MagnetSearch-meizu-v4.6.1-build93_461_jiagu_sign.apk",
+        "source": "http://d.apptor.me/MagnetSearch/4.6.1/MagnetSearch-source-v4.6.1-build93_461_jiagu_sign.apk"
     },
-    "updateMessage": "优化程序稳定性。\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
+    "updateMessage": "1. 移除多余的权限申请\n2. 增加2个搜索源\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
