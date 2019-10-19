@@ -27,7 +27,7 @@
         "shuoFengTitle": "极速下载",
         "shuoFengPackageName": "com.keke01.dl.application",
         "shuoFengActivity": "com.keke01.dl.application.kk.MagnetActivity",
-        "showXunLei": "true",
+        "showXunLei": "false",
         "xunLeiUrl": "https://mobile.xunlei.com",
         "useDabaicai": "true",
         "pinnedAd": "true",
