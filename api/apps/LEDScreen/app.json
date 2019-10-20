@@ -1,17 +1,17 @@
 {
-    "versionCode": 44,
-    "versionName": "4.4.5",
+    "versionCode": 45,
+    "versionName": "4.4.6",
     "channels": {
-        "cookapk": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-cookapk-v4.4.5-build44.apk",
-        "GooglePlay": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-google_play-v4.4.5-build44.apk",
-        "Meizu": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-meizu-v4.4.5-build44.apk",
-        "source": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-source-v4.4.5-build44.apk",
-        "xiaomi": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-xiaomi-v4.4.5-build44.apk",
-        "Yingyongbao": "http://d.apptor.me/LEDScreen/4.4.5/LEDScreen-yingyongbao-v4.4.5-build44.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-cookapk-v4.4.6-build45_2019-10-20_14-58-13_legu_aligned_signed.apk",
+        "GooglePlay": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-google_play-v4.4.6-build45.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-meizu-v4.4.6-build45_2019-10-20_14-58-51_legu_aligned_signed.apk",
+        "source": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-source-v4.4.6-build45_2019-10-20_14-59-05_legu_aligned_signed.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-xiaomi-v4.4.6-build45_2019-10-20_14-59-21_legu_aligned_signed.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-yingyongbao-v4.4.6-build45_2019-10-20_14-59-36_legu_aligned_signed.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "修复点击激活按钮崩溃",
+    "updateMessage": "优化文字滚动，显示高清文字",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
