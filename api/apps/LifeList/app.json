@@ -12,5 +12,8 @@
     },
     "updateMessage": "1. 更新界面\n2. 修复无法备份数据",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
-    "installMode": 0
+    "installMode": 0,
+    "onlineParams": {
+        "DonateCount": 10
+    }
 }
