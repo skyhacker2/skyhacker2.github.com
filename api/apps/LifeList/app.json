@@ -1,16 +1,16 @@
 {
-    "versionCode": 12,
-    "versionName": "2.4",
+    "versionCode": 17,
+    "versionName": "2.5",
     "channels": {
-        "_360": "http://d.apptor.me/ShoppingList-_360-v2.4-build16_legu_signed_zipalign.apk",
-        "GooglePlay": "http://d.apptor.me/ShoppingList-google_play-v2.4-build16_legu_signed_zipalign.apk",
-        "Meizu": "http://d.apptor.me/ShoppingList-meizu-v2.4-build16_legu_signed_zipalign.apk",
-        "source": "http://d.apptor.me/ShoppingList-source-v2.4-build16_legu_signed_zipalign.apk",
-        "Wandoujia": "http://d.apptor.me/ShoppingList-wandoujia-v2.4-build16_legu_signed_zipalign.apk",
-        "Xiaomi": "http://d.apptor.me/ShoppingList-xiaomi-v2.4-build16_legu_signed_zipalign.apk",
-        "Yingyongbao": "http://d.apptor.me/ShoppingList-yingyongbao-v2.4-build16_legu_signed_zipalign.apk"
+        "_360": "http://d.apptor.me/LifeList/2.5/ShoppingList-_360-v2.5-build17_25_jiagu_sign.apk",
+        "GooglePlay": "http://d.apptor.me/LifeList/2.5/ShoppingList-google_play-v2.5-build17_25_jiagu_sign.apk",
+        "Meizu": "http://d.apptor.me/LifeList/2.5/ShoppingList-meizu-v2.5-build17_25_jiagu_sign.apk",
+        "source": "http://d.apptor.me/LifeList/2.5/ShoppingList-source-v2.5-build17_25_jiagu_sign.apk",
+        "Wandoujia": "http://d.apptor.me/LifeList/2.5/ShoppingList-wandoujia-v2.5-build17_25_jiagu_sign.apk",
+        "Xiaomi": "http://d.apptor.me/LifeList/2.5/ShoppingList-xiaomi-v2.5-build17_25_jiagu_sign.apk",
+        "Yingyongbao": "http://d.apptor.me/LifeList/2.5/ShoppingList-yingyongbao-v2.5-build17_25_jiagu_sign.apk"
     },
-    "updateMessage": "1. 更新界面\n2. 修复无法备份数据",
+    "updateMessage": "1. 适配Android 10",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
