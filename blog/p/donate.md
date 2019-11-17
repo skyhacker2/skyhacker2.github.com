@@ -389,10 +389,3 @@
 | 丁志*   | 10元  | 很不错的app，支持独立开发者      | 2015.06.19 |
 | idler | 6元   | 鼓励一下                 | 2015.06.01 |
 | 戴启*   | 1元   | 友情赞助，支持下作者           | 2015.05.21 |
-
-
-> 支付宝账号: skyhacker@126.com
-
-
-<img src="./img/IMG_1764.JPG" width="300px" height="auto"/>
-<img src="./img/IMG_1763.JPG" width="300px" height="auto"/>
