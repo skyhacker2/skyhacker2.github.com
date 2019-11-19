@@ -7,7 +7,7 @@
         "Meizu": "http://d.apptor.me/MagnetSearch/4.6.3/MagnetSearch-meizu-v4.6.3-build95_463_jiagu_sign.apk",
         "source": "http://d.apptor.me/MagnetSearch/4.6.3/MagnetSearch-source-v4.6.3-build95_463_jiagu_sign.apk"
     },
-    "updateMessage": "1. 重新整理搜索源。\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
+    "updateMessage": "1. 重新整理搜索源，修复崩溃问题。\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
