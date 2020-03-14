@@ -1,13 +1,14 @@
 {
-    "versionCode": 100,
-    "versionName": "4.6.8",
+    "versionCode": 101,
+    "versionName": "5.0",
     "channels": {
-        "Cool": "http://d.apptor.me/MagnetSearch/4.6.8/MagnetSearch-cool-v4.6.8-build100_468_jiagu_sign.apk",
-        "GooglePlay": "http://d.apptor.me/MagnetSearch/4.6.8/MagnetSearch-google_play-v4.6.8-build100_468_jiagu_sign.apk",
-        "Meizu": "http://d.apptor.me/MagnetSearch/4.6.8/MagnetSearch-meizu-v4.6.8-build100_468_jiagu_sign.apk",
-        "source": "http://d.apptor.me/MagnetSearch/4.6.8/MagnetSearch-source-v4.6.8-build100_468_jiagu_sign.apk"
+        "apkpure": "http://d.apptor.me/MagnetSearch/5.0/MagnetSearch-apkpure-v5.0-build101_50_jiagu_sign.apk",
+        "Cool": "http://d.apptor.me/MagnetSearch/5.0/MagnetSearch-cool-v5.0-build101_50_jiagu_sign.apk",
+        "GooglePlay": "http://d.apptor.me/MagnetSearch/5.0/MagnetSearch-google_play-v5.0-build101_50_jiagu_sign.apk",
+        "Meizu": "http://d.apptor.me/MagnetSearch/5.0/MagnetSearch-meizu-v5.0-build101_50_jiagu_sign.apk",
+        "source": "http://d.apptor.me/MagnetSearch/5.0/MagnetSearch-source-v5.0-build101_50_jiagu_sign.apk"
     },
-    "updateMessage": "更新搜索源\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
+    "updateMessage": "修复部分失效的搜索源\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 2,
     "onlineParams": {
