@@ -1,6 +1,6 @@
 {
-    "versionCode": 96,
-    "versionName": "4.6.4",
+    "versionCode": 101,
+    "versionName": "5.0",
     "updateMessage": "修复没有智能提示关键词，请通过谷歌商店更新\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 1,
@@ -27,5 +27,8 @@
         "pinnedAd": "true",
         "openAdCloseButton": "true",
         "useSpotAd": "false"
+    },
+    "channels": {
+        "GooglePlayPro": "http://d.apptor.me/MagnetSearchPro/5.0/MagnetSearch-google_play_pro-v5.0-build101_50_jiagu_sign.apk"
     }
 }
