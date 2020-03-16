@@ -19,6 +19,9 @@
 [SendApp](SendApp.md)
 >快速分享App给好友
 
+[小磁力](小磁力BT.md)
+>简洁的磁力链接搜索工具
+
 ## 游戏
 [反转贪吃蛇](./反转贪吃蛇.md)
 > 使用cocos2d-x lua和code ide编写的贪吃蛇小游戏
