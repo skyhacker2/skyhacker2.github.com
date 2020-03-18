@@ -1,7 +1,7 @@
 {
     "versionCode": 101,
     "versionName": "5.0",
-    "updateMessage": "修复没有智能提示关键词，请通过谷歌商店更新\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
+    "updateMessage": "1. 修复部分失效的搜索源。2. 如果没法更新，请在apkpure网站上搜索Little Magnet BT\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 1,
     "onlineParams": {
