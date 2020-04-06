@@ -1,12 +1,12 @@
 {
-    "versionCode": 13,
-    "versionName": "3.0",
+    "versionCode": 14,
+    "versionName": "3.1",
     "channels": {
-        "Cool": "http://d.apptor.me/SendApp/3.0/SendApp-cool-v3.0-build13_psigned.apk",
-        "GooglePlay": "http://d.apptor.me/SendApp/3.0/SendApp-google_play-v3.0-build13_psigned.apk",
-        "Meizu": "http://d.apptor.me/SendApp/3.0/SendApp-meizu-v3.0-build13_psigned.apk",
-        "source": "http://d.apptor.me/SendApp/3.0/SendApp-source-v3.0-build13_psigned.apk",
-        "YingYongBao": "http://d.apptor.me/SendApp/3.0/SendApp-yingyongbao-v3.0-build13_psigned.apk"
+        "Cool": "http://d.apptor.me/SendApp/3.1/SendApp-cool-v3.1-build14.apk",
+        "GooglePlay": "http://d.apptor.me/SendApp/3.1/SendApp-google_play-v3.1-build14.apk",
+        "Meizu": "http://d.apptor.me/SendApp/3.1/SendApp-meizu-v3.1-build14.apk",
+        "source": "http://d.apptor.me/SendApp/3.1/SendApp-source-v3.1-build14.apk",
+        "YingYongBao": "http://d.apptor.me/SendApp/3.1/SendApp-yingyongbao-v3.1-build14.apk"
     },
-    "updateMessage": "1. 用kotlin重写App，学习一下kotlin\n2. 增加排序功能\n3. 偏好设置增加一些选项\n4. 还是改成白色底色比较好看一点"
+    "updateMessage": "1. 修复不显示系统应用时，全选的时候把系统应用选上。\n2. 抽取多个应用时，增加进度显示。"
 }
