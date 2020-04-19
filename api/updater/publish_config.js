@@ -46,7 +46,7 @@ function processApps(root, lists, current, callback) {
 function travelApps(root) {
 
 	console.log("上传图标");
-	child_process.execSync("sh uploadIcon.sh");
+	child_process.execSync("sh ./uploadIcon.sh");
 	console.log("上传图标完成");
 
     var lists = fs.readdirSync(root);
