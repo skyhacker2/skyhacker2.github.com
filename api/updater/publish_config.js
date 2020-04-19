@@ -44,7 +44,7 @@ function processApps(root, lists, current, callback) {
 
 //// 遍历存放所有app的目录
 function travelApps(root) {
-	console.log("path=" + __path)
+	console.log("path=" + __dirname)
 
 	console.log("上传图标");
 	child_process.execSync("sh ./uploadIcon.sh");
