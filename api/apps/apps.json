@@ -4,34 +4,34 @@
         "subtitle": "最简洁的PDF阅读器",
         "packageName": "com.eleven.app.pdfreader",
         "icon": "icons/ic_pdf.png",
-        "url": "http://d.apptor.me/PDFReader-source-v2.9.5-build25_psigned.apk"
+        "url": "http://d.apptor.me/PDFReader/2.9.7/PDFReader-source-v2.9.7-build27.apk"
     },
     {
         "title": "生活清单",
         "subtitle": "让您的清单一目了然",
         "packageName": "com.eleven.app.shoppinglist",
         "icon": "icons/ic_life_list.png",
-        "url": "http://d.apptor.me/ShoppingList-source-v2.4-build16_legu_signed_zipalign.apk"
+        "url": "http://d.apptor.me/LifeList/2.5/ShoppingList-source-v2.5-build17_25_jiagu_sign.apk"
     },
     {
         "title": "LED显示屏",
         "subtitle": "用手机屏幕模拟LED屏幕效果",
         "packageName": "com.eleven.app.ledscreen",
         "icon": "icons/ic_led.png",
-        "url": "http://d.apptor.me/LEDScreen/4.4/LEDScreen-source-v4.4-build39_psigned.apk"
+        "url": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-source-v4.4.6-build45_2019-10-20_14-59-05_legu_aligned_signed.apk"
     },
     {
         "title": "文件闪存",
         "subtitle": "在网页快速下载手机照片",
         "packageName": "app.eleven.com.fastfiletransfer",
         "icon": "icons/ic_fft.png",
-        "url": "http://d.apptor.me/FFT/2.8.2/FastFileTransfer-sourceRelease-2.8.2-build21.apk"
+        "url": "http://d.apptor.me/FFT/2.8.3/FastFileTransfer-sourceRelease-2.8.3-build22.apk"
     },
     {
         "title": "SendApp",
         "subtitle": "发送和抽取已安装的应用",
         "packageName": "io.github.skyhacker2.sendapp",
         "icon": "icons/ic_sendapp.png",
-        "url": "http://d.apptor.me/SendApp/2.0/SendApp-source-v2.0-build12.apk"
+        "url": "http://d.apptor.me/SendApp/3.1/SendApp-source-v3.1-build14.apk"
     }
 ]
