@@ -1,15 +1,15 @@
 {
-    "versionCode": 22,
-    "versionName": "2.8.3",
+    "versionCode": 24,
+    "versionName": "2.8.5",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/2.8.3/FastFileTransfer-coolRelease-2.8.3-build22.apk",
-        "google_play": "http://d.apptor.me/FFT/2.8.3/FastFileTransfer-google_playRelease-2.8.3-build22.apk",
-        "meizu": "http://d.apptor.me/FFT/2.8.3/FastFileTransfer-meizuRelease-2.8.3-build22.apk",
-        "source": "http://d.apptor.me/FFT/2.8.3/FastFileTransfer-sourceRelease-2.8.3-build22.apk",
-        "xiaomi": "http://d.apptor.me/FFT/2.8.3/FastFileTransfer-xiaomiRelease-2.8.3-build22.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/2.8.3/FastFileTransfer-yingyongbaoRelease-2.8.3-build22.apk"
+        "cool": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-coolRelease-2.8.5-build24_285_jiagu_sign.apk",
+        "google_play": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-google_playRelease-2.8.5-build24_285_jiagu_sign.apk",
+        "meizu": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-meizuRelease-2.8.5-build24_285_jiagu_sign.apk",
+        "source": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-sourceRelease-2.8.5-build24_285_jiagu_sign.apk",
+        "xiaomi": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-xiaomiRelease-2.8.5-build24_285_jiagu_sign.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-yingyongbaoRelease-2.8.5-build24_285_jiagu_sign.apk"
     },
-    "updateMessage": "1.修复点开一个文件后无法下载或打开\n2. 修复文件名带有特殊符号会被截断的bug",
+    "updateMessage": "1. 优化全部文件显示，增加列表的显示方式，另外文件的排序方式。",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
