@@ -1,15 +1,16 @@
 {
-    "versionCode": 24,
-    "versionName": "2.8.5",
+    "versionCode": 25,
+    "versionName": "3.0",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-coolRelease-2.8.5-build24_285_jiagu_sign.apk",
-        "google_play": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-google_playRelease-2.8.5-build24_285_jiagu_sign.apk",
-        "meizu": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-meizuRelease-2.8.5-build24_285_jiagu_sign.apk",
-        "source": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-sourceRelease-2.8.5-build24_285_jiagu_sign.apk",
-        "xiaomi": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-xiaomiRelease-2.8.5-build24_285_jiagu_sign.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/2.8.5/FastFileTransfer-yingyongbaoRelease-2.8.5-build24_285_jiagu_sign.apk"
+        "cool": "http://d.apptor.me/FFT/3.0/FastFileTransfer-coolRelease-3.0-build25_30_jiagu_sign.apk",
+        "google_play": "http://d.apptor.me/FFT/3.0/FastFileTransfer-google_playRelease-3.0-build25_30_jiagu_sign.apk",
+        "meizu": "http://d.apptor.me/FFT/3.0/FastFileTransfer-meizuRelease-3.0-build25_30_jiagu_sign.apk",
+        "pro": "http://d.apptor.me/FFT/3.0/FastFileTransfer-proRelease-3.0-build25_30_jiagu_sign.apk",
+        "source": "http://d.apptor.me/FFT/3.0/FastFileTransfer-sourceRelease-3.0-build25_30_jiagu_sign.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.0/FastFileTransfer-xiaomiRelease-3.0-build25_30_jiagu_sign.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.0/FastFileTransfer-yingyongbaoRelease-3.0-build25_30_jiagu_sign.apk"
     },
-    "updateMessage": "1. 优化全部文件显示，增加列表的显示方式，另外文件的排序方式。",
+    "updateMessage": "1. 网页端更新了船新的UI\n2. 网页端适配手机和平板设备\n3. 增加磁贴快速打开\n4. 手机端增加网址二维码显示",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
