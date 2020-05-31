@@ -1,16 +1,15 @@
 {
-    "versionCode": 25,
-    "versionName": "3.0",
+    "versionCode": 26,
+    "versionName": "3.1",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/3.0/FastFileTransfer-coolRelease-3.0-build25_30_jiagu_sign.apk",
-        "google_play": "http://d.apptor.me/FFT/3.0/FastFileTransfer-google_playRelease-3.0-build25_30_jiagu_sign.apk",
-        "meizu": "http://d.apptor.me/FFT/3.0/FastFileTransfer-meizuRelease-3.0-build25_30_jiagu_sign.apk",
-        "pro": "http://d.apptor.me/FFT/3.0/FastFileTransfer-proRelease-3.0-build25_30_jiagu_sign.apk",
-        "source": "http://d.apptor.me/FFT/3.0/FastFileTransfer-sourceRelease-3.0-build25_30_jiagu_sign.apk",
-        "xiaomi": "http://d.apptor.me/FFT/3.0/FastFileTransfer-xiaomiRelease-3.0-build25_30_jiagu_sign.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/3.0/FastFileTransfer-yingyongbaoRelease-3.0-build25_30_jiagu_sign.apk"
+        "cool": "http://d.apptor.me/FFT/3.1/FastFileTransfer-coolRelease-3.1-build26_31_jiagu_sign.apk",
+        "google_play": "http://d.apptor.me/FFT/3.1/FastFileTransfer-google_playRelease-3.1-build26_31_jiagu_sign.apk",
+        "meizu": "http://d.apptor.me/FFT/3.1/FastFileTransfer-meizuRelease-3.1-build26_31_jiagu_sign.apk",
+        "source": "http://d.apptor.me/FFT/3.1/FastFileTransfer-sourceRelease-3.1-build26_31_jiagu_sign.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.1/FastFileTransfer-xiaomiRelease-3.1-build26_31_jiagu_sign.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.1/FastFileTransfer-yingyongbaoRelease-3.1-build26_31_jiagu_sign.apk"
     },
-    "updateMessage": "1. 网页端更新了船新的UI\n2. 网页端适配手机和平板设备\n3. 增加磁贴快速打开\n4. 手机端增加网址二维码显示",
+    "updateMessage": "1. 端口号输入限制2000-9999\n2. 优化手机上的二维码显示变成正方形\n3. 修复二维码的图标遮挡问题\n4. 修复安装了某些浏览器插件后，导致无法拖拽上传\n5. 修复音乐列表的tabbar显示错误\n6. 修复Android 8系统的浏览器显示不了文件列表或名称显示错位\n7. 拖拽上传支持同时拖拽文件和文件夹\n8. 移除开屏广告\n9. 增加新建文件夹的功能（高级版提供）",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
