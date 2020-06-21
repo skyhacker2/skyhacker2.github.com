@@ -8,7 +8,7 @@
         "Meizu": "http://d.apptor.me/MagnetSearch/5.3/MagnetSearch-meizu-v5.3-build104_53_jiagu_sign.apk",
         "source": "http://d.apptor.me/MagnetSearch/5.3/MagnetSearch-source-v5.3-build104_53_jiagu_sign.apk"
     },
-    "updateMessage": "1. 修复部分失效的搜索源。2. 如果没法更新，请在apkpure网站上搜索Little Magnet BT\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
+    "updateMessage": "1. 修复部分失效的搜索源。2. 如果没法更新，请在apkpure网站上搜索小磁力\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
