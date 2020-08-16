@@ -2,7 +2,7 @@
 
 ![小磁力144](img/小磁力144.png)
 
-<a class="download-btn" href="http://d.apptor.me/MagnetSearch/5.2/MagnetSearch-source-v5.2-build103_52_jiagu_sign.apk"></i>下载</a>
+<a class="download-btn" href="http://d.apptor.me/MagnetSearch/5.4/MagnetSearch-source-v5.4-build105_54_jiagu_sign.apk"></i>下载</a>
 
 磁力链接搜索Android客户端
 
