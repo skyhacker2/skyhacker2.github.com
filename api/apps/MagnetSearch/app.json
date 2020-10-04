@@ -1,12 +1,12 @@
 {
-    "versionCode": 106,
-    "versionName": "5.5",
+    "versionCode": 107,
+    "versionName": "5.6",
     "channels": {
-        "apkpure": "http://d.apptor.me/MagnetSearch/5.5/MagnetSearch-apkpure-v5.5-build106_55_jiagu_sign.apk",
-        "Cool": "http://d.apptor.me/MagnetSearch/5.5/MagnetSearch-cool-v5.5-build106_55_jiagu_sign.apk",
-        "GooglePlay": "http://d.apptor.me/MagnetSearch/5.5/MagnetSearch-google_play-v5.5-build106_55_jiagu_sign.apk",
-        "Meizu": "http://d.apptor.me/MagnetSearch/5.5/MagnetSearch-meizu-v5.5-build106_55_jiagu_sign.apk",
-        "source": "http://d.apptor.me/MagnetSearch/5.5/MagnetSearch-source-v5.5-build106_55_jiagu_sign.apk"
+        "apkpure": "http://d.apptor.me/MagnetSearch/5.6/MagnetSearch-apkpure-v5.6-build107_56_jiagu_sign.apk",
+        "Cool": "http://d.apptor.me/MagnetSearch/5.6/MagnetSearch-cool-v5.6-build107_56_jiagu_sign.apk",
+        "GooglePlay": "http://d.apptor.me/MagnetSearch/5.6/MagnetSearch-google_play-v5.6-build107_56_jiagu_sign.apk",
+        "Meizu": "http://d.apptor.me/MagnetSearch/5.6/MagnetSearch-meizu-v5.6-build107_56_jiagu_sign.apk",
+        "source": "http://d.apptor.me/MagnetSearch/5.6/MagnetSearch-source-v5.6-build107_56_jiagu_sign.apk"
     },
     "updateMessage": "1. 修复部分失效的搜索源。2. 如果没法更新，请在apkpure网站上搜索小磁力\n\n声明：小磁力BT不是恶意软件\n谢谢大家的支持!",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
