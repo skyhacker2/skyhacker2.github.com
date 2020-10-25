@@ -1,15 +1,15 @@
 {
-    "versionCode": 27,
-    "versionName": "3.2",
+    "versionCode": 28,
+    "versionName": "3.3",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/3.2/FastFileTransfer-coolRelease-3.2-build27_32_jiagu_sign.apk",
-        "google_play": "http://d.apptor.me/FFT/3.2/FastFileTransfer-google_playRelease-3.2-build27_32_jiagu_sign.apk",
-        "meizu": "http://d.apptor.me/FFT/3.2/FastFileTransfer-meizuRelease-3.2-build27_32_jiagu_sign.apk",
-        "source": "http://d.apptor.me/FFT/3.2/FastFileTransfer-sourceRelease-3.2-build27_32_jiagu_sign.apk",
-        "xiaomi": "http://d.apptor.me/FFT/3.2/FastFileTransfer-xiaomiRelease-3.2-build27_32_jiagu_sign.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/3.2/FastFileTransfer-yingyongbaoRelease-3.2-build27_32_jiagu_sign.apk"
+        "cool": "http://d.apptor.me/FFT/3.3/FastFileTransfer-coolRelease-3.3-build28_33_jiagu_sign.apk",
+        "google_play": "http://d.apptor.me/FFT/3.3/FastFileTransfer-google_playRelease-3.3-build28_33_jiagu_sign.apk",
+        "meizu": "http://d.apptor.me/FFT/3.3/FastFileTransfer-meizuRelease-3.3-build28_33_jiagu_sign.apk",
+        "source": "http://d.apptor.me/FFT/3.3/FastFileTransfer-sourceRelease-3.3-build28_33_jiagu_sign.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.3/FastFileTransfer-xiaomiRelease-3.3-build28_33_jiagu_sign.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.3/FastFileTransfer-yingyongbaoRelease-3.3-build28_33_jiagu_sign.apk"
     },
-    "updateMessage": "1. 修复Firefox无法拖拽上传。\n2. 修复Chrome浏览器拖拽上传功能与某些插件冲突。\n3. 修复网络改变后App显示的ip地址没有改变。\n4. 修复多选照片无法下载。",
+    "updateMessage": "1. 新增文档、压缩包和安装包的分类\n2. 增加搜索文件的功能",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
