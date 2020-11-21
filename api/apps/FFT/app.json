@@ -1,12 +1,13 @@
 {
-    "versionCode": 0,
-    "versionName": "5.7",
+    "versionCode": 30,
+    "versionName": "3.5",
     "channels": {
-        "apkpure": "http://d.apptor.me/FFT/5.7/MagnetSearch-apkpure-v5.7-build108_57_jiagu_sign.apk",
-        "Cool": "http://d.apptor.me/FFT/5.7/MagnetSearch-cool-v5.7-build108_57_jiagu_sign.apk",
-        "GooglePlay": "http://d.apptor.me/FFT/5.7/MagnetSearch-google_play-v5.7-build108_57_jiagu_sign.apk",
-        "Meizu": "http://d.apptor.me/FFT/5.7/MagnetSearch-meizu-v5.7-build108_57_jiagu_sign.apk",
-        "source": "http://d.apptor.me/FFT/5.7/MagnetSearch-source-v5.7-build108_57_jiagu_sign.apk"
+        "cool": "http://d.apptor.me/FFT/3.5/FastFileTransfer-coolRelease-3.5-build30_35_jiagu_sign.apk",
+        "google_play": "http://d.apptor.me/FFT/3.5/FastFileTransfer-google_playRelease-3.5-build30_35_jiagu_sign.apk",
+        "meizu": "http://d.apptor.me/FFT/3.5/FastFileTransfer-meizuRelease-3.5-build30_35_jiagu_sign.apk",
+        "source": "http://d.apptor.me/FFT/3.5/FastFileTransfer-sourceRelease-3.5-build30_35_jiagu_sign.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.5/FastFileTransfer-xiaomiRelease-3.5-build30_35_jiagu_sign.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.5/FastFileTransfer-yingyongbaoRelease-3.5-build30_35_jiagu_sign.apk"
     },
     "updateMessage": "【新增&优化】\n1. 新增搜索支持文件夹。\n2.新增适配Android 11。\n3. 优化按钮样式。\n4. 优化没有存储权限时的提示。\n【修复】\n1. 修复选择大文件下载时，文件大小不正确。\n2. 修复打开热点时，IP地址地址不正确。\n3. 修复全部照片全选后，点击某一个照片反选时，右上角的checkbox没有反选。",
     "onlineParams": {
