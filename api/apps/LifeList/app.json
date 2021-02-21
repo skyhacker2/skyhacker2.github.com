@@ -1,16 +1,16 @@
 {
-    "versionCode": 17,
-    "versionName": "2.5",
+    "versionCode": 18,
+    "versionName": "2.6",
     "channels": {
-        "_360": "http://d.apptor.me/LifeList/2.5/ShoppingList-_360-v2.5-build17_25_jiagu_sign.apk",
-        "GooglePlay": "http://d.apptor.me/LifeList/2.5/ShoppingList-google_play-v2.5-build17_25_jiagu_sign.apk",
-        "Meizu": "http://d.apptor.me/LifeList/2.5/ShoppingList-meizu-v2.5-build17_25_jiagu_sign.apk",
-        "source": "http://d.apptor.me/LifeList/2.5/ShoppingList-source-v2.5-build17_25_jiagu_sign.apk",
-        "Wandoujia": "http://d.apptor.me/LifeList/2.5/ShoppingList-wandoujia-v2.5-build17_25_jiagu_sign.apk",
-        "Xiaomi": "http://d.apptor.me/LifeList/2.5/ShoppingList-xiaomi-v2.5-build17_25_jiagu_sign.apk",
-        "Yingyongbao": "http://d.apptor.me/LifeList/2.5/ShoppingList-yingyongbao-v2.5-build17_25_jiagu_sign.apk"
+        "_360": "http://d.apptor.me/LifeList/2.6/ShoppingList-_360Release-2.6-build18.apk",
+        "GooglePlay": "http://d.apptor.me/LifeList/2.6/ShoppingList-google_playRelease-2.6-build18.apk",
+        "Meizu": "http://d.apptor.me/LifeList/2.6/ShoppingList-meizuRelease-2.6-build18.apk",
+        "source": "http://d.apptor.me/LifeList/2.6/ShoppingList-sourceRelease-2.6-build18.apk",
+        "Wandoujia": "http://d.apptor.me/LifeList/2.6/ShoppingList-wandoujiaRelease-2.6-build18.apk",
+        "Xiaomi": "http://d.apptor.me/LifeList/2.6/ShoppingList-xiaomiRelease-2.6-build18.apk",
+        "Yingyongbao": "http://d.apptor.me/LifeList/2.6/ShoppingList-yingyongbaoRelease-2.6-build18.apk"
     },
-    "updateMessage": "1. 适配Android 10",
+    "updateMessage": "1. 适配Android 11",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
