@@ -1,15 +1,15 @@
 {
-    "versionCode": 30,
-    "versionName": "3.5",
+    "versionCode": 35,
+    "versionName": "3.6",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/3.5/FastFileTransfer-coolRelease-3.5-build30_35_jiagu_sign.apk",
-        "google_play": "http://d.apptor.me/FFT/3.5/FastFileTransfer-google_playRelease-3.5-build30_35_jiagu_sign.apk",
-        "meizu": "http://d.apptor.me/FFT/3.5/FastFileTransfer-meizuRelease-3.5-build30_35_jiagu_sign.apk",
-        "source": "http://d.apptor.me/FFT/3.5/FastFileTransfer-sourceRelease-3.5-build30_35_jiagu_sign.apk",
-        "xiaomi": "http://d.apptor.me/FFT/3.5/FastFileTransfer-xiaomiRelease-3.5-build30_35_jiagu_sign.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/3.5/FastFileTransfer-yingyongbaoRelease-3.5-build30_35_jiagu_sign.apk"
+        "cool": "http://d.apptor.me/FFT/3.6/FastFileTransfer-coolRelease-3.6-build35.apk",
+        "google_play": "http://d.apptor.me/FFT/3.6/FastFileTransfer-google_playRelease-3.6-build35.apk",
+        "meizu": "http://d.apptor.me/FFT/3.6/FastFileTransfer-meizuRelease-3.6-build35.apk",
+        "source": "http://d.apptor.me/FFT/3.6/FastFileTransfer-sourceRelease-3.6-build35.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.6/FastFileTransfer-xiaomiRelease-3.6-build35.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.6/FastFileTransfer-yingyongbaoRelease-3.6-build35.apk"
     },
-    "updateMessage": "【新增&优化】\n1. 新增搜索支持文件夹。\n2.新增适配Android 11。\n3. 优化按钮样式。\n4. 优化没有存储权限时的提示。\n【修复】\n1. 修复选择大文件下载时，文件大小不正确。\n2. 修复打开热点时，IP地址地址不正确。\n3. 修复全部照片全选后，点击某一个照片反选时，右上角的checkbox没有反选。",
+    "updateMessage": "【优化】\n1. 优化多选下载速度，比原来速度提高10倍。\n2. 优化打包下载后的文件修改日期跟手机上保持一致。\n3. 优化多选下载时，如果文件名字重复，自动增加为(1)，(2)等。",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
