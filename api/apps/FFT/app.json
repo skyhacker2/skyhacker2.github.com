@@ -1,15 +1,15 @@
 {
-    "versionCode": 35,
-    "versionName": "3.6",
+    "versionCode": 36,
+    "versionName": "3.6.1",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/3.6/FastFileTransfer-coolRelease-3.6-build35.apk",
-        "google_play": "http://d.apptor.me/FFT/3.6/FastFileTransfer-google_playRelease-3.6-build35.apk",
-        "meizu": "http://d.apptor.me/FFT/3.6/FastFileTransfer-meizuRelease-3.6-build35.apk",
-        "source": "http://d.apptor.me/FFT/3.6/FastFileTransfer-sourceRelease-3.6-build35.apk",
-        "xiaomi": "http://d.apptor.me/FFT/3.6/FastFileTransfer-xiaomiRelease-3.6-build35.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/3.6/FastFileTransfer-yingyongbaoRelease-3.6-build35.apk"
+        "cool": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-coolRelease-3.6.1-build36.apk",
+        "google_play": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-google_playRelease-3.6.1-build36.apk",
+        "meizu": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-meizuRelease-3.6.1-build36.apk",
+        "source": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-sourceRelease-3.6.1-build36.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-xiaomiRelease-3.6.1-build36.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-yingyongbaoRelease-3.6.1-build36.apk"
     },
-    "updateMessage": "【优化】\n1. 优化多选下载速度，比原来速度提高10倍。\n2. 优化打包下载后的文件修改日期跟手机上保持一致。\n3. 优化多选下载时，如果文件名字重复，自动增加为(1)，(2)等。",
+    "updateMessage": "1. 修复照片和视频列表的显示速度过慢",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
