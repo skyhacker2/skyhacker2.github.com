@@ -11,21 +11,21 @@
         "subtitle": "让您的清单一目了然",
         "packageName": "com.eleven.app.shoppinglist",
         "icon": "icons/ic_life_list.png",
-        "url": "http://d.apptor.me/LifeList/2.5/ShoppingList-source-v2.5-build17_25_jiagu_sign.apk"
+        "url": "http://d.apptor.me/LifeList/2.6/ShoppingList-sourceRelease-2.6-build18.apk"
     },
     {
         "title": "LED显示屏",
         "subtitle": "用手机屏幕模拟LED屏幕效果",
         "packageName": "com.eleven.app.ledscreen",
         "icon": "icons/ic_led.png",
-        "url": "http://d.apptor.me/LEDScreen/4.4.6/LEDScreen-source-v4.4.6-build45_2019-10-20_14-59-05_legu_aligned_signed.apk"
+        "url": "http://d.apptor.me/LEDScreen/4.5.1/LEDScreen-source-v4.5.1-build51_451_jiagu_sign.apk"
     },
     {
         "title": "文件闪存",
         "subtitle": "在网页快速下载手机照片",
         "packageName": "app.eleven.com.fastfiletransfer",
         "icon": "icons/ic_fft.png",
-        "url": "http://d.apptor.me/FFT/3.1/FastFileTransfer-sourceRelease-3.1-build26_31_jiagu_sign.apk"
+        "url": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-sourceRelease-3.6.1-build36.apk"
     },
     {
         "title": "SendApp",
