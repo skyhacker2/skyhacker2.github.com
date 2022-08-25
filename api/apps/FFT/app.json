@@ -1,15 +1,15 @@
 {
-    "versionCode": 36,
-    "versionName": "3.6.1",
+    "versionCode": 38,
+    "versionName": "3.6.3",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-coolRelease-3.6.1-build36.apk",
-        "google_play": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-google_playRelease-3.6.1-build36.apk",
-        "meizu": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-meizuRelease-3.6.1-build36.apk",
-        "source": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-sourceRelease-3.6.1-build36.apk",
-        "xiaomi": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-xiaomiRelease-3.6.1-build36.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/3.6.1/FastFileTransfer-yingyongbaoRelease-3.6.1-build36.apk"
+        "cool": "http://d.apptor.me/FFT/3.6.3/FastFileTransfer-coolRelease-3.6.3-build38.apk",
+        "google_play": "http://d.apptor.me/FFT/3.6.3/FastFileTransfer-google_playRelease-3.6.3-build38.apk",
+        "meizu": "http://d.apptor.me/FFT/3.6.3/FastFileTransfer-meizuRelease-3.6.3-build38.apk",
+        "source": "http://d.apptor.me/FFT/3.6.3/FastFileTransfer-sourceRelease-3.6.3-build38.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.6.3/FastFileTransfer-xiaomiRelease-3.6.3-build38.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.6.3/FastFileTransfer-yingyongbaoRelease-3.6.3-build38.apk"
     },
-    "updateMessage": "1. 修复照片和视频列表的显示速度过慢",
+    "updateMessage": "1. 增加打开文件闪传后保持屏幕常亮，防止息屏造成上传或下载被终止\n2. 修复开热点获取的ip地址可能不正确，如果有wifi和热点同时打开，会显示2个ip地址\n3. 优化网页端在不需要滚动条时，隐藏滚动条的显示\n4. 优化网页端显示的照片缩略图清晰度\n5. 修复投屏功能在手机横屏时，没有适应横屏画面大小\n6. 优化投屏时，APP的内存占用",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
