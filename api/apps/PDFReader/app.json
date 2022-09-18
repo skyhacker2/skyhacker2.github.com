@@ -1,14 +1,13 @@
 {
-    "versionCode": 27,
-    "versionName": "2.9.7",
+    "versionCode": 28,
+    "versionName": "2.9.8",
     "channels": {
-        "Yingyongbao": "http://d.apptor.me/PDFReader/2.9.7/PDFReader-Yingyongbao-v2.9.7-build27.apk",
-        "coolapk": "http://d.apptor.me/PDFReader/2.9.7/PDFReader-coolapk-v2.9.7-build27.apk",
-        "GooglePlay": "http://d.apptor.me/PDFReader/2.9.7/PDFReader-google_play-v2.9.7-build27.apk",
-        "huawei": "http://d.apptor.me/PDFReader/2.9.7/PDFReader-huawei-v2.9.7-build27.apk",
-        "source": "http://d.apptor.me/PDFReader/2.9.7/PDFReader-source-v2.9.7-build27.apk"
+        "Yingyongbao": "http://d.apptor.me/PDFReader/2.9.8/PDFReader-Yingyongbao-v2.9.8-build28.apk",
+        "coolapk": "http://d.apptor.me/PDFReader/2.9.8/PDFReader-coolapk-v2.9.8-build28.apk",
+        "huawei": "http://d.apptor.me/PDFReader/2.9.8/PDFReader-huawei-v2.9.8-build28.apk",
+        "source": "http://d.apptor.me/PDFReader/2.9.8/PDFReader-source-v2.9.8-build28.apk"
     },
-    "updateMessage": "1.适配Android 10系统\n2.修复发送文件崩溃",
+    "updateMessage": "1. 增加键盘或激光笔控制上一页，下一页的功能",
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
     "onlineParams": {
