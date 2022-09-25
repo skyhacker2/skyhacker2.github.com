@@ -1,15 +1,15 @@
 {
-    "versionCode": 39,
-    "versionName": "3.6.4",
+    "versionCode": 40,
+    "versionName": "3.6.5",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/3.6.4/FastFileTransfer-coolRelease-3.6.4-build39.apk",
-        "google_play": "http://d.apptor.me/FFT/3.6.4/FastFileTransfer-google_playRelease-3.6.4-build39.apk",
-        "meizu": "http://d.apptor.me/FFT/3.6.4/FastFileTransfer-meizuRelease-3.6.4-build39.apk",
-        "source": "http://d.apptor.me/FFT/3.6.4/FastFileTransfer-sourceRelease-3.6.4-build39.apk",
-        "xiaomi": "http://d.apptor.me/FFT/3.6.4/FastFileTransfer-xiaomiRelease-3.6.4-build39.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/3.6.4/FastFileTransfer-yingyongbaoRelease-3.6.4-build39.apk"
+        "cool": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-coolRelease-3.6.5-build40.apk",
+        "google_play": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-google_playRelease-3.6.5-build40.apk",
+        "meizu": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-meizuRelease-3.6.5-build40.apk",
+        "source": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-sourceRelease-3.6.5-build40.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-xiaomiRelease-3.6.5-build40.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-yingyongbaoRelease-3.6.5-build40.apk"
     },
-    "updateMessage": "1. 修复ip地址获取不准\n2.修复点击ip地址没有复制",
+    "updateMessage": "1. 修复没有打开wifi时打开热点，显示的ip是0.0.0.0",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
