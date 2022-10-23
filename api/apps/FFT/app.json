@@ -1,13 +1,13 @@
 {
-    "versionCode": 40,
-    "versionName": "3.6.5",
+    "versionCode": 41,
+    "versionName": "3.6.6",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-coolRelease-3.6.5-build40.apk",
-        "google_play": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-google_playRelease-3.6.5-build40.apk",
-        "meizu": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-meizuRelease-3.6.5-build40.apk",
-        "source": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-sourceRelease-3.6.5-build40.apk",
-        "xiaomi": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-xiaomiRelease-3.6.5-build40.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/3.6.5/FastFileTransfer-yingyongbaoRelease-3.6.5-build40.apk"
+        "cool": "http://d.apptor.me/FFT/3.6.6/FastFileTransfer-coolRelease-3.6.6-build41.apk",
+        "google_play": "http://d.apptor.me/FFT/3.6.6/FastFileTransfer-google_playRelease-3.6.6-build41.apk",
+        "meizu": "http://d.apptor.me/FFT/3.6.6/FastFileTransfer-meizuRelease-3.6.6-build41.apk",
+        "source": "http://d.apptor.me/FFT/3.6.6/FastFileTransfer-sourceRelease-3.6.6-build41.apk",
+        "xiaomi": "http://d.apptor.me/FFT/3.6.6/FastFileTransfer-xiaomiRelease-3.6.6-build41.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/3.6.6/FastFileTransfer-yingyongbaoRelease-3.6.6-build41.apk"
     },
     "updateMessage": "1. 修复没有打开wifi时打开热点，显示的ip是0.0.0.0",
     "onlineParams": {
