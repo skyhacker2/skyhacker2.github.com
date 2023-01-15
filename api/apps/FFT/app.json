@@ -1,15 +1,15 @@
 {
-    "versionCode": 44,
-    "versionName": "4.0.1",
+    "versionCode": 45,
+    "versionName": "4.0.2",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.0.1/FastFileTransfer-coolRelease-4.0.1-build44.apk",
-        "google_play": "http://d.apptor.me/FFT/4.0.1/FastFileTransfer-google_playRelease-4.0.1-build44.apk",
-        "meizu": "http://d.apptor.me/FFT/4.0.1/FastFileTransfer-meizuRelease-4.0.1-build44.apk",
-        "source": "http://d.apptor.me/FFT/4.0.1/FastFileTransfer-sourceRelease-4.0.1-build44.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.0.1/FastFileTransfer-xiaomiRelease-4.0.1-build44.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/4.0.1/FastFileTransfer-yingyongbaoRelease-4.0.1-build44.apk"
+        "cool": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-coolRelease-4.0.2-build45.apk",
+        "google_play": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-google_playRelease-4.0.2-build45.apk",
+        "meizu": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-meizuRelease-4.0.2-build45.apk",
+        "source": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-sourceRelease-4.0.2-build45.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-xiaomiRelease-4.0.2-build45.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-yingyongbaoRelease-4.0.2-build45.apk"
     },
-    "updateMessage": "1. 修复一些手机开热点显示0.0.0.0的问题",
+    "updateMessage": "1. 这次真的修好了ip显示0.0.0.0的问题。",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
