@@ -1,15 +1,15 @@
 {
-    "versionCode": 45,
-    "versionName": "4.0.2",
+    "versionCode": 47,
+    "versionName": "4.0.5",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-coolRelease-4.0.2-build45.apk",
-        "google_play": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-google_playRelease-4.0.2-build45.apk",
-        "meizu": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-meizuRelease-4.0.2-build45.apk",
-        "source": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-sourceRelease-4.0.2-build45.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-xiaomiRelease-4.0.2-build45.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/4.0.2/FastFileTransfer-yingyongbaoRelease-4.0.2-build45.apk"
+        "cool": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-coolRelease-4.0.5-build47.apk",
+        "google_play": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-google_playRelease-4.0.5-build47.apk",
+        "meizu": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-meizuRelease-4.0.5-build47.apk",
+        "source": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-sourceRelease-4.0.5-build47.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-xiaomiRelease-4.0.5-build47.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-yingyongbaoRelease-4.0.5-build47.apk"
     },
-    "updateMessage": "1. 这次真的修好了ip显示0.0.0.0的问题。",
+    "updateMessage": "1. 适配Android 11和12上读取外置TF卡功能\n2. 修复WIFI名称一直显示unknown ssid问题",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
