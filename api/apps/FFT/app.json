@@ -1,15 +1,15 @@
 {
-    "versionCode": 47,
-    "versionName": "4.0.5",
+    "versionCode": 48,
+    "versionName": "4.0.6",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-coolRelease-4.0.5-build47.apk",
-        "google_play": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-google_playRelease-4.0.5-build47.apk",
-        "meizu": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-meizuRelease-4.0.5-build47.apk",
-        "source": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-sourceRelease-4.0.5-build47.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-xiaomiRelease-4.0.5-build47.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/4.0.5/FastFileTransfer-yingyongbaoRelease-4.0.5-build47.apk"
+        "cool": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-coolRelease-4.0.6-build48.apk",
+        "google_play": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-google_playRelease-4.0.6-build48.apk",
+        "meizu": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-meizuRelease-4.0.6-build48.apk",
+        "source": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-sourceRelease-4.0.6-build48.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-xiaomiRelease-4.0.6-build48.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-yingyongbaoRelease-4.0.6-build48.apk"
     },
-    "updateMessage": "1. 适配Android 11和12上读取外置TF卡功能\n2. 修复WIFI名称一直显示unknown ssid问题",
+    "updateMessage": "1. 照片和视频增加按日期选择\n2.由于系统的限制，去掉剪切板同步功能，改为类似聊天发送的形式\n3.优化上传文件的速度\n4.收到文件界面增加删除记录的功能",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
