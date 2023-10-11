@@ -1,15 +1,14 @@
 {
-    "versionCode": 47,
-    "versionName": "4.0.6",
+    "versionCode": 49,
+    "versionName": "4.0.7",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-coolRelease-4.0.6-build48.apk",
-        "google_play": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-google_playRelease-4.0.6-build48.apk",
-        "meizu": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-meizuRelease-4.0.6-build48.apk",
-        "source": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-sourceRelease-4.0.6-build48.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-xiaomiRelease-4.0.6-build48.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/4.0.6/FastFileTransfer-yingyongbaoRelease-4.0.6-build48.apk"
+        "google_play": "http://d.apptor.me/FFT/4.0.7/FastFileTransfer-google_playRelease-4.0.7-build49.apk",
+        "meizu": "http://d.apptor.me/FFT/4.0.7/FastFileTransfer-meizuRelease-4.0.7-build49.apk",
+        "source": "http://d.apptor.me/FFT/4.0.7/FastFileTransfer-sourceRelease-4.0.7-build49.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.0.7/FastFileTransfer-xiaomiRelease-4.0.7-build49.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/4.0.7/FastFileTransfer-yingyongbaoRelease-4.0.7-build49.apk"
     },
-    "updateMessage": "1. 照片和视频增加按日期选择\n2.由于系统的限制，去掉剪切板同步功能，改为类似聊天发送的形式\n3.优化上传文件的速度\n4.收到文件界面增加删除记录的功能",
+    "updateMessage": "1.修复Android 9和以下系统运行崩溃\n2. 照片和视频增加按日期选择\n3.由于系统的限制，去掉剪切板同步功能，改为类似聊天发送的形式\n4.优化上传文件的速度\n5.收到文件界面增加删除记录的功能",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
