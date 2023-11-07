@@ -1,14 +1,14 @@
 {
-    "versionCode": 50,
-    "versionName": "4.0.8",
+    "versionCode": 53,
+    "versionName": "4.1.1",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.0.8/FastFileTransfer-coolRelease-4.0.8-build50.apk",
-        "meizu": "http://d.apptor.me/FFT/4.0.8/FastFileTransfer-meizuRelease-4.0.8-build50.apk",
-        "source": "http://d.apptor.me/FFT/4.0.8/FastFileTransfer-sourceRelease-4.0.8-build50.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.0.8/FastFileTransfer-xiaomiRelease-4.0.8-build50.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/4.0.8/FastFileTransfer-yingyongbaoRelease-4.0.8-build50.apk"
+        "cool": "http://d.apptor.me/FFT/4.1.1/FastFileTransfer-coolRelease-4.1.1-build53.apk",
+        "meizu": "http://d.apptor.me/FFT/4.1.1/FastFileTransfer-meizuRelease-4.1.1-build53.apk",
+        "source": "http://d.apptor.me/FFT/4.1.1/FastFileTransfer-sourceRelease-4.1.1-build53.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.1.1/FastFileTransfer-xiaomiRelease-4.1.1-build53.apk",
+        "yingyongbao": "http://d.apptor.me/FFT/4.1.1/FastFileTransfer-yingyongbaoRelease-4.1.1-build53.apk"
     },
-    "updateMessage": "1. 文本消息增加【删除全部】和【多选删除】功能\n2. 增加一个剪切板同步开关",
+    "updateMessage": "1. 更新统计SDK版本，保护隐私",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
