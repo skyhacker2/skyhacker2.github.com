@@ -1,16 +1,19 @@
 {
-    "versionCode": 51,
-    "versionName": "4.5.1",
+    "versionCode": 63,
+    "versionName": "4.6.5",
     "channels": {
-        "GooglePlay": "http://d.apptor.me/LEDScreen/4.5.1/LEDScreen-google_play-v4.5.1-build51_451_jiagu_sign.apk",
-        "Meizu": "http://d.apptor.me/LEDScreen/4.5.1/LEDScreen-meizu-v4.5.1-build51_451_jiagu_sign.apk",
-        "source": "http://d.apptor.me/LEDScreen/4.5.1/LEDScreen-source-v4.5.1-build51_451_jiagu_sign.apk",
-        "xiaomi": "http://d.apptor.me/LEDScreen/4.5.1/LEDScreen-xiaomi-v4.5.1-build51_451_jiagu_sign.apk",
-        "Yingyongbao": "http://d.apptor.me/LEDScreen/4.5.1/LEDScreen-yingyongbao-v4.5.1-build51_451_jiagu_sign.apk"
+        "cookapk": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-cookapk-v4.6.5-build63.apk",
+        "huawei": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-huawei-v4.6.5-build63.apk",
+        "Meizu": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-meizu-v4.6.5-build63.apk",
+        "oppo": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-oppo-v4.6.5-build63.apk",
+        "source": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-source-v4.6.5-build63.apk",
+        "vivo": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-vivo-v4.6.5-build63.apk",
+        "xiaomi": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-xiaomi-v4.6.5-build63.apk",
+        "Yingyongbao": "http://d.apptor.me/LEDScreen/4.6.5/LEDScreen-yingyongbao-v4.6.5-build63.apk"
     },
     "comment": "installMode,更新模式: 0-app内下载更新，1-商店下载，2-浏览器打开",
     "installMode": 0,
-    "updateMessage": "优化文字滚动，显示高清文字",
+    "updateMessage": "1. 修复挖孔屏不能全屏显示",
     "onlineParams": {
         "showPay": "false",
         "price": "5.00",
