@@ -16,6 +16,11 @@
         "showSpotAd": "true",
         "showBannerAd": "false",
         "showOpenScreenAd": "true",
-        "payEnable": "true"
+        "payEnable": "true",
+        "channelsParmas": {
+            "vivo": {
+                "payEnable": "false"
+            }
+        }
     }
 }
