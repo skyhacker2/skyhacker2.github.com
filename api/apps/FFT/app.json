@@ -17,10 +17,6 @@
         "showBannerAd": "false",
         "showOpenScreenAd": "true",
         "payEnable": "true",
-        "channelsParmas": {
-            "vivo": {
-                "payEnable": "false"
-            }
-        }
+        "vivoPayEnable": "false"
     }
 }
