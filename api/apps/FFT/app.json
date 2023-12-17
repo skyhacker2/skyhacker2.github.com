@@ -17,6 +17,6 @@
         "showBannerAd": "false",
         "showOpenScreenAd": "true",
         "payEnable": "true",
-        "vivoPayEnable": "false"
+        "vivo_payEnable": "false"
     }
 }
