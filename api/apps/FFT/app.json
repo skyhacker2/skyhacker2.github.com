@@ -1,15 +1,12 @@
 {
-    "versionCode": 57,
-    "versionName": "4.1.5",
+    "versionCode": 58,
+    "versionName": "4.1.6",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-coolRelease-4.1.5-build57.apk",
-        "huawei": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-huaweiRelease-4.1.5-build57.apk",
-        "meizu": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-meizuRelease-4.1.5-build57.apk",
-        "oppo": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-oppoRelease-4.1.5-build57.apk",
-        "source": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-sourceRelease-4.1.5-build57.apk",
-        "vivo": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-vivoRelease-4.1.5-build57.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-xiaomiRelease-4.1.5-build57.apk",
-        "yingyongbao": "http://d.apptor.me/FFT/4.1.5/FastFileTransfer-yingyongbaoRelease-4.1.5-build57.apk"
+        "cool": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-coolRelease-4.1.6-build58.apk",
+        "oppo": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-oppoRelease-4.1.6-build58.apk",
+        "source": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-sourceRelease-4.1.6-build58.apk",
+        "vivo": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-vivoRelease-4.1.6-build58.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-xiaomiRelease-4.1.6-build58.apk"
     },
     "updateMessage": "1. 新增下载手机已安装的APP",
     "onlineParams": {
