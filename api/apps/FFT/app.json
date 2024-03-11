@@ -1,12 +1,12 @@
 {
-    "versionCode": 58,
-    "versionName": "4.1.6",
+    "versionCode": 59,
+    "versionName": "4.1.7",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-coolRelease-4.1.6-build58.apk",
-        "oppo": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-oppoRelease-4.1.6-build58.apk",
-        "source": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-sourceRelease-4.1.6-build58.apk",
-        "vivo": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-vivoRelease-4.1.6-build58.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.1.6/FastFileTransfer-xiaomiRelease-4.1.6-build58.apk"
+        "cool": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-coolRelease-4.1.7-build59.apk",
+        "oppo": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-oppoRelease-4.1.7-build59.apk",
+        "source": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-sourceRelease-4.1.7-build59.apk",
+        "vivo": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-vivoRelease-4.1.7-build59.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-xiaomiRelease-4.1.7-build59.apk"
     },
     "updateMessage": "1. 新增下载手机已安装的APP",
     "onlineParams": {
