@@ -8,7 +8,7 @@
         "vivo": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-vivoRelease-4.1.7-build59.apk",
         "xiaomi": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-xiaomiRelease-4.1.7-build59.apk"
     },
-    "updateMessage": "1. 新增下载手机已安装的APP",
+    "updateMessage": "1. 网页端支持HEIC照片的预览\n2. 修复大文件夹出现下载中断\n3.优化下载速度，特别是下载很多照片的情况\n4.编译的TargetSdkVersion升级到33",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
