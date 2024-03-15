@@ -1,14 +1,14 @@
 {
-    "versionCode": 59,
-    "versionName": "4.1.7",
+    "versionCode": 60,
+    "versionName": "4.1.8",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-coolRelease-4.1.7-build59.apk",
-        "oppo": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-oppoRelease-4.1.7-build59.apk",
-        "source": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-sourceRelease-4.1.7-build59.apk",
-        "vivo": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-vivoRelease-4.1.7-build59.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.1.7/FastFileTransfer-xiaomiRelease-4.1.7-build59.apk"
+        "cool": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-coolRelease-4.1.8-build60.apk",
+        "oppo": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-oppoRelease-4.1.8-build60.apk",
+        "source": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-sourceRelease-4.1.8-build60.apk",
+        "vivo": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-vivoRelease-4.1.8-build60.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-xiaomiRelease-4.1.8-build60.apk"
     },
-    "updateMessage": "1. 网页端支持HEIC照片的预览\n2. 修复大文件夹出现下载中断\n3.优化下载速度，特别是下载很多照片的情况\n4.编译的TargetSdkVersion升级到33",
+    "updateMessage": "1. 修复在Android 14上选择发送其他应用崩溃\n2. 修复在Android10和鸿蒙3.0.0上不显示照片列表\n3. 修复无法通过快键方式启动",
     "onlineParams": {
         "showSpotAd": "true",
         "showBannerAd": "false",
