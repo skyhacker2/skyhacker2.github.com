@@ -2,11 +2,11 @@
     "versionCode": 60,
     "versionName": "4.1.8",
     "channels": {
-        "cool": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-coolRelease-4.1.8-build60.apk",
-        "oppo": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-oppoRelease-4.1.8-build60.apk",
-        "source": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-sourceRelease-4.1.8-build60.apk",
-        "vivo": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-vivoRelease-4.1.8-build60.apk",
-        "xiaomi": "http://d.apptor.me/FFT/4.1.8/FastFileTransfer-xiaomiRelease-4.1.8-build60.apk"
+        "cool": "http://d.apptor.me/FFT/4.1.9/FastFileTransfer-coolRelease-4.1.9-build62.apk",
+        "oppo": "http://d.apptor.me/FFT/4.1.9/FastFileTransfer-oppoRelease-4.1.9-build62.apk",
+        "source": "http://d.apptor.me/FFT/4.1.9/FastFileTransfer-sourceRelease-4.1.9-build62.apk",
+        "vivo": "http://d.apptor.me/FFT/4.1.9/FastFileTransfer-vivoRelease-4.1.9-build62.apk",
+        "xiaomi": "http://d.apptor.me/FFT/4.1.9/FastFileTransfer-xiaomiRelease-4.1.9-build62.apk"
     },
     "updateMessage": "1. 修复在Android 14上选择发送其他应用崩溃\n2. 修复在Android10和鸿蒙3.0.0上不显示照片列表\n3. 修复无法通过快键方式启动",
     "onlineParams": {
