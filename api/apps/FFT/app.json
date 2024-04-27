@@ -1,15 +1,15 @@
 {
   "versionCode": 64,
-  "versionName": "4.2.1",
+  "versionName": "4.2.2",
   "channels": {
-    "cool": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-coolRelease-4.2.1-build64.apk",
-    "honor": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-honorRelease-4.2.1-build64.apk",
-    "huawei": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-huaweiRelease-4.2.1-build64.apk",
-    "oppo": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-oppoRelease-4.2.1-build64.apk",
-    "source": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-sourceRelease-4.2.1-build64.apk",
-    "vivo": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-vivoRelease-4.2.1-build64.apk",
-    "xiaomi": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-xiaomiRelease-4.2.1-build64.apk",
-    "yingyongbao": "http://d.apptor.me/FFT/4.2.1/FastFileTransfer-yingyongbaoRelease-4.2.1-build64.apk"
+    "cool": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-coolRelease-4.2.2-build65.apk",
+    "honor": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-honorRelease-4.2.2-build65.apk",
+    "huawei": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-huaweiRelease-4.2.2-build65.apk",
+    "oppo": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-oppoRelease-4.2.2-build65.apk",
+    "source": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-sourceRelease-4.2.2-build65.apk",
+    "vivo": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-vivoRelease-4.2.2-build65.apk",
+    "xiaomi": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-xiaomiRelease-4.2.2-build65.apk",
+    "yingyongbao": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-yingyongbaoRelease-4.2.2-build65.apk"
   },
   "updateMessage": "1. 支持把文件分享到文件闪传然后在网页下载\n2. 支持按月份和年份分组显示照片视频\n3. 其他细节优化和BUG修复",
   "onlineParams": {
