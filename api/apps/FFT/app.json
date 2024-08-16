@@ -1,17 +1,10 @@
 {
-  "versionCode": 0,
-  "versionName": "4.2.2",
+  "versionCode": 72,
+  "versionName": "5.0.1-beta",
   "channels": {
-    "cool": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-coolRelease-4.2.2-build65.apk",
-    "honor": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-honorRelease-4.2.2-build65.apk",
-    "huawei": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-huaweiRelease-4.2.2-build65.apk",
-    "oppo": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-oppoRelease-4.2.2-build65.apk",
-    "source": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-sourceRelease-4.2.2-build65.apk",
-    "vivo": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-vivoRelease-4.2.2-build65.apk",
-    "xiaomi": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-xiaomiRelease-4.2.2-build65.apk",
-    "yingyongbao": "http://d.apptor.me/FFT/4.2.2/FastFileTransfer-yingyongbaoRelease-4.2.2-build65.apk"
+    "beta": "http://d.apptor.me/FFT/5.0.1-beta/FastFileTransfer-betaRelease-5.0.1-beta-build72.apk"
   },
-  "updateMessage": "1. 支持把文件分享到文件闪传然后在网页下载\n2. 支持按月份和年份分组显示照片视频\n3. 其他细节优化和BUG修复",
+  "updateMessage": "1. 修复外置 SD 卡文件上传问题 \n2. 优化文本消息的显示 \n3. 修复创建文件夹时，中文输入按 Enter 误触发创建动作",
   "onlineParams": {
     "showSpotAd": "true",
     "showBannerAd": "false",
