@@ -1,6 +1,6 @@
 {
   "versionCode": 0,
-  "versionName": "5.0.1-beta",
+  "versionName": "5.0.2-beta",
   "channels": {
     "beta": "http://d.apptor.me/FFT/5.0.1-beta/FastFileTransfer-betaRelease-5.0.1-beta-build72.apk"
   },
@@ -11,5 +11,11 @@
     "showOpenScreenAd": "true",
     "payEnable": "true",
     "vivo_payEnable": "false"
-  }
+  },
+  "channels2": {
+    "beta": "http://d.apptor.me/FFT/5.0.2-beta/FastFileTransfer-betaRelease-5.0.2-beta-build73.apk"
+  },
+  "versionCode2": 73,
+  "versionName2": "5.0.2-beta",
+  "updateMessage2": "Test"
 }
