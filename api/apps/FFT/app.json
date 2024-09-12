@@ -13,9 +13,10 @@
     "vivo_payEnable": "false"
   },
   "channels2": {
-    "beta": "http://d.apptor.me/FFT/5.0.2-beta/FastFileTransfer-betaRelease-5.0.2-beta-build73.apk"
+    "beta": "http://d.apptor.me/FFT/5.0.4/FastFileTransfer-betaRelease-5.0.4-build75.apk",
+    "cool": "http://d.apptor.me/FFT/5.0.4/FastFileTransfer-coolRelease-5.0.4-build75.apk"
   },
-  "versionCode2": 73,
-  "versionName2": "5.0.2-beta",
-  "updateMessage2": "Test"
+  "versionCode2": 75,
+  "versionName2": "5.0.4",
+  "updateMessage2": "优化网页界面"
 }

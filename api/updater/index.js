@@ -126,7 +126,7 @@ function uploadApks(remoteFolder, appName, apksDir, apkNames, current, config, c
     callback();
     return 0;
   }
-  console.log("appName=" + appName + "version=" + config.versionName);
+  console.log("appName=" + appName + "version=" + config.versionName2);
   var apkName = apkNames[current];
   if (apkName.endsWith("apk")) {
     var apkPath = path.join(apksDir, apkName);
@@ -186,7 +186,7 @@ function processApps(root, lists, current, callback) {
       // console.log(config);
       var apkNames = fs.readdirSync(apksDir);
       // 在服务器上建立文件夹
-      var remoteFolder = appDir + "/" + config.versionName + "/";
+      var remoteFolder = appDir + "/" + config.versionName2 + "/";
       console.log("create remote folder: " + remoteFolder);
       child_process.execSync("ssh -p 27322 root@67.230.179.46 " + "'mkdir -p /var/www/apks/" + remoteFolder + "'");
       uploadApks(remoteFolder, appDir, apksDir, apkNames, 0, config, function () {
