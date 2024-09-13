@@ -13,10 +13,18 @@
     "vivo_payEnable": "false"
   },
   "channels2": {
-    "beta": "http://d.apptor.me/FFT/5.0.4/FastFileTransfer-betaRelease-5.0.4-build75.apk",
-    "cool": "http://d.apptor.me/FFT/5.0.4/FastFileTransfer-coolRelease-5.0.4-build75.apk"
+    "beta": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-betaRelease-5.0.5-build76.apk",
+    "cool": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-coolRelease-5.0.5-build76.apk",
+    "honor": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-honorRelease-5.0.5-build76.apk",
+    "huawei": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-huaweiRelease-5.0.5-build76.apk",
+    "oppo": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-oppoRelease-5.0.5-build76.apk",
+    "overseas": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-overseasRelease-5.0.5-build76.apk",
+    "source": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-sourceRelease-5.0.5-build76.apk",
+    "vivo": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-vivoRelease-5.0.5-build76.apk",
+    "xiaomi": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-xiaomiRelease-5.0.5-build76.apk",
+    "yingyongbao": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-yingyongbaoRelease-5.0.5-build76.apk"
   },
-  "versionCode2": 75,
-  "versionName2": "5.0.4",
-  "updateMessage2": "优化网页界面"
+  "versionCode2": 76,
+  "versionName2": "5.0.5",
+  "updateMessage2": "1. 修复在相册上传照片不在相册里\n2. 音乐界面恢复显示艺术家和时长\n3. 修复一部分系统允许应用后台运行部生效\n4. 其他细微问题修复"
 }
