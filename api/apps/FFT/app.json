@@ -13,18 +13,18 @@
     "vivo_payEnable": "false"
   },
   "channels2": {
-    "beta": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-betaRelease-5.0.5-build76.apk",
-    "cool": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-coolRelease-5.0.5-build76.apk",
-    "honor": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-honorRelease-5.0.5-build76.apk",
-    "huawei": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-huaweiRelease-5.0.5-build76.apk",
-    "oppo": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-oppoRelease-5.0.5-build76.apk",
-    "overseas": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-overseasRelease-5.0.5-build76.apk",
-    "source": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-sourceRelease-5.0.5-build76.apk",
-    "vivo": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-vivoRelease-5.0.5-build76.apk",
-    "xiaomi": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-xiaomiRelease-5.0.5-build76.apk",
-    "yingyongbao": "http://d.apptor.me/FFT/5.0.5/FastFileTransfer-yingyongbaoRelease-5.0.5-build76.apk"
+    "beta": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-sourceRelease-5.0.6-build77.apk",
+    "cool": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-coolRelease-5.0.6-build77.apk",
+    "honor": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-honorRelease-5.0.6-build77.apk",
+    "huawei": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-huaweiRelease-5.0.6-build77.apk",
+    "oppo": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-oppoRelease-5.0.6-build77.apk",
+    "overseas": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-overseasRelease-5.0.6-build77.apk",
+    "source": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-sourceRelease-5.0.6-build77.apk",
+    "vivo": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-vivoRelease-5.0.6-build77.apk",
+    "xiaomi": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-xiaomiRelease-5.0.6-build77.apk",
+    "yingyongbao": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-yingyongbaoRelease-5.0.6-build77.apk"
   },
-  "versionCode2": 76,
-  "versionName2": "5.0.5",
-  "updateMessage2": "1. 修复在相册上传照片不在相册里\n2. 音乐界面恢复显示艺术家和时长\n3. 修复一部分系统允许应用后台运行部生效\n4. 其他细微问题修复"
+  "versionCode2": 77,
+  "versionName2": "5.0.6",
+  "updateMessage2": "1. 修复拖拽上传文件夹时，文件夹超过100个文件无法上传的问题\n2. 修复删除照片后，网页上可能还会显示被删除的照片\n3. 优化音乐信息，里把修改时间改为添加时间\n4. 修复一些崩溃问题"
 }
