@@ -13,18 +13,18 @@
     "vivo_payEnable": "false"
   },
   "channels2": {
-    "beta": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-sourceRelease-5.0.6-build77.apk",
-    "cool": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-coolRelease-5.0.6-build77.apk",
-    "honor": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-honorRelease-5.0.6-build77.apk",
-    "huawei": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-huaweiRelease-5.0.6-build77.apk",
-    "oppo": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-oppoRelease-5.0.6-build77.apk",
-    "overseas": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-overseasRelease-5.0.6-build77.apk",
-    "source": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-sourceRelease-5.0.6-build77.apk",
-    "vivo": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-vivoRelease-5.0.6-build77.apk",
-    "xiaomi": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-xiaomiRelease-5.0.6-build77.apk",
-    "yingyongbao": "http://d.apptor.me/FFT/5.0.6/FastFileTransfer-yingyongbaoRelease-5.0.6-build77.apk"
+    "beta": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-sourceRelease-5.0.8-build79.apk",
+    "cool": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-coolRelease-5.0.8-build79.apk",
+    "honor": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-honorRelease-5.0.8-build79.apk",
+    "huawei": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-huaweiRelease-5.0.8-build79.apk",
+    "oppo": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-oppoRelease-5.0.8-build79.apk",
+    "source": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-sourceRelease-5.0.8-build79.apk",
+    "vivo": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-vivoRelease-5.0.8-build79.apk",
+    "website": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-websiteRelease-5.0.8-build79.apk",
+    "xiaomi": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-xiaomiRelease-5.0.8-build79.apk",
+    "yingyongbao": "http://d.apptor.me/FFT/5.0.8/FastFileTransfer-yingyongbaoRelease-5.0.8-build79.apk"
   },
-  "versionCode2": 77,
-  "versionName2": "5.0.6",
-  "updateMessage2": "1. 修复拖拽上传文件夹时，文件夹超过100个文件无法上传的问题\n2. 修复删除照片后，网页上可能还会显示被删除的照片\n3. 优化音乐信息，里把修改时间改为添加时间\n4. 修复一些崩溃问题"
+  "versionCode2": 79,
+  "versionName2": "5.0.8",
+  "updateMessage2": "1. 修复安卓10以下系统打开图库可能显示数据请求失败"
 }
